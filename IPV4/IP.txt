@@ -1,0 +1,53 @@
+ip = endereço
+
+quando conectar um uma rede se recebe esse numero
+
+de um servidor dhcp
+
+
+
+identificação logica dados aos computadores conectados na rede.
+
+dentro na mesma rede todos os ips são diferentes.
+
+ipv4 = 32bits
+
+grupo de quatro octetos
+192.168.1.12
+
+ipv6 = 128bits
+
+1100 0000.1010 1000.0000 0001.0000 1100
+
+grupo de oito queatro bytes
+
+ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+
+
+
+classes ip
+    classe A: 1° Número entre 0 e 127
+    classe B: 1° Número entre 128 e 191
+    classe C: 1° Número entre 192 e 223
+    classe D: 1° Número entre 224 e 239
+    classe E: 1° Número entre 240 e 255
+
+
+classes usadas pela internet = {
+
+    classe A
+    classe B
+    classe C
+
+}
+
+todo ip classe 
+
+
+
+uma lista que recebe um lista, está recebendo a referencia da lista, ou seja se modificar um a outra também é modificada
+lista.slice()
+list.concat()
+metodos para copiar o valor da lista para outra lista;
+
+
