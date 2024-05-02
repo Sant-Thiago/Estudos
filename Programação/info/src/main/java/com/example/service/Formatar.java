@@ -33,5 +33,17 @@ public class Formatar {
         return commandBash;
     }
 
+    public String[] commandCommandPrompt(String scriptPath) {
+        
+        String[] commandCommandPrompt = new String[] {
+            "cmd.exe",
+            "/c",
+            scriptPath
+        };
+
+        commands.add(commandCommandPrompt.toString());
+        return commandCommandPrompt;
+    }
+
 
 }
