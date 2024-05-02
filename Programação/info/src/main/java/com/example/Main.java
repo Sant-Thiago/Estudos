@@ -6,6 +6,6 @@ public class Main {
     public static void main(String[] args) {
         Info info = new Info();
 
-        info.getHostname();
+        System.out.println(info.hostname());
     }
 }

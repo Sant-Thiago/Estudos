@@ -19,9 +19,8 @@ public class Info {
 
     private Formatar formatar = new Formatar();
     private Pegar pegar = new Pegar();
-    
 
-    public String getHostname() {
+    public String hostname() {
         try {
 
             String[] command;
@@ -49,7 +48,6 @@ public class Info {
             while ((line = reader.readLine()) != null) {
                 listStrings.add(line);
             }
-            int output = process.waitFor();
 
             BufferedReader erroReader = new BufferedReader(new InputStreamReader(process.getErrorStream()));
 
@@ -57,7 +55,7 @@ public class Info {
                 System.err.println("Saida de erro: "+ line);
             }
 
-            this.hostname = pegar.string(2, listStrings);
+            this.hostname = listStrings.get(2);
 
             return this.hostname;
 
@@ -68,4 +66,16 @@ public class Info {
         return null;
     }
 
+
+    public String username() {
+
+        try {
+            String[] command;
+     
+            if (!isWindows) {
+                String scriptPath = 
+            }
+        }
+
+    }
 }
