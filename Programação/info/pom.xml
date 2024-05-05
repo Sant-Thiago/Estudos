@@ -16,7 +16,12 @@
 
 
     <dependencies>
-    
+
+        <dependency>
+            <groupId>com.github.oshi</groupId>
+            <artifactId>oshi-core</artifactId>
+            <version>6.6.0</version>
+        </dependency>
 
         <dependency>
             <groupId>com.sun.jna</groupId>

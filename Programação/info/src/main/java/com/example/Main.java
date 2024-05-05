@@ -1,11 +1,11 @@
 package com.example;
 
-import com.example.integration.Info;
+import com.example.system.Computer;
 
 public class Main {
     public static void main(String[] args) {
-        Info info = new Info();
+        Computer computer = new Computer();
 
-        System.out.println(info.hostname());
+        computer.getNomeRede();
     }
 }

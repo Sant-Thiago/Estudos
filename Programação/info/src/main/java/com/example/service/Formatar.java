@@ -11,7 +11,7 @@ public class Formatar {
     public String[] commandBash(String scriptPath) {
 
         String[] commandBash = new String[]{
-            "sh ",
+            "sh",
             scriptPath
         };
 
@@ -21,7 +21,7 @@ public class Formatar {
 
     public String[] commandPowershell(String scriptPath) {
 
-        String[] commandBash = new String[] {
+        String[] commandPShell = new String[] {
             "powershell.exe",
             "-ExecutionPolicy",
             "Bypass",
@@ -29,8 +29,8 @@ public class Formatar {
             scriptPath
         };
 
-        commands.add(commandBash.toString());
-        return commandBash;
+        commands.add(commandPShell.toString());
+        return commandPShell;
     }
 
     public String[] commandCommandPrompt(String scriptPath) {
