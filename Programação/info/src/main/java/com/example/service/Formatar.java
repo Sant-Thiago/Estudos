@@ -6,7 +6,7 @@ import java.util.List;
 
 public class Formatar {
 
-    private List<String> commands = new ArrayList<>();
+    private List<String> commandsHistory = new ArrayList<>();
 
     public String[] commandBash(String scriptPath) {
 
@@ -15,7 +15,7 @@ public class Formatar {
             scriptPath
         };
 
-        commands.add(commandBash.toString());
+        commandsHistory.add(commandBash.toString());
         return commandBash;
     }
 
@@ -29,7 +29,7 @@ public class Formatar {
             scriptPath
         };
 
-        commands.add(commandPShell.toString());
+        commandsHistory.add(commandPShell.toString());
         return commandPShell;
     }
 
@@ -41,7 +41,20 @@ public class Formatar {
             scriptPath
         };
 
-        commands.add(commandCommandPrompt.toString());
+        commandsHistory.add(commandCommandPrompt.toString());
+        return commandCommandPrompt;
+    }
+
+    public String[] commandCommandPrompt(String scriptPath, String params) {
+        
+        String[] commandCommandPrompt = new String[] {
+            "cmd.exe",
+            "/c",
+            scriptPath,
+            params+"0/24"
+        };
+
+        commandsHistory.add(commandCommandPrompt.toString());
         return commandCommandPrompt;
     }
 
