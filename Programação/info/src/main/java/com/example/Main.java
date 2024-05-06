@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
         Computer computer = new Computer();
 
-        computer.listarDispositivos("192.168.15.5");
+        System.out.println(computer.getBssidRede());
     }
 }
 
