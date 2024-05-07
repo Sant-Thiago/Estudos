@@ -1,0 +1,20 @@
+lightning-icon: {
+    icon-name:"<package:item>",
+    alternative-text:"<name>",
+    title:"<title>",
+    size:"<size>",
+
+    --sds-c-icon-color-foreground-default: "<color>",
+} 
+
+
+anotações: 
+learning linux bash, 
+networkchuck
+LifeLine-2ADSA
+
+cell: poco f5
+
+aulas de como criar algo com lwc
+
+pesquisar sobre lwc no github
