@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-08T19:59:41.528Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="SvZ6TOwMF_cT4457FHu7" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-08T21:45:13.373Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="wNLFEQcIVur3o5kgmxBo" version="24.3.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2288" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1519" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -95,18 +95,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="b0Zt6GLKjk-ooggkIDRh-0" value="Agenda" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-70" y="280" width="160" height="220" as="geometry">
+          <mxGeometry x="-150" y="240" width="250" height="220" as="geometry">
             <mxRectangle x="130" y="380" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b0Zt6GLKjk-ooggkIDRh-1" value="- nome : Str&#xa;- data : Date&#xa;- corretor : Corretor&#xa;- imovel : imo&#xa;- valor : Double" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="b0Zt6GLKjk-ooggkIDRh-0">
-          <mxGeometry y="26" width="160" height="84" as="geometry" />
+        <mxCell id="b0Zt6GLKjk-ooggkIDRh-1" value="- id : Str&#xa;- data : Date&#xa;- corretor : Corretor&#xa;- imovel : Imovel&#xa;- responsavel : Imobiliaria" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="b0Zt6GLKjk-ooggkIDRh-0">
+          <mxGeometry y="26" width="250" height="84" as="geometry" />
         </mxCell>
         <mxCell id="b0Zt6GLKjk-ooggkIDRh-2" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="b0Zt6GLKjk-ooggkIDRh-0">
-          <mxGeometry y="110" width="160" height="8" as="geometry" />
+          <mxGeometry y="110" width="250" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="b0Zt6GLKjk-ooggkIDRh-3" value="+ desvalorizar(Double) : void&#xa;+ valorizar(Double) : void&#xa;+ danificar(Imovel) : void&#xa;+ concertar(Imovel) : void&#xa;+ receber(Pessoa): void&#xa;+ agendada(): Boolean" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="b0Zt6GLKjk-ooggkIDRh-0">
-          <mxGeometry y="118" width="160" height="102" as="geometry" />
+        <mxCell id="b0Zt6GLKjk-ooggkIDRh-3" value="+ agendar(Corretor, Imovel, Imobiliaria) : void&#xa;+ valorizar(Double) : void&#xa;+ danificar(Imovel) : void&#xa;+ concertar(Imovel) : void&#xa;+ receber(Pessoa): void&#xa;+ agendada(): Boolean" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="b0Zt6GLKjk-ooggkIDRh-0">
+          <mxGeometry y="118" width="250" height="102" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
