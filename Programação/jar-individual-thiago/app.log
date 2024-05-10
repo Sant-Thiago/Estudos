@@ -1,0 +1,12 @@
+[2024-05-05 21:19:56] INFO: Servidor iniciando.
+[2024-05-05 21:19:58] INFO: Servidor iniciado com sucesso.
+[2024-05-05 21:20:11] INFO: Verificando informações de login do usuário.
+[2024-05-05 21:20:11] INFO: Usuário foi encontrado com sucesso.
+[2024-05-05 21:20:12] INFO: Usuário logado com sucesso: usuario1@empresa.com
+[2024-05-05 21:20:37] ERROR: Erro ao iniciar monitoramento: 
+java.util.NoSuchElementException
+	at java.base/java.util.Scanner.throwFor(Scanner.java:937)
+	at java.base/java.util.Scanner.next(Scanner.java:1478)
+	at com.example.Main.iniciarMonitoramento(Main.java:164)
+	at com.example.Main.main(Main.java:128)
+
