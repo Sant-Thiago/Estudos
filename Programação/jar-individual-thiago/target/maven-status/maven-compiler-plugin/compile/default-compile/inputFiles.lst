@@ -1,18 +1,45 @@
-C:\Users\thyth\Documents\Programing\Estudos\Programação\jar-individual-thiago\src\main\java\com\example\system\Computer.java
-C:\Users\thyth\Documents\Programing\Estudos\Programação\jar-individual-thiago\src\main\java\com\example\integration\Userinfo.java
-C:\Users\thyth\Documents\Programing\Estudos\Programação\jar-individual-thiago\src\main\java\com\example\utils\logs\Logger.java
-C:\Users\thyth\Documents\Programing\Estudos\Programação\jar-individual-thiago\src\main\java\com\example\model\Maquina.java
-C:\Users\thyth\Documents\Programing\Estudos\Programação\jar-individual-thiago\src\main\java\com\example\utils\security\Seguranca.java
-C:\Users\thyth\Documents\Programing\Estudos\Programação\jar-individual-thiago\src\main\java\com\example\service\ServicePC.java
-C:\Users\thyth\Documents\Programing\Estudos\Programação\jar-individual-thiago\src\main\java\com\example\utils\database\Config.java
-C:\Users\thyth\Documents\Programing\Estudos\Programação\jar-individual-thiago\src\main\java\com\example\utils\security\Login.java
-C:\Users\thyth\Documents\Programing\Estudos\Programação\jar-individual-thiago\src\main\java\com\example\DAO\UsuarioDAO.java
-C:\Users\thyth\Documents\Programing\Estudos\Programação\jar-individual-thiago\src\main\java\com\example\system\Creator.java
-C:\Users\thyth\Documents\Programing\Estudos\Programação\jar-individual-thiago\src\main\java\com\example\DAO\MaquinaDAO.java
-C:\Users\thyth\Documents\Programing\Estudos\Programação\jar-individual-thiago\src\main\java\com\example\service\Formatar.java
-C:\Users\thyth\Documents\Programing\Estudos\Programação\jar-individual-thiago\src\main\java\com\example\service\ServiceUser.java
-C:\Users\thyth\Documents\Programing\Estudos\Programação\jar-individual-thiago\src\main\java\com\example\Launcher.java
-C:\Users\thyth\Documents\Programing\Estudos\Programação\jar-individual-thiago\src\main\java\com\example\Main.java
-C:\Users\thyth\Documents\Programing\Estudos\Programação\jar-individual-thiago\src\main\java\com\example\model\Rede.java
-C:\Users\thyth\Documents\Programing\Estudos\Programação\jar-individual-thiago\src\main\java\com\example\model\Usuario.java
-C:\Users\thyth\Documents\Programing\Estudos\Programação\jar-individual-thiago\src\main\java\com\example\DAO\RedeDAO.java
+c:\Users\thyth\Documents\SPTech\2° Semestre\Pesquisa e Inovação\ProjetoVisualOps\shared_script\Jar Individuais\jar-individual-thiago\src\main\java\model\Maquina.java
+c:\Users\thyth\Documents\SPTech\2° Semestre\Pesquisa e Inovação\ProjetoVisualOps\shared_script\Jar Individuais\jar-individual-thiago\src\main\java\util\exception\AutenticationException.java
+c:\Users\thyth\Documents\SPTech\2° Semestre\Pesquisa e Inovação\ProjetoVisualOps\shared_script\Jar Individuais\jar-individual-thiago\src\main\java\util\reports\TablePrinter.java
+c:\Users\thyth\Documents\SPTech\2° Semestre\Pesquisa e Inovação\ProjetoVisualOps\shared_script\Jar Individuais\jar-individual-thiago\src\main\java\model\componentes\PlacaMae.java
+c:\Users\thyth\Documents\SPTech\2° Semestre\Pesquisa e Inovação\ProjetoVisualOps\shared_script\Jar Individuais\jar-individual-thiago\src\main\java\app\system\Conversor.java
+c:\Users\thyth\Documents\SPTech\2° Semestre\Pesquisa e Inovação\ProjetoVisualOps\shared_script\Jar Individuais\jar-individual-thiago\src\main\java\dao\Ipv4DAO.java
+c:\Users\thyth\Documents\SPTech\2° Semestre\Pesquisa e Inovação\ProjetoVisualOps\shared_script\Jar Individuais\jar-individual-thiago\src\main\java\util\database\MySQLConnection.java
+c:\Users\thyth\Documents\SPTech\2° Semestre\Pesquisa e Inovação\ProjetoVisualOps\shared_script\Jar Individuais\jar-individual-thiago\src\main\java\model\componentes\Volume.java
+c:\Users\thyth\Documents\SPTech\2° Semestre\Pesquisa e Inovação\ProjetoVisualOps\shared_script\Jar Individuais\jar-individual-thiago\src\main\java\dao\UsuarioDAO.java
+c:\Users\thyth\Documents\SPTech\2° Semestre\Pesquisa e Inovação\ProjetoVisualOps\shared_script\Jar Individuais\jar-individual-thiago\src\main\java\model\Usuario.java
+c:\Users\thyth\Documents\SPTech\2° Semestre\Pesquisa e Inovação\ProjetoVisualOps\shared_script\Jar Individuais\jar-individual-thiago\src\main\java\service\componente\ServiceComponente.java
+c:\Users\thyth\Documents\SPTech\2° Semestre\Pesquisa e Inovação\ProjetoVisualOps\shared_script\Jar Individuais\jar-individual-thiago\src\main\java\model\componentes\HDD.java
+c:\Users\thyth\Documents\SPTech\2° Semestre\Pesquisa e Inovação\ProjetoVisualOps\shared_script\Jar Individuais\jar-individual-thiago\src\main\java\app\integration\ShellIntegration.java
+c:\Users\thyth\Documents\SPTech\2° Semestre\Pesquisa e Inovação\ProjetoVisualOps\shared_script\Jar Individuais\jar-individual-thiago\src\main\java\util\logs\Logger.java
+c:\Users\thyth\Documents\SPTech\2° Semestre\Pesquisa e Inovação\ProjetoVisualOps\shared_script\Jar Individuais\jar-individual-thiago\src\main\java\util\security\Login.java
+c:\Users\thyth\Documents\SPTech\2° Semestre\Pesquisa e Inovação\ProjetoVisualOps\shared_script\Jar Individuais\jar-individual-thiago\src\main\java\util\reports\CreatePDFInfos.java
+c:\Users\thyth\Documents\SPTech\2° Semestre\Pesquisa e Inovação\ProjetoVisualOps\shared_script\Jar Individuais\jar-individual-thiago\src\main\java\service\ServiceUser.java
+c:\Users\thyth\Documents\SPTech\2° Semestre\Pesquisa e Inovação\ProjetoVisualOps\shared_script\Jar Individuais\jar-individual-thiago\src\main\java\dao\alerta\alertaDAO.java
+c:\Users\thyth\Documents\SPTech\2° Semestre\Pesquisa e Inovação\ProjetoVisualOps\shared_script\Jar Individuais\jar-individual-thiago\src\main\java\util\Enum\MensagemSuporte.java
+c:\Users\thyth\Documents\SPTech\2° Semestre\Pesquisa e Inovação\ProjetoVisualOps\shared_script\Jar Individuais\jar-individual-thiago\src\main\java\util\reports\PDFGenerator.java
+c:\Users\thyth\Documents\SPTech\2° Semestre\Pesquisa e Inovação\ProjetoVisualOps\shared_script\Jar Individuais\jar-individual-thiago\src\main\java\app\integration\Computer.java
+c:\Users\thyth\Documents\SPTech\2° Semestre\Pesquisa e Inovação\ProjetoVisualOps\shared_script\Jar Individuais\jar-individual-thiago\src\main\java\app\system\SystemMonitor.java
+c:\Users\thyth\Documents\SPTech\2° Semestre\Pesquisa e Inovação\ProjetoVisualOps\shared_script\Jar Individuais\jar-individual-thiago\src\main\java\Main.java
+c:\Users\thyth\Documents\SPTech\2° Semestre\Pesquisa e Inovação\ProjetoVisualOps\shared_script\Jar Individuais\jar-individual-thiago\src\main\java\service\ServiceRede.java
+c:\Users\thyth\Documents\SPTech\2° Semestre\Pesquisa e Inovação\ProjetoVisualOps\shared_script\Jar Individuais\jar-individual-thiago\src\main\java\dao\componente\ComponenteDAO.java
+c:\Users\thyth\Documents\SPTech\2° Semestre\Pesquisa e Inovação\ProjetoVisualOps\shared_script\Jar Individuais\jar-individual-thiago\src\main\java\model\componentes\Componente.java
+c:\Users\thyth\Documents\SPTech\2° Semestre\Pesquisa e Inovação\ProjetoVisualOps\shared_script\Jar Individuais\jar-individual-thiago\src\main\java\model\componentes\Bateria.java
+c:\Users\thyth\Documents\SPTech\2° Semestre\Pesquisa e Inovação\ProjetoVisualOps\shared_script\Jar Individuais\jar-individual-thiago\src\main\java\model\componentes\SistemaOp.java
+c:\Users\thyth\Documents\SPTech\2° Semestre\Pesquisa e Inovação\ProjetoVisualOps\shared_script\Jar Individuais\jar-individual-thiago\src\main\java\dao\componente\CapturaDAO.java
+c:\Users\thyth\Documents\SPTech\2° Semestre\Pesquisa e Inovação\ProjetoVisualOps\shared_script\Jar Individuais\jar-individual-thiago\src\main\java\model\componentes\CPU.java
+c:\Users\thyth\Documents\SPTech\2° Semestre\Pesquisa e Inovação\ProjetoVisualOps\shared_script\Jar Individuais\jar-individual-thiago\src\main\java\model\componentes\GPU.java
+c:\Users\thyth\Documents\SPTech\2° Semestre\Pesquisa e Inovação\ProjetoVisualOps\shared_script\Jar Individuais\jar-individual-thiago\src\main\java\Launcher.java
+c:\Users\thyth\Documents\SPTech\2° Semestre\Pesquisa e Inovação\ProjetoVisualOps\shared_script\Jar Individuais\jar-individual-thiago\src\main\java\model\componentes\MemoriaRam.java
+c:\Users\thyth\Documents\SPTech\2° Semestre\Pesquisa e Inovação\ProjetoVisualOps\shared_script\Jar Individuais\jar-individual-thiago\src\main\java\util\security\Seguranca.java
+c:\Users\thyth\Documents\SPTech\2° Semestre\Pesquisa e Inovação\ProjetoVisualOps\shared_script\Jar Individuais\jar-individual-thiago\src\main\java\dao\MaquinaDAO.java
+c:\Users\thyth\Documents\SPTech\2° Semestre\Pesquisa e Inovação\ProjetoVisualOps\shared_script\Jar Individuais\jar-individual-thiago\src\main\java\model\componentes\APP.java
+c:\Users\thyth\Documents\SPTech\2° Semestre\Pesquisa e Inovação\ProjetoVisualOps\shared_script\Jar Individuais\jar-individual-thiago\src\main\java\model\componentes\ConexaoUSB.java
+c:\Users\thyth\Documents\SPTech\2° Semestre\Pesquisa e Inovação\ProjetoVisualOps\shared_script\Jar Individuais\jar-individual-thiago\src\main\java\model\Ipv4.java
+c:\Users\thyth\Documents\SPTech\2° Semestre\Pesquisa e Inovação\ProjetoVisualOps\shared_script\Jar Individuais\jar-individual-thiago\src\main\java\service\ServicePC.java
+c:\Users\thyth\Documents\SPTech\2° Semestre\Pesquisa e Inovação\ProjetoVisualOps\shared_script\Jar Individuais\jar-individual-thiago\src\main\java\dao\componente\RegistroAlertasDAO.java
+c:\Users\thyth\Documents\SPTech\2° Semestre\Pesquisa e Inovação\ProjetoVisualOps\shared_script\Jar Individuais\jar-individual-thiago\src\main\java\model\Rede.java
+c:\Users\thyth\Documents\SPTech\2° Semestre\Pesquisa e Inovação\ProjetoVisualOps\shared_script\Jar Individuais\jar-individual-thiago\src\main\java\util\exception\InvalidDataException.java
+c:\Users\thyth\Documents\SPTech\2° Semestre\Pesquisa e Inovação\ProjetoVisualOps\shared_script\Jar Individuais\jar-individual-thiago\src\main\java\util\exception\ExceptionMonitoring.java
+c:\Users\thyth\Documents\SPTech\2° Semestre\Pesquisa e Inovação\ProjetoVisualOps\shared_script\Jar Individuais\jar-individual-thiago\src\main\java\dao\RedeDAO.java
+c:\Users\thyth\Documents\SPTech\2° Semestre\Pesquisa e Inovação\ProjetoVisualOps\shared_script\Jar Individuais\jar-individual-thiago\src\main\java\dao\relacoes\RedeIpv4DAO.java

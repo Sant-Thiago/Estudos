@@ -1,12 +1,2859 @@
-[2024-05-05 21:19:56] INFO: Servidor iniciando.
-[2024-05-05 21:19:58] INFO: Servidor iniciado com sucesso.
-[2024-05-05 21:20:11] INFO: Verificando informações de login do usuário.
-[2024-05-05 21:20:11] INFO: Usuário foi encontrado com sucesso.
-[2024-05-05 21:20:12] INFO: Usuário logado com sucesso: usuario1@empresa.com
-[2024-05-05 21:20:37] ERROR: Erro ao iniciar monitoramento: 
-java.util.NoSuchElementException
-	at java.base/java.util.Scanner.throwFor(Scanner.java:937)
-	at java.base/java.util.Scanner.next(Scanner.java:1478)
-	at com.example.Main.iniciarMonitoramento(Main.java:164)
-	at com.example.Main.main(Main.java:128)
+[2024-05-12 17:58:25] INFO: Servidor iniciando.
+[2024-05-12 17:58:27] INFO: Servidor iniciado com sucesso.
+[2024-05-12 17:58:27] INFO: Chegou aqui.
+[2024-05-12 17:58:35] INFO: Verificando informações de login do usuário.
+[2024-05-12 17:58:36] INFO: Usuário foi encontrado com sucesso.
+[2024-05-12 17:58:37] INFO: Usuário logado com sucesso: usuario1@empresa.com
+[2024-05-12 17:58:37] INFO: Buscando componentes...
+[2024-05-12 17:58:37] INFO: Componente encontrado :
+    |Componente: CPU
+    |Modelo: Intel(R) Core(TM) i5-9300HF CPU @ 2.40GHz
+    |Fabricante: GenuineIntel
+    |ID Componente: 1
 
+[2024-05-12 17:58:37] INFO: Componente encontrado :
+    |Componente: HDD
+    |Modelo: WDC WD10SPZX-24Z10 (Unidades de disco padrão)
+    |Fabricante: N/A
+    |ID Componente: 2
+
+[2024-05-12 17:58:37] INFO: Componente encontrado :
+    |Componente: GPU
+    |Modelo: NVIDIA GeForce GTX 1050
+    |Fabricante: NVIDIA
+    |ID Componente: 3
+
+[2024-05-12 17:58:37] INFO: Componente encontrado :
+    |Componente: MemoriaRam
+    |Modelo: N/A
+    |Fabricante: N/A
+    |ID Componente: 4
+
+[2024-05-12 17:58:37] INFO: Componente encontrado :
+    |Componente: Bateria
+    |Modelo: System Battery
+    |Fabricante: SMP
+    |ID Componente: 5
+
+[2024-05-12 17:58:37] INFO: Componente encontrado :
+    |Componente: APP
+    |Modelo: 7424
+    |Fabricante: 527604
+    |ID Componente: 6
+
+[2024-05-12 17:58:37] INFO: Componente encontrado :
+    |Componente: APP
+    |Modelo: 7424
+    |Fabricante: 1377306
+    |ID Componente: 7
+
+[2024-05-12 17:58:37] INFO: Componente encontrado :
+    |Componente: APP
+    |Modelo: 7424
+    |Fabricante: 395274
+    |ID Componente: 8
+
+[2024-05-12 17:58:37] INFO: Componente encontrado :
+    |Componente: APP
+    |Modelo: 7424
+    |Fabricante: 131202
+    |ID Componente: 9
+
+[2024-05-12 17:58:37] INFO: Componente encontrado :
+    |Componente: APP
+    |Modelo: 16900
+    |Fabricante: 1380200
+    |ID Componente: 10
+
+[2024-05-12 17:58:37] INFO: Componente encontrado :
+    |Componente: APP
+    |Modelo: 7424
+    |Fabricante: 1442796
+    |ID Componente: 11
+
+[2024-05-12 17:58:37] INFO: Componente encontrado :
+    |Componente: APP
+    |Modelo: 12932
+    |Fabricante: 1181896
+    |ID Componente: 12
+
+[2024-05-12 17:58:37] INFO: Componente encontrado :
+    |Componente: APP
+    |Modelo: 26036
+    |Fabricante: 789764
+    |ID Componente: 13
+
+[2024-05-12 17:58:37] INFO: Componente encontrado :
+    |Componente: APP
+    |Modelo: 27720
+    |Fabricante: 920240
+    |ID Componente: 14
+
+[2024-05-12 17:58:37] INFO: Componente encontrado :
+    |Componente: APP
+    |Modelo: 25716
+    |Fabricante: 5179116
+    |ID Componente: 15
+
+[2024-05-12 17:58:37] INFO: Componente encontrado :
+    |Componente: APP
+    |Modelo: 14388
+    |Fabricante: 920526
+    |ID Componente: 16
+
+[2024-05-12 17:58:37] INFO: Componente encontrado :
+    |Componente: APP
+    |Modelo: 5092
+    |Fabricante: 526032
+    |ID Componente: 17
+
+[2024-05-12 17:58:37] INFO: Componente encontrado :
+    |Componente: APP
+    |Modelo: 5092
+    |Fabricante: 5835590
+    |ID Componente: 18
+
+[2024-05-12 17:58:37] INFO: Componente encontrado :
+    |Componente: APP
+    |Modelo: 9172
+    |Fabricante: 4655598
+    |ID Componente: 19
+
+[2024-05-12 17:58:37] INFO: Componente encontrado :
+    |Componente: APP
+    |Modelo: 11636
+    |Fabricante: 3015640
+    |ID Componente: 20
+
+[2024-05-12 17:58:37] INFO: Componente encontrado :
+    |Componente: APP
+    |Modelo: 7424
+    |Fabricante: 265136
+    |ID Componente: 21
+
+[2024-05-12 17:58:37] INFO: Componente encontrado :
+    |Componente: APP
+    |Modelo: 19092
+    |Fabricante: 985260
+    |ID Componente: 22
+
+[2024-05-12 17:58:37] INFO: Componente encontrado :
+    |Componente: APP
+    |Modelo: 15128
+    |Fabricante: 198354
+    |ID Componente: 23
+
+[2024-05-12 17:58:37] INFO: Componente encontrado :
+    |Componente: APP
+    |Modelo: 7424
+    |Fabricante: 1640134
+    |ID Componente: 24
+
+[2024-05-12 17:58:37] INFO: Componente encontrado :
+    |Componente: APP
+    |Modelo: 14144
+    |Fabricante: 788406
+    |ID Componente: 25
+
+[2024-05-12 17:58:37] INFO: Componente encontrado :
+    |Componente: APP
+    |Modelo: 14152
+    |Fabricante: 67154
+    |ID Componente: 26
+
+[2024-05-12 17:58:37] INFO: Componente encontrado :
+    |Componente: APP
+    |Modelo: 14144
+    |Fabricante: 132376
+    |ID Componente: 27
+
+[2024-05-12 17:58:37] INFO: Componente encontrado :
+    |Componente: APP
+    |Modelo: 7424
+    |Fabricante: 66014
+    |ID Componente: 28
+
+[2024-05-12 17:58:37] INFO: Componente encontrado :
+    |Componente: APP
+    |Modelo: 7424
+    |Fabricante: 66004
+    |ID Componente: 29
+
+[2024-05-12 17:58:37] INFO: Componente encontrado :
+    |Componente: APP
+    |Modelo: 7424
+    |Fabricante: 65968
+    |ID Componente: 30
+
+[2024-05-12 17:58:37] INFO: Componente encontrado :
+    |Componente: APP
+    |Modelo: 7424
+    |Fabricante: 65966
+    |ID Componente: 31
+
+[2024-05-12 17:58:37] INFO: Componente encontrado :
+    |Componente: APP
+    |Modelo: 7424
+    |Fabricante: 65964
+    |ID Componente: 32
+
+[2024-05-12 17:58:37] INFO: Componente encontrado :
+    |Componente: APP
+    |Modelo: 7424
+    |Fabricante: 65962
+    |ID Componente: 33
+
+[2024-05-12 17:58:37] INFO: Componente encontrado :
+    |Componente: APP
+    |Modelo: 7276
+    |Fabricante: 66074
+    |ID Componente: 34
+
+[2024-05-12 17:58:37] INFO: Componente encontrado :
+    |Componente: APP
+    |Modelo: 7424
+    |Fabricante: 131206
+    |ID Componente: 35
+
+[2024-05-12 17:58:37] INFO: Componente encontrado :
+    |Componente: SistemaOp
+    |Modelo: Windows
+    |Fabricante: Microsoft
+    |ID Componente: 36
+
+[2024-05-12 17:58:37] INFO: Componente encontrado :
+    |Componente: Volume
+    |Modelo: Disco Fixo Local (C:)
+    |Fabricante: 20384a0b-36ae-45cf-b9d6-746edf252892
+    |ID Componente: 37
+
+[2024-05-12 17:58:37] INFO: Componente encontrado :
+    |Componente: APP
+    |Modelo: 30052
+    |Fabricante: 1313084
+    |ID Componente: 38
+
+[2024-05-12 17:58:37] INFO: Componente encontrado :
+    |Componente: APP
+    |Modelo: 21456
+    |Fabricante: 10685222
+    |ID Componente: 39
+
+[2024-05-12 17:58:37] INFO: Capturando dados da sua CPU.
+[2024-05-12 17:58:37] INFO: Número de CPUs lógicas: 8
+[2024-05-12 17:58:37] INFO: Número de CPUs físicas: 4
+[2024-05-12 17:58:37] INFO: Microarquitetura: Coffee Lake
+[2024-05-12 17:58:37] INFO: Identificador: Intel64 Family 6 Model 158 Stepping 13
+[2024-05-12 17:58:37] INFO: ID da CPU Looca: BFEBFBFF000906ED
+[2024-05-12 17:58:37] INFO: Fabricante: GenuineIntel
+[2024-05-12 17:58:37] INFO: Frequência: 2.4E9
+[2024-05-12 17:58:37] INFO: Número de pacotes físicos: 1
+[2024-05-12 17:58:39] INFO: Uso da CPU: 1.7592014971927634
+[2024-05-12 17:58:39] INFO: Nome da CPU: Intel(R) Core(TM) i5-9300HF CPU @ 2.40GHz
+[2024-05-12 17:58:40] WARNING: Temperatura da CPU não foi capturada com sucesso, será apresentada como 0.00 .
+[2024-05-12 17:58:40] INFO: Dados da CPU capturados com sucesso.
+[2024-05-12 17:58:40] INFO: Capturando dados do seu HDD
+[2024-05-12 17:58:40] INFO: Nome do disco: \\.\PHYSICALDRIVE0
+[2024-05-12 17:58:40] INFO: Serial do disco:      WD-WX82AA085155
+[2024-05-12 17:58:40] INFO: Modelo do disco: WDC WD10SPZX-24Z10 (Unidades de disco padrão)
+[2024-05-12 17:58:40] INFO: Escritas do disco: 2.672515869140625
+[2024-05-12 17:58:40] INFO: Leituras do disco: 3.821237564086914
+[2024-05-12 17:58:40] INFO: Bytes de escritas do disco: 135.1769700050354
+[2024-05-12 17:58:40] INFO: Bytes de leitura do disco: 531.3390893936157
+[2024-05-12 17:58:40] INFO: Tamanho do disco: 931.51
+[2024-05-12 17:58:40] INFO: Tempo de transferência do disco: 73680.05194444445
+[2024-05-12 17:58:40] INFO: Dados do disco gravados.
+[2024-05-12 17:58:40] INFO: Capturando dados da GPU.
+[2024-05-12 17:58:40] INFO: Dados do fabricante da sua GPU capturados com sucesso: NVIDIA
+[2024-05-12 17:58:40] INFO: Dados do ID da sua GPU capturados com sucesso: VideoController1
+[2024-05-12 17:58:40] INFO: O nome da sua GPU foi capturado com sucesso: NVIDIA GeForce GTX 1050
+[2024-05-12 17:58:40] INFO: A VRam da sua GPU foi capturada com sucesso: 3.0
+[2024-05-12 17:58:40] INFO: A Versão da sua GPU foi capturada com sucesso: 27.21.14.5749
+[2024-05-12 17:58:40] WARNING: Temperatura da GPU não foi capturada com sucesso, será apresentada como 0.00 .
+[2024-05-12 17:58:40] INFO: Dados da GPU gravados.
+[2024-05-12 17:58:40] INFO: Capturando dados da sua memória RAM.
+[2024-05-12 17:58:40] INFO: Memória disponível: 999.2890625
+[2024-05-12 17:58:40] INFO: Memória total: 7.922107696533203
+[2024-05-12 17:58:40] INFO: Memória em uso: 6.946239471435547
+[2024-05-12 17:58:40] INFO: Dados da memória RAM capturados com sucesso.
+[2024-05-12 17:58:40] INFO: Capturando dados da sua bateria.
+[2024-05-12 17:58:40] INFO: Amperagem da bateria: -2824.911226440863
+[2024-05-12 17:58:40] INFO: Nome do dispositivo da bateria: L18M3PF1
+[2024-05-12 17:58:40] INFO: Número de série da bateria:  2184
+[2024-05-12 17:58:40] INFO: Química da bateria: LiP
+[2024-05-12 17:58:40] INFO: Nome da bateria: System Battery
+[2024-05-12 17:58:40] INFO: Voltagem da bateria: 10.983
+[2024-05-12 17:58:40] INFO: Capacidade atual da bateria: 16.26953125
+[2024-05-12 17:58:40] INFO: Número de ciclos da bateria: 1104
+[2024-05-12 17:58:40] INFO: Capacidade de design da bateria: 43.9453125
+[2024-05-12 17:58:40] INFO: Unidade de capacidade da bateria: MWH
+[2024-05-12 17:58:40] INFO: Tempo restante da bateria (instantâneo): 1933.0
+[2024-05-12 17:58:40] INFO: Tempo restante estimado da bateria: -1.0
+[2024-05-12 17:58:40] INFO: Taxa de uso de energia da bateria: -31026.0
+[2024-05-12 17:58:40] INFO: Temperatura da bateria: 0.0
+[2024-05-12 17:58:40] INFO: Capacidade máxima da bateria: 34.912109375
+[2024-05-12 17:58:40] INFO: Porcentagem de capacidade restante da bateria: 1.0
+[2024-05-12 17:58:40] INFO: Data de fabricação da bateria: N/A
+[2024-05-12 17:58:40] INFO: Fabricante da bateria: SMP
+[2024-05-12 17:58:41] INFO: Dados da bateria capturados com sucesso: 46.0
+[2024-05-12 17:58:41] INFO: Dados da bateria gravados.
+[2024-05-12 17:58:41] INFO: Capturando dados dos seus Apps.
+[2024-05-12 17:58:41] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:58:41] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:58:41] INFO: ID da janela: 527604
+[2024-05-12 17:58:41] INFO: PID da janela: 7424
+[2024-05-12 17:58:41] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1,height=1]
+[2024-05-12 17:58:41] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 238.968 MB
+
+[2024-05-12 17:58:41] INFO: Uso da ram pela janela: 0.2333671875
+[2024-05-12 17:58:41] INFO: Dados da janela gravados.
+[2024-05-12 17:58:41] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:58:41] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:58:41] INFO: ID da janela: 1377306
+[2024-05-12 17:58:41] INFO: PID da janela: 7424
+[2024-05-12 17:58:41] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1,height=1]
+[2024-05-12 17:58:41] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 238.968 MB
+
+[2024-05-12 17:58:41] INFO: Uso da ram pela janela: 0.2333671875
+[2024-05-12 17:58:41] INFO: Dados da janela gravados.
+[2024-05-12 17:58:41] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:58:41] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:58:41] INFO: ID da janela: 395274
+[2024-05-12 17:58:41] INFO: PID da janela: 7424
+[2024-05-12 17:58:41] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1,height=1]
+[2024-05-12 17:58:41] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 238.968 MB
+
+[2024-05-12 17:58:41] INFO: Uso da ram pela janela: 0.2333671875
+[2024-05-12 17:58:41] INFO: Dados da janela gravados.
+[2024-05-12 17:58:41] INFO: Título da janela: Main.java - jar-individual-thiago - Visual Studio Code
+[2024-05-12 17:58:41] INFO: Comando da janela: C:\Users\thyth\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2024-05-12 17:58:41] INFO: ID da janela: 1181896
+[2024-05-12 17:58:41] INFO: PID da janela: 12932
+[2024-05-12 17:58:41] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=960,y=0,width=960,height=1080]
+[2024-05-12 17:58:41] INFO: A ram utilizada na janela de PID 12932 foi coletada com sucesso, uso de ram: 89.540 MB
+
+[2024-05-12 17:58:41] INFO: Uso da ram pela janela: 0.08744140625
+[2024-05-12 17:58:41] INFO: Dados da janela gravados.
+[2024-05-12 17:58:41] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:58:41] INFO: Comando da janela: C:\Windows\System32\cmd.exe
+[2024-05-12 17:58:41] INFO: ID da janela: 789764
+[2024-05-12 17:58:41] INFO: PID da janela: 26036
+[2024-05-12 17:58:41] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=18,height=18]
+[2024-05-12 17:58:42] INFO: A ram utilizada na janela de PID 26036 foi coletada com sucesso, uso de ram: 4.528 MB
+
+[2024-05-12 17:58:42] INFO: Uso da ram pela janela: 0.004421875
+[2024-05-12 17:58:42] INFO: Dados da janela gravados.
+[2024-05-12 17:58:42] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:58:42] INFO: Comando da janela: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+[2024-05-12 17:58:42] INFO: ID da janela: 920240
+[2024-05-12 17:58:42] INFO: PID da janela: 27720
+[2024-05-12 17:58:42] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=18,height=18]
+[2024-05-12 17:58:42] INFO: A ram utilizada na janela de PID 27720 foi coletada com sucesso, uso de ram: 54.288 MB
+
+[2024-05-12 17:58:42] INFO: Uso da ram pela janela: 0.053015625
+[2024-05-12 17:58:42] INFO: Dados da janela gravados.
+[2024-05-12 17:58:42] INFO: Título da janela: Prompt de comando - powershell.exe  -NoExit -Command "Start-Process java -ArgumentList ('-jar', 'jar-individual-thiago-1.0-SNAPSHOT-jar-with-dependencies.jar') -Verb RunAs"
+[2024-05-12 17:58:42] INFO: Comando da janela: C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.19.11213.0_x64__8wekyb3d8bbwe\WindowsTerminal.exe
+[2024-05-12 17:58:42] INFO: ID da janela: 5179116
+[2024-05-12 17:58:42] INFO: PID da janela: 25716
+[2024-05-12 17:58:42] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-8,y=0,width=976,height=1088]
+[2024-05-12 17:58:42] INFO: A ram utilizada na janela de PID 25716 foi coletada com sucesso, uso de ram: 80.588 MB
+
+[2024-05-12 17:58:42] INFO: Uso da ram pela janela: 0.07869921875
+[2024-05-12 17:58:42] INFO: Dados da janela gravados.
+[2024-05-12 17:58:42] INFO: Título da janela: target
+[2024-05-12 17:58:42] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:58:42] INFO: ID da janela: 1442796
+[2024-05-12 17:58:42] INFO: PID da janela: 7424
+[2024-05-12 17:58:42] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1920,height=1080]
+[2024-05-12 17:58:42] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 238.968 MB
+
+[2024-05-12 17:58:42] INFO: Uso da ram pela janela: 0.2333671875
+[2024-05-12 17:58:42] INFO: Dados da janela gravados.
+[2024-05-12 17:58:42] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:58:42] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:58:42] INFO: ID da janela: 131202
+[2024-05-12 17:58:42] INFO: PID da janela: 7424
+[2024-05-12 17:58:42] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=1078,width=1920,height=60]
+[2024-05-12 17:58:43] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 238.968 MB
+
+[2024-05-12 17:58:43] INFO: Uso da ram pela janela: 0.2333671875
+[2024-05-12 17:58:43] INFO: Dados da janela gravados.
+[2024-05-12 17:58:43] INFO: Título da janela: MySQL Workbench
+[2024-05-12 17:58:43] INFO: Comando da janela: C:\Program Files\MySQL\MySQL Workbench 8.0\MySQLWorkbench.exe
+[2024-05-12 17:58:43] INFO: ID da janela: 3015640
+[2024-05-12 17:58:43] INFO: PID da janela: 11636
+[2024-05-12 17:58:43] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-10,y=-10,width=1940,height=1100]
+[2024-05-12 17:58:43] INFO: A ram utilizada na janela de PID 11636 foi coletada com sucesso, uso de ram: 151.388 MB
+
+[2024-05-12 17:58:43] INFO: Uso da ram pela janela: 0.14783984375
+[2024-05-12 17:58:43] INFO: Dados da janela gravados.
+[2024-05-12 17:58:43] INFO: Título da janela: Gerenciador de Tarefas
+[2024-05-12 17:58:43] INFO: Comando da janela: C:\Windows\System32\Taskmgr.exe
+[2024-05-12 17:58:43] INFO: ID da janela: 920526
+[2024-05-12 17:58:43] INFO: PID da janela: 14388
+[2024-05-12 17:58:43] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=976,height=1088]
+[2024-05-12 17:58:43] INFO: A ram utilizada na janela de PID 14388 foi coletada com sucesso, uso de ram: 112.100 MB
+
+[2024-05-12 17:58:43] INFO: Uso da ram pela janela: 0.10947265625
+[2024-05-12 17:58:43] INFO: Dados da janela gravados.
+[2024-05-12 17:58:43] INFO: Título da janela: Verificar e Trocar Usuário - Opera
+[2024-05-12 17:58:43] INFO: Comando da janela: C:\Users\thyth\AppData\Local\Programs\Opera GX\opera.exe
+[2024-05-12 17:58:43] INFO: ID da janela: 526032
+[2024-05-12 17:58:43] INFO: PID da janela: 5092
+[2024-05-12 17:58:43] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-9,y=-9,width=1938,height=1098]
+[2024-05-12 17:58:43] INFO: A ram utilizada na janela de PID 5092 foi coletada com sucesso, uso de ram: 196.684 MB
+
+[2024-05-12 17:58:43] INFO: Uso da ram pela janela: 0.19207421875
+[2024-05-12 17:58:43] INFO: Dados da janela gravados.
+[2024-05-12 17:58:43] INFO: Título da janela: porhub - Pesquisa Google - Opera
+[2024-05-12 17:58:43] INFO: Comando da janela: C:\Users\thyth\AppData\Local\Programs\Opera GX\opera.exe
+[2024-05-12 17:58:43] INFO: ID da janela: 5835590
+[2024-05-12 17:58:43] INFO: PID da janela: 5092
+[2024-05-12 17:58:43] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-9,y=-9,width=1938,height=1098]
+[2024-05-12 17:58:44] INFO: A ram utilizada na janela de PID 5092 foi coletada com sucesso, uso de ram: 196.684 MB
+
+[2024-05-12 17:58:44] INFO: Uso da ram pela janela: 0.19207421875
+[2024-05-12 17:58:44] INFO: Dados da janela gravados.
+[2024-05-12 17:58:44] INFO: Título da janela:  app.log - Bloco de notas
+[2024-05-12 17:58:44] INFO: Comando da janela: C:\Program Files\WindowsApps\Microsoft.WindowsNotepad_11.2402.22.0_x64__8wekyb3d8bbwe\Notepad\Notepad.exe
+[2024-05-12 17:58:44] INFO: ID da janela: 4655598
+[2024-05-12 17:58:44] INFO: PID da janela: 9172
+[2024-05-12 17:58:44] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=29,y=181,width=856,height=800]
+[2024-05-12 17:58:44] INFO: A ram utilizada na janela de PID 9172 foi coletada com sucesso, uso de ram: 63.884 MB
+
+[2024-05-12 17:58:44] INFO: Uso da ram pela janela: 0.06238671875
+[2024-05-12 17:58:44] INFO: Dados da janela gravados.
+[2024-05-12 17:58:44] INFO: Título da janela: Spotify Free
+[2024-05-12 17:58:44] INFO: Comando da janela: C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.235.663.0_x64__zpdnekdrzrea0\Spotify.exe
+[2024-05-12 17:58:44] INFO: ID da janela: 985260
+[2024-05-12 17:58:44] INFO: PID da janela: 19092
+[2024-05-12 17:58:44] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-9,y=-9,width=1938,height=1098]
+[2024-05-12 17:58:44] INFO: A ram utilizada na janela de PID 19092 foi coletada com sucesso, uso de ram: 83.020 MB
+
+[2024-05-12 17:58:44] INFO: Uso da ram pela janela: 0.08107421875
+[2024-05-12 17:58:44] INFO: Dados da janela gravados.
+[2024-05-12 17:58:44] INFO: Título da janela: Realtek Audio Console
+[2024-05-12 17:58:44] INFO: Comando da janela: C:\Program Files\WindowsApps\realteksemiconductorcorp.realtekaudiocontrol_1.10.216.0_x64__dt26b99r8h8gj\RtkUWP.exe
+[2024-05-12 17:58:44] INFO: ID da janela: 198354
+[2024-05-12 17:58:44] INFO: PID da janela: 15128
+[2024-05-12 17:58:44] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=41,width=1280,height=960]
+[2024-05-12 17:58:44] INFO: A ram utilizada na janela de PID 15128 foi coletada com sucesso, uso de ram: 11.820 MB
+
+[2024-05-12 17:58:44] INFO: Uso da ram pela janela: 0.01154296875
+[2024-05-12 17:58:44] INFO: Dados da janela gravados.
+[2024-05-12 17:58:44] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:58:44] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:58:44] INFO: ID da janela: 1640134
+[2024-05-12 17:58:44] INFO: PID da janela: 7424
+[2024-05-12 17:58:44] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1920,height=1080]
+[2024-05-12 17:58:44] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 238.968 MB
+
+[2024-05-12 17:58:44] INFO: Uso da ram pela janela: 0.2333671875
+[2024-05-12 17:58:44] INFO: Dados da janela gravados.
+[2024-05-12 17:58:44] INFO: Título da janela: Realtek Audio Console
+[2024-05-12 17:58:44] INFO: Comando da janela: C:\Windows\System32\ApplicationFrameHost.exe
+[2024-05-12 17:58:44] INFO: ID da janela: 788406
+[2024-05-12 17:58:44] INFO: PID da janela: 14144
+[2024-05-12 17:58:44] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=50,y=40,width=1298,height=1010]
+[2024-05-12 17:58:45] INFO: A ram utilizada na janela de PID 14144 foi coletada com sucesso, uso de ram: 23.732 MB
+
+[2024-05-12 17:58:45] INFO: Uso da ram pela janela: 0.02317578125
+[2024-05-12 17:58:45] INFO: Dados da janela gravados.
+[2024-05-12 17:58:45] INFO: Título da janela: Configurações
+[2024-05-12 17:58:45] INFO: Comando da janela: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+[2024-05-12 17:58:45] INFO: ID da janela: 67154
+[2024-05-12 17:58:45] INFO: PID da janela: 14152
+[2024-05-12 17:58:45] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=9,width=1920,height=1080]
+[2024-05-12 17:58:45] INFO: A ram utilizada na janela de PID 14152 foi coletada com sucesso, uso de ram: 2.544 MB
+
+[2024-05-12 17:58:45] INFO: Uso da ram pela janela: 0.002484375
+[2024-05-12 17:58:45] INFO: Dados da janela gravados.
+[2024-05-12 17:58:45] INFO: Título da janela: Configurações
+[2024-05-12 17:58:45] INFO: Comando da janela: C:\Windows\System32\ApplicationFrameHost.exe
+[2024-05-12 17:58:45] INFO: ID da janela: 132376
+[2024-05-12 17:58:45] INFO: PID da janela: 14144
+[2024-05-12 17:58:45] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-9,y=-9,width=1938,height=1098]
+[2024-05-12 17:58:45] INFO: A ram utilizada na janela de PID 14144 foi coletada com sucesso, uso de ram: 23.732 MB
+
+[2024-05-12 17:58:45] INFO: Uso da ram pela janela: 0.02317578125
+[2024-05-12 17:58:45] INFO: Dados da janela gravados.
+[2024-05-12 17:58:45] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:58:45] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:58:45] INFO: ID da janela: 66014
+[2024-05-12 17:58:45] INFO: PID da janela: 7424
+[2024-05-12 17:58:45] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=0,height=0]
+[2024-05-12 17:58:45] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 238.968 MB
+
+[2024-05-12 17:58:45] INFO: Uso da ram pela janela: 0.2333671875
+[2024-05-12 17:58:45] INFO: Dados da janela gravados.
+[2024-05-12 17:58:45] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:58:45] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:58:45] INFO: ID da janela: 66004
+[2024-05-12 17:58:45] INFO: PID da janela: 7424
+[2024-05-12 17:58:45] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=19,y=0,width=1901,height=4]
+[2024-05-12 17:58:45] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 238.968 MB
+
+[2024-05-12 17:58:45] INFO: Uso da ram pela janela: 0.2333671875
+[2024-05-12 17:58:45] INFO: Dados da janela gravados.
+[2024-05-12 17:58:45] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:58:45] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:58:45] INFO: ID da janela: 65968
+[2024-05-12 17:58:45] INFO: PID da janela: 7424
+[2024-05-12 17:58:45] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=0,height=0]
+[2024-05-12 17:58:46] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 238.968 MB
+
+[2024-05-12 17:58:46] INFO: Uso da ram pela janela: 0.2333671875
+[2024-05-12 17:58:46] INFO: Dados da janela gravados.
+[2024-05-12 17:58:46] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:58:46] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:58:46] INFO: ID da janela: 65966
+[2024-05-12 17:58:46] INFO: PID da janela: 7424
+[2024-05-12 17:58:46] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=0,height=0]
+[2024-05-12 17:58:46] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 238.968 MB
+
+[2024-05-12 17:58:46] INFO: Uso da ram pela janela: 0.2333671875
+[2024-05-12 17:58:46] INFO: Dados da janela gravados.
+[2024-05-12 17:58:46] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:58:46] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:58:46] INFO: ID da janela: 65964
+[2024-05-12 17:58:46] INFO: PID da janela: 7424
+[2024-05-12 17:58:46] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=0,height=0]
+[2024-05-12 17:58:46] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 238.968 MB
+
+[2024-05-12 17:58:46] INFO: Uso da ram pela janela: 0.2333671875
+[2024-05-12 17:58:46] INFO: Dados da janela gravados.
+[2024-05-12 17:58:46] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:58:46] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:58:46] INFO: ID da janela: 65962
+[2024-05-12 17:58:46] INFO: PID da janela: 7424
+[2024-05-12 17:58:46] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=0,height=0]
+[2024-05-12 17:58:46] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 238.968 MB
+
+[2024-05-12 17:58:46] INFO: Uso da ram pela janela: 0.2333671875
+[2024-05-12 17:58:46] INFO: Dados da janela gravados.
+[2024-05-12 17:58:46] INFO: Título da janela: Experiência de Entrada do Windows
+[2024-05-12 17:58:46] INFO: Comando da janela: C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe
+[2024-05-12 17:58:46] INFO: ID da janela: 66074
+[2024-05-12 17:58:46] INFO: PID da janela: 7276
+[2024-05-12 17:58:46] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1920,height=1080]
+[2024-05-12 17:58:47] INFO: A ram utilizada na janela de PID 7276 foi coletada com sucesso, uso de ram: 59.848 MB
+
+[2024-05-12 17:58:47] INFO: Uso da ram pela janela: 0.0584453125
+[2024-05-12 17:58:47] INFO: Dados da janela gravados.
+[2024-05-12 17:58:47] INFO: Título da janela: Program Manager
+[2024-05-12 17:58:47] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:58:47] INFO: ID da janela: 131206
+[2024-05-12 17:58:47] INFO: PID da janela: 7424
+[2024-05-12 17:58:47] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1920,height=1080]
+[2024-05-12 17:58:47] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 238.968 MB
+
+[2024-05-12 17:58:47] INFO: Uso da ram pela janela: 0.2333671875
+[2024-05-12 17:58:47] INFO: Dados da janela gravados.
+[2024-05-12 17:58:47] INFO: Todas as janelas verificadas.
+[2024-05-12 17:58:47] INFO: Capturando dados do sistema operacional.
+[2024-05-12 17:58:47] INFO: Nome do sistema operacional coletado: Windows
+[2024-05-12 17:58:47] INFO: Nome do fabricante do sistema operacional coletado: Microsoft
+[2024-05-12 17:58:47] INFO: Arquitetura do sistema operacional coletada: 64
+[2024-05-12 17:58:47] INFO: A inicialização do sistema operacional coletada: 64
+[2024-05-12 17:58:47] INFO: O tempo de atividade do sistema operacional foi coletada: 287522
+[2024-05-12 17:58:47] INFO: A permisão do sistema operacional foi coletada: 287522
+[2024-05-12 17:58:47] INFO: Capturando dados dos volumes lógicos.
+[2024-05-12 17:58:47] INFO: Nome do volume lógico capturado: Disco Fixo Local (C:)
+[2024-05-12 17:58:47] INFO: Nome do volume capturado: \\?\Volume{20384a0b-36ae-45cf-b9d6-746edf252892}\
+[2024-05-12 17:58:47] INFO: Espaço disponível no volume lógico capturado : 719.6190872192383
+[2024-05-12 17:58:47] INFO: Espaço total do volume lógico capturado com sucesso: 930.2656211853027
+[2024-05-12 17:58:47] INFO: Tipo do volume lógico capturado: NTFS
+[2024-05-12 17:58:47] INFO: UUID do volume lógico capturado: 20384a0b-36ae-45cf-b9d6-746edf252892
+[2024-05-12 17:58:47] INFO: Ponto de montagem do volume lógico capturado: C:\
+[2024-05-12 17:58:47] INFO: Dados do volume lógico gravados.
+[2024-05-12 17:58:47] INFO: Todos os volumes lógicos verificados.
+[2024-05-12 17:58:47] INFO: Sua máquina contém componentes registrados
+[2024-05-12 17:58:47] INFO: Capturando os componentes:
+
+[2024-05-12 17:58:47] INFO: Capturando dados da sua CPU.
+[2024-05-12 17:58:47] INFO: Número de CPUs lógicas: 8
+[2024-05-12 17:58:47] INFO: Número de CPUs físicas: 4
+[2024-05-12 17:58:47] INFO: Microarquitetura: Coffee Lake
+[2024-05-12 17:58:47] INFO: Identificador: Intel64 Family 6 Model 158 Stepping 13
+[2024-05-12 17:58:47] INFO: ID da CPU Looca: BFEBFBFF000906ED
+[2024-05-12 17:58:47] INFO: Fabricante: GenuineIntel
+[2024-05-12 17:58:47] INFO: Frequência: 2.4E9
+[2024-05-12 17:58:47] INFO: Número de pacotes físicos: 1
+[2024-05-12 17:58:47] INFO: Uso da CPU: 1.7592014971927634
+[2024-05-12 17:58:47] INFO: Nome da CPU: Intel(R) Core(TM) i5-9300HF CPU @ 2.40GHz
+[2024-05-12 17:58:47] WARNING: Temperatura da CPU não foi capturada com sucesso, será apresentada como 0.00 .
+[2024-05-12 17:58:47] INFO: Dados da CPU capturados com sucesso.
+[2024-05-12 17:58:47] INFO: 
+Inserindo captura de dados no banco de dados:
+    |Componente: CPU
+    |Dado capturado: 0,00
+    |Unidade de medida: °C
+    |Data hora captura: 2024-05-12T17:58:47.725371300
+    |Id componente: 1
+
+[2024-05-12 17:58:47] INFO: Capturando dados do seu HDD
+[2024-05-12 17:58:47] INFO: Nome do disco: \\.\PHYSICALDRIVE0
+[2024-05-12 17:58:47] INFO: Serial do disco:      WD-WX82AA085155
+[2024-05-12 17:58:47] INFO: Modelo do disco: WDC WD10SPZX-24Z10 (Unidades de disco padrão)
+[2024-05-12 17:58:47] INFO: Escritas do disco: 2.672597885131836
+[2024-05-12 17:58:47] INFO: Leituras do disco: 3.8212947845458984
+[2024-05-12 17:58:47] INFO: Bytes de escritas do disco: 135.17857217788696
+[2024-05-12 17:58:47] INFO: Bytes de leitura do disco: 531.3407144546509
+[2024-05-12 17:58:47] INFO: Tamanho do disco: 931.51
+[2024-05-12 17:58:47] INFO: Tempo de transferência do disco: 73680.38333333333
+[2024-05-12 17:58:47] INFO: Dados do disco gravados.
+[2024-05-12 17:58:47] INFO: 
+Inserindo captura de dados no banco de dados:
+    |Componente: HDD
+    |Dado capturado: 931,51
+    |Unidade de medida: GB
+    |Data hora captura: 2024-05-12T17:58:47.877594100
+    |Id componente: 2
+
+[2024-05-12 17:58:47] INFO: Capturando dados da GPU.
+[2024-05-12 17:58:47] INFO: Dados do fabricante da sua GPU capturados com sucesso: NVIDIA
+[2024-05-12 17:58:47] INFO: Dados do ID da sua GPU capturados com sucesso: VideoController1
+[2024-05-12 17:58:47] INFO: O nome da sua GPU foi capturado com sucesso: NVIDIA GeForce GTX 1050
+[2024-05-12 17:58:47] INFO: A VRam da sua GPU foi capturada com sucesso: 3.0
+[2024-05-12 17:58:47] INFO: A Versão da sua GPU foi capturada com sucesso: 27.21.14.5749
+[2024-05-12 17:58:48] WARNING: Temperatura da GPU não foi capturada com sucesso, será apresentada como 0.00 .
+[2024-05-12 17:58:48] INFO: Dados da GPU gravados.
+[2024-05-12 17:58:48] INFO: 
+Inserindo captura de dados no banco de dados:
+    |Componente: GPU
+    |Dado capturado: 0,00
+    |Unidade de medida: °C
+    |Data hora captura: 2024-05-12T17:58:48.253757600
+    |Id componente: 3
+
+[2024-05-12 17:58:48] INFO: Capturando dados da sua memória RAM.
+[2024-05-12 17:58:48] INFO: Memória disponível: 705.6875
+[2024-05-12 17:58:48] INFO: Memória total: 7.922107696533203
+[2024-05-12 17:58:48] INFO: Memória em uso: 7.232959747314453
+[2024-05-12 17:58:48] INFO: Dados da memória RAM capturados com sucesso.
+[2024-05-12 17:58:48] INFO: 
+Inserindo captura de dados no banco de dados:
+    |Componente: MemoriaRam
+    |Dado capturado: 7,23
+    |Unidade de medida: GB
+    |Data hora captura: 2024-05-12T17:58:48.349886800
+    |Id componente: 4
+
+[2024-05-12 17:58:48] INFO: Capturando dados da sua bateria.
+[2024-05-12 17:58:48] INFO: Amperagem da bateria: -3101.936324706758
+[2024-05-12 17:58:48] INFO: Nome do dispositivo da bateria: L18M3PF1
+[2024-05-12 17:58:48] INFO: Número de série da bateria:  2184
+[2024-05-12 17:58:48] INFO: Química da bateria: LiP
+[2024-05-12 17:58:48] INFO: Nome da bateria: System Battery
+[2024-05-12 17:58:48] INFO: Voltagem da bateria: 10.742
+[2024-05-12 17:58:48] INFO: Capacidade atual da bateria: 16.171875
+[2024-05-12 17:58:48] INFO: Número de ciclos da bateria: 1104
+[2024-05-12 17:58:48] INFO: Capacidade de design da bateria: 43.9453125
+[2024-05-12 17:58:48] INFO: Unidade de capacidade da bateria: MWH
+[2024-05-12 17:58:48] INFO: Tempo restante da bateria (instantâneo): 1789.0
+[2024-05-12 17:58:48] INFO: Tempo restante estimado da bateria: -1.0
+[2024-05-12 17:58:48] INFO: Taxa de uso de energia da bateria: -33321.0
+[2024-05-12 17:58:48] INFO: Temperatura da bateria: 0.0
+[2024-05-12 17:58:48] INFO: Capacidade máxima da bateria: 34.912109375
+[2024-05-12 17:58:48] INFO: Porcentagem de capacidade restante da bateria: 1.0
+[2024-05-12 17:58:48] INFO: Data de fabricação da bateria: N/A
+[2024-05-12 17:58:48] INFO: Fabricante da bateria: SMP
+[2024-05-12 17:58:48] INFO: Dados da bateria capturados com sucesso: 46.0
+[2024-05-12 17:58:48] INFO: Dados da bateria gravados.
+[2024-05-12 17:58:48] INFO: 
+Inserindo captura de dados no banco de dados:
+    |Componente: Bateria
+    |Dado capturado: 46,00
+    |Unidade de medida: %
+    |Data hora captura: 2024-05-12T17:58:48.769286700
+    |Id componente: 5
+
+[2024-05-12 17:58:48] INFO: Capturando dados dos seus Apps.
+[2024-05-12 17:58:48] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:58:48] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:58:48] INFO: ID da janela: 527604
+[2024-05-12 17:58:48] INFO: PID da janela: 7424
+[2024-05-12 17:58:48] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1,height=1]
+[2024-05-12 17:58:49] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.248 MB
+
+[2024-05-12 17:58:49] INFO: Uso da ram pela janela: 0.233640625
+[2024-05-12 17:58:49] INFO: Dados da janela gravados.
+[2024-05-12 17:58:49] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:58:49] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:58:49] INFO: ID da janela: 1377306
+[2024-05-12 17:58:49] INFO: PID da janela: 7424
+[2024-05-12 17:58:49] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1,height=1]
+[2024-05-12 17:58:49] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.248 MB
+
+[2024-05-12 17:58:49] INFO: Uso da ram pela janela: 0.233640625
+[2024-05-12 17:58:49] INFO: Dados da janela gravados.
+[2024-05-12 17:58:49] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:58:49] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:58:49] INFO: ID da janela: 395274
+[2024-05-12 17:58:49] INFO: PID da janela: 7424
+[2024-05-12 17:58:49] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1,height=1]
+[2024-05-12 17:58:49] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.248 MB
+
+[2024-05-12 17:58:49] INFO: Uso da ram pela janela: 0.233640625
+[2024-05-12 17:58:49] INFO: Dados da janela gravados.
+[2024-05-12 17:58:49] INFO: Título da janela: Main.java - jar-individual-thiago - Visual Studio Code
+[2024-05-12 17:58:49] INFO: Comando da janela: C:\Users\thyth\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2024-05-12 17:58:49] INFO: ID da janela: 1181896
+[2024-05-12 17:58:49] INFO: PID da janela: 12932
+[2024-05-12 17:58:49] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=960,y=0,width=960,height=1080]
+[2024-05-12 17:58:49] INFO: A ram utilizada na janela de PID 12932 foi coletada com sucesso, uso de ram: 89.612 MB
+
+[2024-05-12 17:58:49] INFO: Uso da ram pela janela: 0.08751171875
+[2024-05-12 17:58:49] INFO: Dados da janela gravados.
+[2024-05-12 17:58:49] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:58:49] INFO: Comando da janela: C:\Windows\System32\cmd.exe
+[2024-05-12 17:58:49] INFO: ID da janela: 789764
+[2024-05-12 17:58:49] INFO: PID da janela: 26036
+[2024-05-12 17:58:49] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=18,height=18]
+[2024-05-12 17:58:49] INFO: A ram utilizada na janela de PID 26036 foi coletada com sucesso, uso de ram: 4.528 MB
+
+[2024-05-12 17:58:49] INFO: Uso da ram pela janela: 0.004421875
+[2024-05-12 17:58:49] INFO: Dados da janela gravados.
+[2024-05-12 17:58:49] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:58:49] INFO: Comando da janela: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+[2024-05-12 17:58:49] INFO: ID da janela: 920240
+[2024-05-12 17:58:49] INFO: PID da janela: 27720
+[2024-05-12 17:58:49] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=18,height=18]
+[2024-05-12 17:58:50] INFO: A ram utilizada na janela de PID 27720 foi coletada com sucesso, uso de ram: 54.288 MB
+
+[2024-05-12 17:58:50] INFO: Uso da ram pela janela: 0.053015625
+[2024-05-12 17:58:50] INFO: Dados da janela gravados.
+[2024-05-12 17:58:50] INFO: Título da janela: Prompt de comando - powershell.exe  -NoExit -Command "Start-Process java -ArgumentList ('-jar', 'jar-individual-thiago-1.0-SNAPSHOT-jar-with-dependencies.jar') -Verb RunAs"
+[2024-05-12 17:58:50] INFO: Comando da janela: C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.19.11213.0_x64__8wekyb3d8bbwe\WindowsTerminal.exe
+[2024-05-12 17:58:50] INFO: ID da janela: 5179116
+[2024-05-12 17:58:50] INFO: PID da janela: 25716
+[2024-05-12 17:58:50] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-8,y=0,width=976,height=1088]
+[2024-05-12 17:58:50] INFO: A ram utilizada na janela de PID 25716 foi coletada com sucesso, uso de ram: 80.588 MB
+
+[2024-05-12 17:58:50] INFO: Uso da ram pela janela: 0.07869921875
+[2024-05-12 17:58:50] INFO: Dados da janela gravados.
+[2024-05-12 17:58:50] INFO: Título da janela: target
+[2024-05-12 17:58:50] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:58:50] INFO: ID da janela: 1442796
+[2024-05-12 17:58:50] INFO: PID da janela: 7424
+[2024-05-12 17:58:50] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1920,height=1080]
+[2024-05-12 17:58:50] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.232 MB
+
+[2024-05-12 17:58:50] INFO: Uso da ram pela janela: 0.233625
+[2024-05-12 17:58:50] INFO: Dados da janela gravados.
+[2024-05-12 17:58:50] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:58:50] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:58:50] INFO: ID da janela: 131202
+[2024-05-12 17:58:50] INFO: PID da janela: 7424
+[2024-05-12 17:58:50] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=1078,width=1920,height=60]
+[2024-05-12 17:58:50] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.232 MB
+
+[2024-05-12 17:58:50] INFO: Uso da ram pela janela: 0.233625
+[2024-05-12 17:58:50] INFO: Dados da janela gravados.
+[2024-05-12 17:58:50] INFO: Título da janela: MySQL Workbench
+[2024-05-12 17:58:50] INFO: Comando da janela: C:\Program Files\MySQL\MySQL Workbench 8.0\MySQLWorkbench.exe
+[2024-05-12 17:58:50] INFO: ID da janela: 3015640
+[2024-05-12 17:58:50] INFO: PID da janela: 11636
+[2024-05-12 17:58:50] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-10,y=-10,width=1940,height=1100]
+[2024-05-12 17:58:50] INFO: A ram utilizada na janela de PID 11636 foi coletada com sucesso, uso de ram: 151.388 MB
+
+[2024-05-12 17:58:50] INFO: Uso da ram pela janela: 0.14783984375
+[2024-05-12 17:58:50] INFO: Dados da janela gravados.
+[2024-05-12 17:58:50] INFO: Título da janela: Gerenciador de Tarefas
+[2024-05-12 17:58:50] INFO: Comando da janela: C:\Windows\System32\Taskmgr.exe
+[2024-05-12 17:58:50] INFO: ID da janela: 920526
+[2024-05-12 17:58:50] INFO: PID da janela: 14388
+[2024-05-12 17:58:50] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=976,height=1088]
+[2024-05-12 17:58:51] INFO: A ram utilizada na janela de PID 14388 foi coletada com sucesso, uso de ram: 112.124 MB
+
+[2024-05-12 17:58:51] INFO: Uso da ram pela janela: 0.10949609375
+[2024-05-12 17:58:51] INFO: Dados da janela gravados.
+[2024-05-12 17:58:51] INFO: Título da janela: Verificar e Trocar Usuário - Opera
+[2024-05-12 17:58:51] INFO: Comando da janela: C:\Users\thyth\AppData\Local\Programs\Opera GX\opera.exe
+[2024-05-12 17:58:51] INFO: ID da janela: 526032
+[2024-05-12 17:58:51] INFO: PID da janela: 5092
+[2024-05-12 17:58:51] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-9,y=-9,width=1938,height=1098]
+[2024-05-12 17:58:51] INFO: A ram utilizada na janela de PID 5092 foi coletada com sucesso, uso de ram: 196.676 MB
+
+[2024-05-12 17:58:51] INFO: Uso da ram pela janela: 0.19206640625
+[2024-05-12 17:58:51] INFO: Dados da janela gravados.
+[2024-05-12 17:58:51] INFO: Título da janela: porhub - Pesquisa Google - Opera
+[2024-05-12 17:58:51] INFO: Comando da janela: C:\Users\thyth\AppData\Local\Programs\Opera GX\opera.exe
+[2024-05-12 17:58:51] INFO: ID da janela: 5835590
+[2024-05-12 17:58:51] INFO: PID da janela: 5092
+[2024-05-12 17:58:51] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-9,y=-9,width=1938,height=1098]
+[2024-05-12 17:58:51] INFO: A ram utilizada na janela de PID 5092 foi coletada com sucesso, uso de ram: 196.668 MB
+
+[2024-05-12 17:58:51] INFO: Uso da ram pela janela: 0.19205859375
+[2024-05-12 17:58:51] INFO: Dados da janela gravados.
+[2024-05-12 17:58:51] INFO: Título da janela:  app.log - Bloco de notas
+[2024-05-12 17:58:51] INFO: Comando da janela: C:\Program Files\WindowsApps\Microsoft.WindowsNotepad_11.2402.22.0_x64__8wekyb3d8bbwe\Notepad\Notepad.exe
+[2024-05-12 17:58:51] INFO: ID da janela: 4655598
+[2024-05-12 17:58:51] INFO: PID da janela: 9172
+[2024-05-12 17:58:51] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=29,y=181,width=856,height=800]
+[2024-05-12 17:58:51] INFO: A ram utilizada na janela de PID 9172 foi coletada com sucesso, uso de ram: 63.884 MB
+
+[2024-05-12 17:58:51] INFO: Uso da ram pela janela: 0.06238671875
+[2024-05-12 17:58:51] INFO: Dados da janela gravados.
+[2024-05-12 17:58:51] INFO: Título da janela: Spotify Free
+[2024-05-12 17:58:51] INFO: Comando da janela: C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.235.663.0_x64__zpdnekdrzrea0\Spotify.exe
+[2024-05-12 17:58:51] INFO: ID da janela: 985260
+[2024-05-12 17:58:51] INFO: PID da janela: 19092
+[2024-05-12 17:58:51] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-9,y=-9,width=1938,height=1098]
+[2024-05-12 17:58:52] INFO: A ram utilizada na janela de PID 19092 foi coletada com sucesso, uso de ram: 83.032 MB
+
+[2024-05-12 17:58:52] INFO: Uso da ram pela janela: 0.0810859375
+[2024-05-12 17:58:52] INFO: Dados da janela gravados.
+[2024-05-12 17:58:52] INFO: Título da janela: Realtek Audio Console
+[2024-05-12 17:58:52] INFO: Comando da janela: C:\Program Files\WindowsApps\realteksemiconductorcorp.realtekaudiocontrol_1.10.216.0_x64__dt26b99r8h8gj\RtkUWP.exe
+[2024-05-12 17:58:52] INFO: ID da janela: 198354
+[2024-05-12 17:58:52] INFO: PID da janela: 15128
+[2024-05-12 17:58:52] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=41,width=1280,height=960]
+[2024-05-12 17:58:52] INFO: A ram utilizada na janela de PID 15128 foi coletada com sucesso, uso de ram: 11.820 MB
+
+[2024-05-12 17:58:52] INFO: Uso da ram pela janela: 0.01154296875
+[2024-05-12 17:58:52] INFO: Dados da janela gravados.
+[2024-05-12 17:58:52] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:58:52] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:58:52] INFO: ID da janela: 1640134
+[2024-05-12 17:58:52] INFO: PID da janela: 7424
+[2024-05-12 17:58:52] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1920,height=1080]
+[2024-05-12 17:58:52] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.236 MB
+
+[2024-05-12 17:58:52] INFO: Uso da ram pela janela: 0.23362890625
+[2024-05-12 17:58:52] INFO: Dados da janela gravados.
+[2024-05-12 17:58:52] INFO: Título da janela: Realtek Audio Console
+[2024-05-12 17:58:52] INFO: Comando da janela: C:\Windows\System32\ApplicationFrameHost.exe
+[2024-05-12 17:58:52] INFO: ID da janela: 788406
+[2024-05-12 17:58:52] INFO: PID da janela: 14144
+[2024-05-12 17:58:52] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=50,y=40,width=1298,height=1010]
+[2024-05-12 17:58:52] INFO: A ram utilizada na janela de PID 14144 foi coletada com sucesso, uso de ram: 23.732 MB
+
+[2024-05-12 17:58:52] INFO: Uso da ram pela janela: 0.02317578125
+[2024-05-12 17:58:52] INFO: Dados da janela gravados.
+[2024-05-12 17:58:52] INFO: Título da janela: Configurações
+[2024-05-12 17:58:52] INFO: Comando da janela: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+[2024-05-12 17:58:52] INFO: ID da janela: 67154
+[2024-05-12 17:58:52] INFO: PID da janela: 14152
+[2024-05-12 17:58:52] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=9,width=1920,height=1080]
+[2024-05-12 17:58:52] INFO: A ram utilizada na janela de PID 14152 foi coletada com sucesso, uso de ram: 2.544 MB
+
+[2024-05-12 17:58:52] INFO: Uso da ram pela janela: 0.002484375
+[2024-05-12 17:58:52] INFO: Dados da janela gravados.
+[2024-05-12 17:58:52] INFO: Título da janela: Configurações
+[2024-05-12 17:58:52] INFO: Comando da janela: C:\Windows\System32\ApplicationFrameHost.exe
+[2024-05-12 17:58:52] INFO: ID da janela: 132376
+[2024-05-12 17:58:52] INFO: PID da janela: 14144
+[2024-05-12 17:58:52] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-9,y=-9,width=1938,height=1098]
+[2024-05-12 17:58:53] INFO: A ram utilizada na janela de PID 14144 foi coletada com sucesso, uso de ram: 23.732 MB
+
+[2024-05-12 17:58:53] INFO: Uso da ram pela janela: 0.02317578125
+[2024-05-12 17:58:53] INFO: Dados da janela gravados.
+[2024-05-12 17:58:53] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:58:53] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:58:53] INFO: ID da janela: 66014
+[2024-05-12 17:58:53] INFO: PID da janela: 7424
+[2024-05-12 17:58:53] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=0,height=0]
+[2024-05-12 17:58:53] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.268 MB
+
+[2024-05-12 17:58:53] INFO: Uso da ram pela janela: 0.23366015625
+[2024-05-12 17:58:53] INFO: Dados da janela gravados.
+[2024-05-12 17:58:53] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:58:53] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:58:53] INFO: ID da janela: 66004
+[2024-05-12 17:58:53] INFO: PID da janela: 7424
+[2024-05-12 17:58:53] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=19,y=0,width=1901,height=4]
+[2024-05-12 17:58:53] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.268 MB
+
+[2024-05-12 17:58:53] INFO: Uso da ram pela janela: 0.23366015625
+[2024-05-12 17:58:53] INFO: Dados da janela gravados.
+[2024-05-12 17:58:53] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:58:53] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:58:53] INFO: ID da janela: 65968
+[2024-05-12 17:58:53] INFO: PID da janela: 7424
+[2024-05-12 17:58:53] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=0,height=0]
+[2024-05-12 17:58:53] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.268 MB
+
+[2024-05-12 17:58:53] INFO: Uso da ram pela janela: 0.23366015625
+[2024-05-12 17:58:53] INFO: Dados da janela gravados.
+[2024-05-12 17:58:53] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:58:53] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:58:53] INFO: ID da janela: 65966
+[2024-05-12 17:58:53] INFO: PID da janela: 7424
+[2024-05-12 17:58:53] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=0,height=0]
+[2024-05-12 17:58:53] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.268 MB
+
+[2024-05-12 17:58:53] INFO: Uso da ram pela janela: 0.23366015625
+[2024-05-12 17:58:53] INFO: Dados da janela gravados.
+[2024-05-12 17:58:53] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:58:53] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:58:53] INFO: ID da janela: 65964
+[2024-05-12 17:58:53] INFO: PID da janela: 7424
+[2024-05-12 17:58:53] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=0,height=0]
+[2024-05-12 17:58:54] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.268 MB
+
+[2024-05-12 17:58:54] INFO: Uso da ram pela janela: 0.23366015625
+[2024-05-12 17:58:54] INFO: Dados da janela gravados.
+[2024-05-12 17:58:54] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:58:54] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:58:54] INFO: ID da janela: 65962
+[2024-05-12 17:58:54] INFO: PID da janela: 7424
+[2024-05-12 17:58:54] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=0,height=0]
+[2024-05-12 17:58:54] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.268 MB
+
+[2024-05-12 17:58:54] INFO: Uso da ram pela janela: 0.23366015625
+[2024-05-12 17:58:54] INFO: Dados da janela gravados.
+[2024-05-12 17:58:54] INFO: Título da janela: Experiência de Entrada do Windows
+[2024-05-12 17:58:54] INFO: Comando da janela: C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe
+[2024-05-12 17:58:54] INFO: ID da janela: 66074
+[2024-05-12 17:58:54] INFO: PID da janela: 7276
+[2024-05-12 17:58:54] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1920,height=1080]
+[2024-05-12 17:58:54] INFO: A ram utilizada na janela de PID 7276 foi coletada com sucesso, uso de ram: 59.852 MB
+
+[2024-05-12 17:58:54] INFO: Uso da ram pela janela: 0.05844921875
+[2024-05-12 17:58:54] INFO: Dados da janela gravados.
+[2024-05-12 17:58:54] INFO: Título da janela: Program Manager
+[2024-05-12 17:58:54] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:58:54] INFO: ID da janela: 131206
+[2024-05-12 17:58:54] INFO: PID da janela: 7424
+[2024-05-12 17:58:54] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1920,height=1080]
+[2024-05-12 17:58:54] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.268 MB
+
+[2024-05-12 17:58:54] INFO: Uso da ram pela janela: 0.23366015625
+[2024-05-12 17:58:54] INFO: Dados da janela gravados.
+[2024-05-12 17:58:54] INFO: Todas as janelas verificadas.
+[2024-05-12 17:58:55] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.268 MB
+
+[2024-05-12 17:58:55] INFO: 
+Inserindo captura de dados no banco de dados:
+    |Componente: APP
+    |Dado capturado: 0,23
+    |Unidade de medida: MB
+    |Data hora captura: 2024-05-12T17:58:55.068851800
+    |Id componente: 6
+
+[2024-05-12 17:58:55] INFO: Capturando dados dos seus Apps.
+[2024-05-12 17:58:55] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:58:55] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:58:55] INFO: ID da janela: 527604
+[2024-05-12 17:58:55] INFO: PID da janela: 7424
+[2024-05-12 17:58:55] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1,height=1]
+[2024-05-12 17:58:55] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.268 MB
+
+[2024-05-12 17:58:55] INFO: Uso da ram pela janela: 0.23366015625
+[2024-05-12 17:58:55] INFO: Dados da janela gravados.
+[2024-05-12 17:58:55] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:58:55] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:58:55] INFO: ID da janela: 1377306
+[2024-05-12 17:58:55] INFO: PID da janela: 7424
+[2024-05-12 17:58:55] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1,height=1]
+[2024-05-12 17:58:55] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.268 MB
+
+[2024-05-12 17:58:55] INFO: Uso da ram pela janela: 0.23366015625
+[2024-05-12 17:58:55] INFO: Dados da janela gravados.
+[2024-05-12 17:58:55] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:58:55] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:58:55] INFO: ID da janela: 395274
+[2024-05-12 17:58:55] INFO: PID da janela: 7424
+[2024-05-12 17:58:55] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1,height=1]
+[2024-05-12 17:58:55] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.268 MB
+
+[2024-05-12 17:58:55] INFO: Uso da ram pela janela: 0.23366015625
+[2024-05-12 17:58:55] INFO: Dados da janela gravados.
+[2024-05-12 17:58:55] INFO: Título da janela: Main.java - jar-individual-thiago - Visual Studio Code
+[2024-05-12 17:58:55] INFO: Comando da janela: C:\Users\thyth\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2024-05-12 17:58:55] INFO: ID da janela: 1181896
+[2024-05-12 17:58:55] INFO: PID da janela: 12932
+[2024-05-12 17:58:55] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=960,y=0,width=960,height=1080]
+[2024-05-12 17:58:56] INFO: A ram utilizada na janela de PID 12932 foi coletada com sucesso, uso de ram: 89.604 MB
+
+[2024-05-12 17:58:56] INFO: Uso da ram pela janela: 0.08750390625
+[2024-05-12 17:58:56] INFO: Dados da janela gravados.
+[2024-05-12 17:58:56] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:58:56] INFO: Comando da janela: C:\Windows\System32\cmd.exe
+[2024-05-12 17:58:56] INFO: ID da janela: 789764
+[2024-05-12 17:58:56] INFO: PID da janela: 26036
+[2024-05-12 17:58:56] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=18,height=18]
+[2024-05-12 17:58:56] INFO: A ram utilizada na janela de PID 26036 foi coletada com sucesso, uso de ram: 4.528 MB
+
+[2024-05-12 17:58:56] INFO: Uso da ram pela janela: 0.004421875
+[2024-05-12 17:58:56] INFO: Dados da janela gravados.
+[2024-05-12 17:58:56] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:58:56] INFO: Comando da janela: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+[2024-05-12 17:58:56] INFO: ID da janela: 920240
+[2024-05-12 17:58:56] INFO: PID da janela: 27720
+[2024-05-12 17:58:56] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=18,height=18]
+[2024-05-12 17:58:56] INFO: A ram utilizada na janela de PID 27720 foi coletada com sucesso, uso de ram: 54.288 MB
+
+[2024-05-12 17:58:56] INFO: Uso da ram pela janela: 0.053015625
+[2024-05-12 17:58:56] INFO: Dados da janela gravados.
+[2024-05-12 17:58:56] INFO: Título da janela: Prompt de comando - powershell.exe  -NoExit -Command "Start-Process java -ArgumentList ('-jar', 'jar-individual-thiago-1.0-SNAPSHOT-jar-with-dependencies.jar') -Verb RunAs"
+[2024-05-12 17:58:56] INFO: Comando da janela: C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.19.11213.0_x64__8wekyb3d8bbwe\WindowsTerminal.exe
+[2024-05-12 17:58:56] INFO: ID da janela: 5179116
+[2024-05-12 17:58:56] INFO: PID da janela: 25716
+[2024-05-12 17:58:56] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-8,y=0,width=976,height=1088]
+[2024-05-12 17:58:56] INFO: A ram utilizada na janela de PID 25716 foi coletada com sucesso, uso de ram: 80.588 MB
+
+[2024-05-12 17:58:56] INFO: Uso da ram pela janela: 0.07869921875
+[2024-05-12 17:58:56] INFO: Dados da janela gravados.
+[2024-05-12 17:58:56] INFO: Título da janela: target
+[2024-05-12 17:58:56] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:58:56] INFO: ID da janela: 1442796
+[2024-05-12 17:58:56] INFO: PID da janela: 7424
+[2024-05-12 17:58:56] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1920,height=1080]
+[2024-05-12 17:58:56] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.268 MB
+
+[2024-05-12 17:58:56] INFO: Uso da ram pela janela: 0.23366015625
+[2024-05-12 17:58:56] INFO: Dados da janela gravados.
+[2024-05-12 17:58:56] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:58:56] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:58:56] INFO: ID da janela: 131202
+[2024-05-12 17:58:56] INFO: PID da janela: 7424
+[2024-05-12 17:58:56] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=1078,width=1920,height=60]
+[2024-05-12 17:58:57] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.268 MB
+
+[2024-05-12 17:58:57] INFO: Uso da ram pela janela: 0.23366015625
+[2024-05-12 17:58:57] INFO: Dados da janela gravados.
+[2024-05-12 17:58:57] INFO: Título da janela: MySQL Workbench
+[2024-05-12 17:58:57] INFO: Comando da janela: C:\Program Files\MySQL\MySQL Workbench 8.0\MySQLWorkbench.exe
+[2024-05-12 17:58:57] INFO: ID da janela: 3015640
+[2024-05-12 17:58:57] INFO: PID da janela: 11636
+[2024-05-12 17:58:57] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-10,y=-10,width=1940,height=1100]
+[2024-05-12 17:58:57] INFO: A ram utilizada na janela de PID 11636 foi coletada com sucesso, uso de ram: 151.388 MB
+
+[2024-05-12 17:58:57] INFO: Uso da ram pela janela: 0.14783984375
+[2024-05-12 17:58:57] INFO: Dados da janela gravados.
+[2024-05-12 17:58:57] INFO: Título da janela: Gerenciador de Tarefas
+[2024-05-12 17:58:57] INFO: Comando da janela: C:\Windows\System32\Taskmgr.exe
+[2024-05-12 17:58:57] INFO: ID da janela: 920526
+[2024-05-12 17:58:57] INFO: PID da janela: 14388
+[2024-05-12 17:58:57] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=976,height=1088]
+[2024-05-12 17:58:57] INFO: A ram utilizada na janela de PID 14388 foi coletada com sucesso, uso de ram: 112.124 MB
+
+[2024-05-12 17:58:57] INFO: Uso da ram pela janela: 0.10949609375
+[2024-05-12 17:58:57] INFO: Dados da janela gravados.
+[2024-05-12 17:58:57] INFO: Título da janela: Verificar e Trocar Usuário - Opera
+[2024-05-12 17:58:57] INFO: Comando da janela: C:\Users\thyth\AppData\Local\Programs\Opera GX\opera.exe
+[2024-05-12 17:58:57] INFO: ID da janela: 526032
+[2024-05-12 17:58:57] INFO: PID da janela: 5092
+[2024-05-12 17:58:57] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-9,y=-9,width=1938,height=1098]
+[2024-05-12 17:58:57] INFO: A ram utilizada na janela de PID 5092 foi coletada com sucesso, uso de ram: 196.684 MB
+
+[2024-05-12 17:58:57] INFO: Uso da ram pela janela: 0.19207421875
+[2024-05-12 17:58:57] INFO: Dados da janela gravados.
+[2024-05-12 17:58:57] INFO: Título da janela: porhub - Pesquisa Google - Opera
+[2024-05-12 17:58:57] INFO: Comando da janela: C:\Users\thyth\AppData\Local\Programs\Opera GX\opera.exe
+[2024-05-12 17:58:57] INFO: ID da janela: 5835590
+[2024-05-12 17:58:57] INFO: PID da janela: 5092
+[2024-05-12 17:58:57] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-9,y=-9,width=1938,height=1098]
+[2024-05-12 17:58:58] INFO: A ram utilizada na janela de PID 5092 foi coletada com sucesso, uso de ram: 196.684 MB
+
+[2024-05-12 17:58:58] INFO: Uso da ram pela janela: 0.19207421875
+[2024-05-12 17:58:58] INFO: Dados da janela gravados.
+[2024-05-12 17:58:58] INFO: Título da janela:  app.log - Bloco de notas
+[2024-05-12 17:58:58] INFO: Comando da janela: C:\Program Files\WindowsApps\Microsoft.WindowsNotepad_11.2402.22.0_x64__8wekyb3d8bbwe\Notepad\Notepad.exe
+[2024-05-12 17:58:58] INFO: ID da janela: 4655598
+[2024-05-12 17:58:58] INFO: PID da janela: 9172
+[2024-05-12 17:58:58] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=29,y=181,width=856,height=800]
+[2024-05-12 17:58:58] INFO: A ram utilizada na janela de PID 9172 foi coletada com sucesso, uso de ram: 63.884 MB
+
+[2024-05-12 17:58:58] INFO: Uso da ram pela janela: 0.06238671875
+[2024-05-12 17:58:58] INFO: Dados da janela gravados.
+[2024-05-12 17:58:58] INFO: Título da janela: Spotify Free
+[2024-05-12 17:58:58] INFO: Comando da janela: C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.235.663.0_x64__zpdnekdrzrea0\Spotify.exe
+[2024-05-12 17:58:58] INFO: ID da janela: 985260
+[2024-05-12 17:58:58] INFO: PID da janela: 19092
+[2024-05-12 17:58:58] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-9,y=-9,width=1938,height=1098]
+[2024-05-12 17:58:58] INFO: A ram utilizada na janela de PID 19092 foi coletada com sucesso, uso de ram: 83.060 MB
+
+[2024-05-12 17:58:58] INFO: Uso da ram pela janela: 0.08111328125
+[2024-05-12 17:58:58] INFO: Dados da janela gravados.
+[2024-05-12 17:58:58] INFO: Título da janela: Realtek Audio Console
+[2024-05-12 17:58:58] INFO: Comando da janela: C:\Program Files\WindowsApps\realteksemiconductorcorp.realtekaudiocontrol_1.10.216.0_x64__dt26b99r8h8gj\RtkUWP.exe
+[2024-05-12 17:58:58] INFO: ID da janela: 198354
+[2024-05-12 17:58:58] INFO: PID da janela: 15128
+[2024-05-12 17:58:58] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=41,width=1280,height=960]
+[2024-05-12 17:58:58] INFO: A ram utilizada na janela de PID 15128 foi coletada com sucesso, uso de ram: 11.820 MB
+
+[2024-05-12 17:58:58] INFO: Uso da ram pela janela: 0.01154296875
+[2024-05-12 17:58:58] INFO: Dados da janela gravados.
+[2024-05-12 17:58:58] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:58:58] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:58:58] INFO: ID da janela: 1640134
+[2024-05-12 17:58:58] INFO: PID da janela: 7424
+[2024-05-12 17:58:58] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1920,height=1080]
+[2024-05-12 17:58:58] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.268 MB
+
+[2024-05-12 17:58:58] INFO: Uso da ram pela janela: 0.23366015625
+[2024-05-12 17:58:58] INFO: Dados da janela gravados.
+[2024-05-12 17:58:58] INFO: Título da janela: Realtek Audio Console
+[2024-05-12 17:58:58] INFO: Comando da janela: C:\Windows\System32\ApplicationFrameHost.exe
+[2024-05-12 17:58:58] INFO: ID da janela: 788406
+[2024-05-12 17:58:58] INFO: PID da janela: 14144
+[2024-05-12 17:58:58] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=50,y=40,width=1298,height=1010]
+[2024-05-12 17:58:59] INFO: A ram utilizada na janela de PID 14144 foi coletada com sucesso, uso de ram: 23.732 MB
+
+[2024-05-12 17:58:59] INFO: Uso da ram pela janela: 0.02317578125
+[2024-05-12 17:58:59] INFO: Dados da janela gravados.
+[2024-05-12 17:58:59] INFO: Título da janela: Configurações
+[2024-05-12 17:58:59] INFO: Comando da janela: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+[2024-05-12 17:58:59] INFO: ID da janela: 67154
+[2024-05-12 17:58:59] INFO: PID da janela: 14152
+[2024-05-12 17:58:59] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=9,width=1920,height=1080]
+[2024-05-12 17:58:59] INFO: A ram utilizada na janela de PID 14152 foi coletada com sucesso, uso de ram: 2.544 MB
+
+[2024-05-12 17:58:59] INFO: Uso da ram pela janela: 0.002484375
+[2024-05-12 17:58:59] INFO: Dados da janela gravados.
+[2024-05-12 17:58:59] INFO: Título da janela: Configurações
+[2024-05-12 17:58:59] INFO: Comando da janela: C:\Windows\System32\ApplicationFrameHost.exe
+[2024-05-12 17:58:59] INFO: ID da janela: 132376
+[2024-05-12 17:58:59] INFO: PID da janela: 14144
+[2024-05-12 17:58:59] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-9,y=-9,width=1938,height=1098]
+[2024-05-12 17:58:59] INFO: A ram utilizada na janela de PID 14144 foi coletada com sucesso, uso de ram: 23.732 MB
+
+[2024-05-12 17:58:59] INFO: Uso da ram pela janela: 0.02317578125
+[2024-05-12 17:58:59] INFO: Dados da janela gravados.
+[2024-05-12 17:58:59] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:58:59] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:58:59] INFO: ID da janela: 66014
+[2024-05-12 17:58:59] INFO: PID da janela: 7424
+[2024-05-12 17:58:59] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=0,height=0]
+[2024-05-12 17:58:59] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.268 MB
+
+[2024-05-12 17:58:59] INFO: Uso da ram pela janela: 0.23366015625
+[2024-05-12 17:58:59] INFO: Dados da janela gravados.
+[2024-05-12 17:58:59] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:58:59] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:58:59] INFO: ID da janela: 66004
+[2024-05-12 17:58:59] INFO: PID da janela: 7424
+[2024-05-12 17:58:59] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=19,y=0,width=1901,height=4]
+[2024-05-12 17:58:59] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.268 MB
+
+[2024-05-12 17:58:59] INFO: Uso da ram pela janela: 0.23366015625
+[2024-05-12 17:58:59] INFO: Dados da janela gravados.
+[2024-05-12 17:58:59] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:58:59] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:58:59] INFO: ID da janela: 65968
+[2024-05-12 17:58:59] INFO: PID da janela: 7424
+[2024-05-12 17:58:59] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=0,height=0]
+[2024-05-12 17:59:00] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.268 MB
+
+[2024-05-12 17:59:00] INFO: Uso da ram pela janela: 0.23366015625
+[2024-05-12 17:59:00] INFO: Dados da janela gravados.
+[2024-05-12 17:59:00] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:00] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:00] INFO: ID da janela: 65966
+[2024-05-12 17:59:00] INFO: PID da janela: 7424
+[2024-05-12 17:59:00] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=0,height=0]
+[2024-05-12 17:59:00] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.268 MB
+
+[2024-05-12 17:59:00] INFO: Uso da ram pela janela: 0.23366015625
+[2024-05-12 17:59:00] INFO: Dados da janela gravados.
+[2024-05-12 17:59:00] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:00] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:00] INFO: ID da janela: 65964
+[2024-05-12 17:59:00] INFO: PID da janela: 7424
+[2024-05-12 17:59:00] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=0,height=0]
+[2024-05-12 17:59:00] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.268 MB
+
+[2024-05-12 17:59:00] INFO: Uso da ram pela janela: 0.23366015625
+[2024-05-12 17:59:00] INFO: Dados da janela gravados.
+[2024-05-12 17:59:00] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:00] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:00] INFO: ID da janela: 65962
+[2024-05-12 17:59:00] INFO: PID da janela: 7424
+[2024-05-12 17:59:00] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=0,height=0]
+[2024-05-12 17:59:00] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.268 MB
+
+[2024-05-12 17:59:00] INFO: Uso da ram pela janela: 0.23366015625
+[2024-05-12 17:59:00] INFO: Dados da janela gravados.
+[2024-05-12 17:59:00] INFO: Título da janela: Experiência de Entrada do Windows
+[2024-05-12 17:59:00] INFO: Comando da janela: C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe
+[2024-05-12 17:59:00] INFO: ID da janela: 66074
+[2024-05-12 17:59:00] INFO: PID da janela: 7276
+[2024-05-12 17:59:00] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1920,height=1080]
+[2024-05-12 17:59:00] INFO: A ram utilizada na janela de PID 7276 foi coletada com sucesso, uso de ram: 59.852 MB
+
+[2024-05-12 17:59:00] INFO: Uso da ram pela janela: 0.05844921875
+[2024-05-12 17:59:00] INFO: Dados da janela gravados.
+[2024-05-12 17:59:00] INFO: Título da janela: Program Manager
+[2024-05-12 17:59:00] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:00] INFO: ID da janela: 131206
+[2024-05-12 17:59:00] INFO: PID da janela: 7424
+[2024-05-12 17:59:00] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1920,height=1080]
+[2024-05-12 17:59:01] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.268 MB
+
+[2024-05-12 17:59:01] INFO: Uso da ram pela janela: 0.23366015625
+[2024-05-12 17:59:01] INFO: Dados da janela gravados.
+[2024-05-12 17:59:01] INFO: Todas as janelas verificadas.
+[2024-05-12 17:59:01] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.268 MB
+
+[2024-05-12 17:59:01] INFO: 
+Inserindo captura de dados no banco de dados:
+    |Componente: APP
+    |Dado capturado: 0,23
+    |Unidade de medida: MB
+    |Data hora captura: 2024-05-12T17:59:01.399639
+    |Id componente: 7
+
+[2024-05-12 17:59:01] INFO: Capturando dados dos seus Apps.
+[2024-05-12 17:59:01] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:01] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:01] INFO: ID da janela: 527604
+[2024-05-12 17:59:01] INFO: PID da janela: 7424
+[2024-05-12 17:59:01] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1,height=1]
+[2024-05-12 17:59:01] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.268 MB
+
+[2024-05-12 17:59:01] INFO: Uso da ram pela janela: 0.23366015625
+[2024-05-12 17:59:01] INFO: Dados da janela gravados.
+[2024-05-12 17:59:01] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:01] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:01] INFO: ID da janela: 1377306
+[2024-05-12 17:59:01] INFO: PID da janela: 7424
+[2024-05-12 17:59:01] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1,height=1]
+[2024-05-12 17:59:01] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.268 MB
+
+[2024-05-12 17:59:01] INFO: Uso da ram pela janela: 0.23366015625
+[2024-05-12 17:59:01] INFO: Dados da janela gravados.
+[2024-05-12 17:59:01] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:01] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:01] INFO: ID da janela: 395274
+[2024-05-12 17:59:01] INFO: PID da janela: 7424
+[2024-05-12 17:59:01] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1,height=1]
+[2024-05-12 17:59:02] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.268 MB
+
+[2024-05-12 17:59:02] INFO: Uso da ram pela janela: 0.23366015625
+[2024-05-12 17:59:02] INFO: Dados da janela gravados.
+[2024-05-12 17:59:02] INFO: Título da janela: Main.java - jar-individual-thiago - Visual Studio Code
+[2024-05-12 17:59:02] INFO: Comando da janela: C:\Users\thyth\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2024-05-12 17:59:02] INFO: ID da janela: 1181896
+[2024-05-12 17:59:02] INFO: PID da janela: 12932
+[2024-05-12 17:59:02] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=960,y=0,width=960,height=1080]
+[2024-05-12 17:59:02] INFO: A ram utilizada na janela de PID 12932 foi coletada com sucesso, uso de ram: 89.812 MB
+
+[2024-05-12 17:59:02] INFO: Uso da ram pela janela: 0.08770703125
+[2024-05-12 17:59:02] INFO: Dados da janela gravados.
+[2024-05-12 17:59:02] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:02] INFO: Comando da janela: C:\Windows\System32\cmd.exe
+[2024-05-12 17:59:02] INFO: ID da janela: 789764
+[2024-05-12 17:59:02] INFO: PID da janela: 26036
+[2024-05-12 17:59:02] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=18,height=18]
+[2024-05-12 17:59:02] INFO: A ram utilizada na janela de PID 26036 foi coletada com sucesso, uso de ram: 4.528 MB
+
+[2024-05-12 17:59:02] INFO: Uso da ram pela janela: 0.004421875
+[2024-05-12 17:59:02] INFO: Dados da janela gravados.
+[2024-05-12 17:59:02] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:02] INFO: Comando da janela: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+[2024-05-12 17:59:02] INFO: ID da janela: 920240
+[2024-05-12 17:59:02] INFO: PID da janela: 27720
+[2024-05-12 17:59:02] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=18,height=18]
+[2024-05-12 17:59:02] INFO: A ram utilizada na janela de PID 27720 foi coletada com sucesso, uso de ram: 54.288 MB
+
+[2024-05-12 17:59:02] INFO: Uso da ram pela janela: 0.053015625
+[2024-05-12 17:59:02] INFO: Dados da janela gravados.
+[2024-05-12 17:59:02] INFO: Título da janela: Prompt de comando - powershell.exe  -NoExit -Command "Start-Process java -ArgumentList ('-jar', 'jar-individual-thiago-1.0-SNAPSHOT-jar-with-dependencies.jar') -Verb RunAs"
+[2024-05-12 17:59:02] INFO: Comando da janela: C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.19.11213.0_x64__8wekyb3d8bbwe\WindowsTerminal.exe
+[2024-05-12 17:59:02] INFO: ID da janela: 5179116
+[2024-05-12 17:59:02] INFO: PID da janela: 25716
+[2024-05-12 17:59:02] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-8,y=0,width=976,height=1088]
+[2024-05-12 17:59:03] INFO: A ram utilizada na janela de PID 25716 foi coletada com sucesso, uso de ram: 80.588 MB
+
+[2024-05-12 17:59:03] INFO: Uso da ram pela janela: 0.07869921875
+[2024-05-12 17:59:03] INFO: Dados da janela gravados.
+[2024-05-12 17:59:03] INFO: Título da janela: target
+[2024-05-12 17:59:03] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:03] INFO: ID da janela: 1442796
+[2024-05-12 17:59:03] INFO: PID da janela: 7424
+[2024-05-12 17:59:03] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1920,height=1080]
+[2024-05-12 17:59:03] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.268 MB
+
+[2024-05-12 17:59:03] INFO: Uso da ram pela janela: 0.23366015625
+[2024-05-12 17:59:03] INFO: Dados da janela gravados.
+[2024-05-12 17:59:03] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:03] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:03] INFO: ID da janela: 131202
+[2024-05-12 17:59:03] INFO: PID da janela: 7424
+[2024-05-12 17:59:03] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=1078,width=1920,height=60]
+[2024-05-12 17:59:03] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.268 MB
+
+[2024-05-12 17:59:03] INFO: Uso da ram pela janela: 0.23366015625
+[2024-05-12 17:59:03] INFO: Dados da janela gravados.
+[2024-05-12 17:59:03] INFO: Título da janela: MySQL Workbench
+[2024-05-12 17:59:03] INFO: Comando da janela: C:\Program Files\MySQL\MySQL Workbench 8.0\MySQLWorkbench.exe
+[2024-05-12 17:59:03] INFO: ID da janela: 3015640
+[2024-05-12 17:59:03] INFO: PID da janela: 11636
+[2024-05-12 17:59:03] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-10,y=-10,width=1940,height=1100]
+[2024-05-12 17:59:03] INFO: A ram utilizada na janela de PID 11636 foi coletada com sucesso, uso de ram: 151.388 MB
+
+[2024-05-12 17:59:03] INFO: Uso da ram pela janela: 0.14783984375
+[2024-05-12 17:59:03] INFO: Dados da janela gravados.
+[2024-05-12 17:59:03] INFO: Título da janela: Gerenciador de Tarefas
+[2024-05-12 17:59:03] INFO: Comando da janela: C:\Windows\System32\Taskmgr.exe
+[2024-05-12 17:59:03] INFO: ID da janela: 920526
+[2024-05-12 17:59:03] INFO: PID da janela: 14388
+[2024-05-12 17:59:03] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=976,height=1088]
+[2024-05-12 17:59:03] INFO: A ram utilizada na janela de PID 14388 foi coletada com sucesso, uso de ram: 112.124 MB
+
+[2024-05-12 17:59:03] INFO: Uso da ram pela janela: 0.10949609375
+[2024-05-12 17:59:03] INFO: Dados da janela gravados.
+[2024-05-12 17:59:03] INFO: Título da janela: Verificar e Trocar Usuário - Opera
+[2024-05-12 17:59:03] INFO: Comando da janela: C:\Users\thyth\AppData\Local\Programs\Opera GX\opera.exe
+[2024-05-12 17:59:03] INFO: ID da janela: 526032
+[2024-05-12 17:59:03] INFO: PID da janela: 5092
+[2024-05-12 17:59:03] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-9,y=-9,width=1938,height=1098]
+[2024-05-12 17:59:04] INFO: A ram utilizada na janela de PID 5092 foi coletada com sucesso, uso de ram: 196.684 MB
+
+[2024-05-12 17:59:04] INFO: Uso da ram pela janela: 0.19207421875
+[2024-05-12 17:59:04] INFO: Dados da janela gravados.
+[2024-05-12 17:59:04] INFO: Título da janela: porhub - Pesquisa Google - Opera
+[2024-05-12 17:59:04] INFO: Comando da janela: C:\Users\thyth\AppData\Local\Programs\Opera GX\opera.exe
+[2024-05-12 17:59:04] INFO: ID da janela: 5835590
+[2024-05-12 17:59:04] INFO: PID da janela: 5092
+[2024-05-12 17:59:04] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-9,y=-9,width=1938,height=1098]
+[2024-05-12 17:59:04] INFO: A ram utilizada na janela de PID 5092 foi coletada com sucesso, uso de ram: 196.684 MB
+
+[2024-05-12 17:59:04] INFO: Uso da ram pela janela: 0.19207421875
+[2024-05-12 17:59:04] INFO: Dados da janela gravados.
+[2024-05-12 17:59:04] INFO: Título da janela:  app.log - Bloco de notas
+[2024-05-12 17:59:04] INFO: Comando da janela: C:\Program Files\WindowsApps\Microsoft.WindowsNotepad_11.2402.22.0_x64__8wekyb3d8bbwe\Notepad\Notepad.exe
+[2024-05-12 17:59:04] INFO: ID da janela: 4655598
+[2024-05-12 17:59:04] INFO: PID da janela: 9172
+[2024-05-12 17:59:04] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=29,y=181,width=856,height=800]
+[2024-05-12 17:59:04] INFO: A ram utilizada na janela de PID 9172 foi coletada com sucesso, uso de ram: 63.884 MB
+
+[2024-05-12 17:59:04] INFO: Uso da ram pela janela: 0.06238671875
+[2024-05-12 17:59:04] INFO: Dados da janela gravados.
+[2024-05-12 17:59:04] INFO: Título da janela: Spotify Free
+[2024-05-12 17:59:04] INFO: Comando da janela: C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.235.663.0_x64__zpdnekdrzrea0\Spotify.exe
+[2024-05-12 17:59:04] INFO: ID da janela: 985260
+[2024-05-12 17:59:04] INFO: PID da janela: 19092
+[2024-05-12 17:59:04] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-9,y=-9,width=1938,height=1098]
+[2024-05-12 17:59:04] INFO: A ram utilizada na janela de PID 19092 foi coletada com sucesso, uso de ram: 83.036 MB
+
+[2024-05-12 17:59:04] INFO: Uso da ram pela janela: 0.08108984375
+[2024-05-12 17:59:04] INFO: Dados da janela gravados.
+[2024-05-12 17:59:04] INFO: Título da janela: Realtek Audio Console
+[2024-05-12 17:59:04] INFO: Comando da janela: C:\Program Files\WindowsApps\realteksemiconductorcorp.realtekaudiocontrol_1.10.216.0_x64__dt26b99r8h8gj\RtkUWP.exe
+[2024-05-12 17:59:04] INFO: ID da janela: 198354
+[2024-05-12 17:59:04] INFO: PID da janela: 15128
+[2024-05-12 17:59:04] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=41,width=1280,height=960]
+[2024-05-12 17:59:05] INFO: A ram utilizada na janela de PID 15128 foi coletada com sucesso, uso de ram: 11.820 MB
+
+[2024-05-12 17:59:05] INFO: Uso da ram pela janela: 0.01154296875
+[2024-05-12 17:59:05] INFO: Dados da janela gravados.
+[2024-05-12 17:59:05] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:05] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:05] INFO: ID da janela: 1640134
+[2024-05-12 17:59:05] INFO: PID da janela: 7424
+[2024-05-12 17:59:05] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1920,height=1080]
+[2024-05-12 17:59:05] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.268 MB
+
+[2024-05-12 17:59:05] INFO: Uso da ram pela janela: 0.23366015625
+[2024-05-12 17:59:05] INFO: Dados da janela gravados.
+[2024-05-12 17:59:05] INFO: Título da janela: Realtek Audio Console
+[2024-05-12 17:59:05] INFO: Comando da janela: C:\Windows\System32\ApplicationFrameHost.exe
+[2024-05-12 17:59:05] INFO: ID da janela: 788406
+[2024-05-12 17:59:05] INFO: PID da janela: 14144
+[2024-05-12 17:59:05] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=50,y=40,width=1298,height=1010]
+[2024-05-12 17:59:05] INFO: A ram utilizada na janela de PID 14144 foi coletada com sucesso, uso de ram: 23.732 MB
+
+[2024-05-12 17:59:05] INFO: Uso da ram pela janela: 0.02317578125
+[2024-05-12 17:59:05] INFO: Dados da janela gravados.
+[2024-05-12 17:59:05] INFO: Título da janela: Configurações
+[2024-05-12 17:59:05] INFO: Comando da janela: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+[2024-05-12 17:59:05] INFO: ID da janela: 67154
+[2024-05-12 17:59:05] INFO: PID da janela: 14152
+[2024-05-12 17:59:05] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=9,width=1920,height=1080]
+[2024-05-12 17:59:05] INFO: A ram utilizada na janela de PID 14152 foi coletada com sucesso, uso de ram: 2.544 MB
+
+[2024-05-12 17:59:05] INFO: Uso da ram pela janela: 0.002484375
+[2024-05-12 17:59:05] INFO: Dados da janela gravados.
+[2024-05-12 17:59:05] INFO: Título da janela: Configurações
+[2024-05-12 17:59:05] INFO: Comando da janela: C:\Windows\System32\ApplicationFrameHost.exe
+[2024-05-12 17:59:05] INFO: ID da janela: 132376
+[2024-05-12 17:59:05] INFO: PID da janela: 14144
+[2024-05-12 17:59:05] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-9,y=-9,width=1938,height=1098]
+[2024-05-12 17:59:05] INFO: A ram utilizada na janela de PID 14144 foi coletada com sucesso, uso de ram: 23.732 MB
+
+[2024-05-12 17:59:05] INFO: Uso da ram pela janela: 0.02317578125
+[2024-05-12 17:59:05] INFO: Dados da janela gravados.
+[2024-05-12 17:59:05] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:05] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:05] INFO: ID da janela: 66014
+[2024-05-12 17:59:05] INFO: PID da janela: 7424
+[2024-05-12 17:59:05] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=0,height=0]
+[2024-05-12 17:59:06] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.268 MB
+
+[2024-05-12 17:59:06] INFO: Uso da ram pela janela: 0.23366015625
+[2024-05-12 17:59:06] INFO: Dados da janela gravados.
+[2024-05-12 17:59:06] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:06] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:06] INFO: ID da janela: 66004
+[2024-05-12 17:59:06] INFO: PID da janela: 7424
+[2024-05-12 17:59:06] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=19,y=0,width=1901,height=4]
+[2024-05-12 17:59:06] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.268 MB
+
+[2024-05-12 17:59:06] INFO: Uso da ram pela janela: 0.23366015625
+[2024-05-12 17:59:06] INFO: Dados da janela gravados.
+[2024-05-12 17:59:06] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:06] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:06] INFO: ID da janela: 65968
+[2024-05-12 17:59:06] INFO: PID da janela: 7424
+[2024-05-12 17:59:06] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=0,height=0]
+[2024-05-12 17:59:06] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.268 MB
+
+[2024-05-12 17:59:06] INFO: Uso da ram pela janela: 0.23366015625
+[2024-05-12 17:59:06] INFO: Dados da janela gravados.
+[2024-05-12 17:59:06] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:06] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:06] INFO: ID da janela: 65966
+[2024-05-12 17:59:06] INFO: PID da janela: 7424
+[2024-05-12 17:59:06] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=0,height=0]
+[2024-05-12 17:59:06] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.268 MB
+
+[2024-05-12 17:59:06] INFO: Uso da ram pela janela: 0.23366015625
+[2024-05-12 17:59:06] INFO: Dados da janela gravados.
+[2024-05-12 17:59:06] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:06] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:06] INFO: ID da janela: 65964
+[2024-05-12 17:59:06] INFO: PID da janela: 7424
+[2024-05-12 17:59:06] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=0,height=0]
+[2024-05-12 17:59:06] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.268 MB
+
+[2024-05-12 17:59:06] INFO: Uso da ram pela janela: 0.23366015625
+[2024-05-12 17:59:06] INFO: Dados da janela gravados.
+[2024-05-12 17:59:06] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:06] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:06] INFO: ID da janela: 65962
+[2024-05-12 17:59:06] INFO: PID da janela: 7424
+[2024-05-12 17:59:06] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=0,height=0]
+[2024-05-12 17:59:07] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.268 MB
+
+[2024-05-12 17:59:07] INFO: Uso da ram pela janela: 0.23366015625
+[2024-05-12 17:59:07] INFO: Dados da janela gravados.
+[2024-05-12 17:59:07] INFO: Título da janela: Experiência de Entrada do Windows
+[2024-05-12 17:59:07] INFO: Comando da janela: C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe
+[2024-05-12 17:59:07] INFO: ID da janela: 66074
+[2024-05-12 17:59:07] INFO: PID da janela: 7276
+[2024-05-12 17:59:07] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1920,height=1080]
+[2024-05-12 17:59:07] INFO: A ram utilizada na janela de PID 7276 foi coletada com sucesso, uso de ram: 59.852 MB
+
+[2024-05-12 17:59:07] INFO: Uso da ram pela janela: 0.05844921875
+[2024-05-12 17:59:07] INFO: Dados da janela gravados.
+[2024-05-12 17:59:07] INFO: Título da janela: Program Manager
+[2024-05-12 17:59:07] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:07] INFO: ID da janela: 131206
+[2024-05-12 17:59:07] INFO: PID da janela: 7424
+[2024-05-12 17:59:07] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1920,height=1080]
+[2024-05-12 17:59:07] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.268 MB
+
+[2024-05-12 17:59:07] INFO: Uso da ram pela janela: 0.23366015625
+[2024-05-12 17:59:07] INFO: Dados da janela gravados.
+[2024-05-12 17:59:07] INFO: Todas as janelas verificadas.
+[2024-05-12 17:59:07] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.268 MB
+
+[2024-05-12 17:59:07] INFO: 
+Inserindo captura de dados no banco de dados:
+    |Componente: APP
+    |Dado capturado: 0,23
+    |Unidade de medida: MB
+    |Data hora captura: 2024-05-12T17:59:07.812440200
+    |Id componente: 8
+
+[2024-05-12 17:59:07] INFO: Capturando dados dos seus Apps.
+[2024-05-12 17:59:07] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:07] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:07] INFO: ID da janela: 527604
+[2024-05-12 17:59:07] INFO: PID da janela: 7424
+[2024-05-12 17:59:07] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1,height=1]
+[2024-05-12 17:59:08] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.272 MB
+
+[2024-05-12 17:59:08] INFO: Uso da ram pela janela: 0.2336640625
+[2024-05-12 17:59:08] INFO: Dados da janela gravados.
+[2024-05-12 17:59:08] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:08] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:08] INFO: ID da janela: 1377306
+[2024-05-12 17:59:08] INFO: PID da janela: 7424
+[2024-05-12 17:59:08] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1,height=1]
+[2024-05-12 17:59:08] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.272 MB
+
+[2024-05-12 17:59:08] INFO: Uso da ram pela janela: 0.2336640625
+[2024-05-12 17:59:08] INFO: Dados da janela gravados.
+[2024-05-12 17:59:08] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:08] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:08] INFO: ID da janela: 395274
+[2024-05-12 17:59:08] INFO: PID da janela: 7424
+[2024-05-12 17:59:08] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1,height=1]
+[2024-05-12 17:59:08] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.272 MB
+
+[2024-05-12 17:59:08] INFO: Uso da ram pela janela: 0.2336640625
+[2024-05-12 17:59:08] INFO: Dados da janela gravados.
+[2024-05-12 17:59:08] INFO: Título da janela: Main.java - jar-individual-thiago - Visual Studio Code
+[2024-05-12 17:59:08] INFO: Comando da janela: C:\Users\thyth\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2024-05-12 17:59:08] INFO: ID da janela: 1181896
+[2024-05-12 17:59:08] INFO: PID da janela: 12932
+[2024-05-12 17:59:08] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=960,y=0,width=960,height=1080]
+[2024-05-12 17:59:09] INFO: A ram utilizada na janela de PID 12932 foi coletada com sucesso, uso de ram: 89.892 MB
+
+[2024-05-12 17:59:09] INFO: Uso da ram pela janela: 0.08778515625
+[2024-05-12 17:59:09] INFO: Dados da janela gravados.
+[2024-05-12 17:59:09] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:09] INFO: Comando da janela: C:\Windows\System32\cmd.exe
+[2024-05-12 17:59:09] INFO: ID da janela: 789764
+[2024-05-12 17:59:09] INFO: PID da janela: 26036
+[2024-05-12 17:59:09] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=18,height=18]
+[2024-05-12 17:59:09] INFO: A ram utilizada na janela de PID 26036 foi coletada com sucesso, uso de ram: 4.528 MB
+
+[2024-05-12 17:59:09] INFO: Uso da ram pela janela: 0.004421875
+[2024-05-12 17:59:09] INFO: Dados da janela gravados.
+[2024-05-12 17:59:09] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:09] INFO: Comando da janela: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+[2024-05-12 17:59:09] INFO: ID da janela: 920240
+[2024-05-12 17:59:09] INFO: PID da janela: 27720
+[2024-05-12 17:59:09] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=18,height=18]
+[2024-05-12 17:59:09] INFO: A ram utilizada na janela de PID 27720 foi coletada com sucesso, uso de ram: 54.288 MB
+
+[2024-05-12 17:59:09] INFO: Uso da ram pela janela: 0.053015625
+[2024-05-12 17:59:09] INFO: Dados da janela gravados.
+[2024-05-12 17:59:09] INFO: Título da janela: Prompt de comando - powershell.exe  -NoExit -Command "Start-Process java -ArgumentList ('-jar', 'jar-individual-thiago-1.0-SNAPSHOT-jar-with-dependencies.jar') -Verb RunAs"
+[2024-05-12 17:59:09] INFO: Comando da janela: C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.19.11213.0_x64__8wekyb3d8bbwe\WindowsTerminal.exe
+[2024-05-12 17:59:09] INFO: ID da janela: 5179116
+[2024-05-12 17:59:09] INFO: PID da janela: 25716
+[2024-05-12 17:59:09] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-8,y=0,width=976,height=1088]
+[2024-05-12 17:59:09] INFO: A ram utilizada na janela de PID 25716 foi coletada com sucesso, uso de ram: 80.588 MB
+
+[2024-05-12 17:59:09] INFO: Uso da ram pela janela: 0.07869921875
+[2024-05-12 17:59:09] INFO: Dados da janela gravados.
+[2024-05-12 17:59:09] INFO: Título da janela: target
+[2024-05-12 17:59:09] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:09] INFO: ID da janela: 1442796
+[2024-05-12 17:59:09] INFO: PID da janela: 7424
+[2024-05-12 17:59:09] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1920,height=1080]
+[2024-05-12 17:59:09] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.280 MB
+
+[2024-05-12 17:59:09] INFO: Uso da ram pela janela: 0.233671875
+[2024-05-12 17:59:09] INFO: Dados da janela gravados.
+[2024-05-12 17:59:09] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:09] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:09] INFO: ID da janela: 131202
+[2024-05-12 17:59:09] INFO: PID da janela: 7424
+[2024-05-12 17:59:09] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=1078,width=1920,height=60]
+[2024-05-12 17:59:10] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.280 MB
+
+[2024-05-12 17:59:10] INFO: Uso da ram pela janela: 0.233671875
+[2024-05-12 17:59:10] INFO: Dados da janela gravados.
+[2024-05-12 17:59:10] INFO: Título da janela: MySQL Workbench
+[2024-05-12 17:59:10] INFO: Comando da janela: C:\Program Files\MySQL\MySQL Workbench 8.0\MySQLWorkbench.exe
+[2024-05-12 17:59:10] INFO: ID da janela: 3015640
+[2024-05-12 17:59:10] INFO: PID da janela: 11636
+[2024-05-12 17:59:10] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-10,y=-10,width=1940,height=1100]
+[2024-05-12 17:59:10] INFO: A ram utilizada na janela de PID 11636 foi coletada com sucesso, uso de ram: 151.368 MB
+
+[2024-05-12 17:59:10] INFO: Uso da ram pela janela: 0.1478203125
+[2024-05-12 17:59:10] INFO: Dados da janela gravados.
+[2024-05-12 17:59:10] INFO: Título da janela: Gerenciador de Tarefas
+[2024-05-12 17:59:10] INFO: Comando da janela: C:\Windows\System32\Taskmgr.exe
+[2024-05-12 17:59:10] INFO: ID da janela: 920526
+[2024-05-12 17:59:10] INFO: PID da janela: 14388
+[2024-05-12 17:59:10] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=976,height=1088]
+[2024-05-12 17:59:10] INFO: A ram utilizada na janela de PID 14388 foi coletada com sucesso, uso de ram: 112.124 MB
+
+[2024-05-12 17:59:10] INFO: Uso da ram pela janela: 0.10949609375
+[2024-05-12 17:59:10] INFO: Dados da janela gravados.
+[2024-05-12 17:59:10] INFO: Título da janela: Verificar e Trocar Usuário - Opera
+[2024-05-12 17:59:10] INFO: Comando da janela: C:\Users\thyth\AppData\Local\Programs\Opera GX\opera.exe
+[2024-05-12 17:59:10] INFO: ID da janela: 526032
+[2024-05-12 17:59:10] INFO: PID da janela: 5092
+[2024-05-12 17:59:10] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-9,y=-9,width=1938,height=1098]
+[2024-05-12 17:59:10] INFO: A ram utilizada na janela de PID 5092 foi coletada com sucesso, uso de ram: 196.684 MB
+
+[2024-05-12 17:59:10] INFO: Uso da ram pela janela: 0.19207421875
+[2024-05-12 17:59:10] INFO: Dados da janela gravados.
+[2024-05-12 17:59:10] INFO: Título da janela: porhub - Pesquisa Google - Opera
+[2024-05-12 17:59:10] INFO: Comando da janela: C:\Users\thyth\AppData\Local\Programs\Opera GX\opera.exe
+[2024-05-12 17:59:10] INFO: ID da janela: 5835590
+[2024-05-12 17:59:10] INFO: PID da janela: 5092
+[2024-05-12 17:59:10] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-9,y=-9,width=1938,height=1098]
+[2024-05-12 17:59:10] INFO: A ram utilizada na janela de PID 5092 foi coletada com sucesso, uso de ram: 196.684 MB
+
+[2024-05-12 17:59:10] INFO: Uso da ram pela janela: 0.19207421875
+[2024-05-12 17:59:10] INFO: Dados da janela gravados.
+[2024-05-12 17:59:10] INFO: Título da janela:  app.log - Bloco de notas
+[2024-05-12 17:59:10] INFO: Comando da janela: C:\Program Files\WindowsApps\Microsoft.WindowsNotepad_11.2402.22.0_x64__8wekyb3d8bbwe\Notepad\Notepad.exe
+[2024-05-12 17:59:10] INFO: ID da janela: 4655598
+[2024-05-12 17:59:10] INFO: PID da janela: 9172
+[2024-05-12 17:59:10] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=29,y=181,width=856,height=800]
+[2024-05-12 17:59:11] INFO: A ram utilizada na janela de PID 9172 foi coletada com sucesso, uso de ram: 63.884 MB
+
+[2024-05-12 17:59:11] INFO: Uso da ram pela janela: 0.06238671875
+[2024-05-12 17:59:11] INFO: Dados da janela gravados.
+[2024-05-12 17:59:11] INFO: Título da janela: Spotify Free
+[2024-05-12 17:59:11] INFO: Comando da janela: C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.235.663.0_x64__zpdnekdrzrea0\Spotify.exe
+[2024-05-12 17:59:11] INFO: ID da janela: 985260
+[2024-05-12 17:59:11] INFO: PID da janela: 19092
+[2024-05-12 17:59:11] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-9,y=-9,width=1938,height=1098]
+[2024-05-12 17:59:11] INFO: A ram utilizada na janela de PID 19092 foi coletada com sucesso, uso de ram: 83.036 MB
+
+[2024-05-12 17:59:11] INFO: Uso da ram pela janela: 0.08108984375
+[2024-05-12 17:59:11] INFO: Dados da janela gravados.
+[2024-05-12 17:59:11] INFO: Título da janela: Realtek Audio Console
+[2024-05-12 17:59:11] INFO: Comando da janela: C:\Program Files\WindowsApps\realteksemiconductorcorp.realtekaudiocontrol_1.10.216.0_x64__dt26b99r8h8gj\RtkUWP.exe
+[2024-05-12 17:59:11] INFO: ID da janela: 198354
+[2024-05-12 17:59:11] INFO: PID da janela: 15128
+[2024-05-12 17:59:11] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=41,width=1280,height=960]
+[2024-05-12 17:59:11] INFO: A ram utilizada na janela de PID 15128 foi coletada com sucesso, uso de ram: 11.820 MB
+
+[2024-05-12 17:59:11] INFO: Uso da ram pela janela: 0.01154296875
+[2024-05-12 17:59:11] INFO: Dados da janela gravados.
+[2024-05-12 17:59:11] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:11] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:11] INFO: ID da janela: 1640134
+[2024-05-12 17:59:11] INFO: PID da janela: 7424
+[2024-05-12 17:59:11] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1920,height=1080]
+[2024-05-12 17:59:11] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.280 MB
+
+[2024-05-12 17:59:11] INFO: Uso da ram pela janela: 0.233671875
+[2024-05-12 17:59:11] INFO: Dados da janela gravados.
+[2024-05-12 17:59:11] INFO: Título da janela: Realtek Audio Console
+[2024-05-12 17:59:11] INFO: Comando da janela: C:\Windows\System32\ApplicationFrameHost.exe
+[2024-05-12 17:59:11] INFO: ID da janela: 788406
+[2024-05-12 17:59:11] INFO: PID da janela: 14144
+[2024-05-12 17:59:11] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=50,y=40,width=1298,height=1010]
+[2024-05-12 17:59:12] INFO: A ram utilizada na janela de PID 14144 foi coletada com sucesso, uso de ram: 23.732 MB
+
+[2024-05-12 17:59:12] INFO: Uso da ram pela janela: 0.02317578125
+[2024-05-12 17:59:12] INFO: Dados da janela gravados.
+[2024-05-12 17:59:12] INFO: Título da janela: Configurações
+[2024-05-12 17:59:12] INFO: Comando da janela: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+[2024-05-12 17:59:12] INFO: ID da janela: 67154
+[2024-05-12 17:59:12] INFO: PID da janela: 14152
+[2024-05-12 17:59:12] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=9,width=1920,height=1080]
+[2024-05-12 17:59:12] INFO: A ram utilizada na janela de PID 14152 foi coletada com sucesso, uso de ram: 2.544 MB
+
+[2024-05-12 17:59:12] INFO: Uso da ram pela janela: 0.002484375
+[2024-05-12 17:59:12] INFO: Dados da janela gravados.
+[2024-05-12 17:59:12] INFO: Título da janela: Configurações
+[2024-05-12 17:59:12] INFO: Comando da janela: C:\Windows\System32\ApplicationFrameHost.exe
+[2024-05-12 17:59:12] INFO: ID da janela: 132376
+[2024-05-12 17:59:12] INFO: PID da janela: 14144
+[2024-05-12 17:59:12] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-9,y=-9,width=1938,height=1098]
+[2024-05-12 17:59:12] INFO: A ram utilizada na janela de PID 14144 foi coletada com sucesso, uso de ram: 23.732 MB
+
+[2024-05-12 17:59:12] INFO: Uso da ram pela janela: 0.02317578125
+[2024-05-12 17:59:12] INFO: Dados da janela gravados.
+[2024-05-12 17:59:12] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:12] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:12] INFO: ID da janela: 66014
+[2024-05-12 17:59:12] INFO: PID da janela: 7424
+[2024-05-12 17:59:12] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=0,height=0]
+[2024-05-12 17:59:12] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.280 MB
+
+[2024-05-12 17:59:12] INFO: Uso da ram pela janela: 0.233671875
+[2024-05-12 17:59:12] INFO: Dados da janela gravados.
+[2024-05-12 17:59:12] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:12] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:12] INFO: ID da janela: 66004
+[2024-05-12 17:59:12] INFO: PID da janela: 7424
+[2024-05-12 17:59:12] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=19,y=0,width=1901,height=4]
+[2024-05-12 17:59:12] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.280 MB
+
+[2024-05-12 17:59:12] INFO: Uso da ram pela janela: 0.233671875
+[2024-05-12 17:59:12] INFO: Dados da janela gravados.
+[2024-05-12 17:59:12] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:12] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:12] INFO: ID da janela: 65968
+[2024-05-12 17:59:12] INFO: PID da janela: 7424
+[2024-05-12 17:59:12] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=0,height=0]
+[2024-05-12 17:59:13] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.280 MB
+
+[2024-05-12 17:59:13] INFO: Uso da ram pela janela: 0.233671875
+[2024-05-12 17:59:13] INFO: Dados da janela gravados.
+[2024-05-12 17:59:13] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:13] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:13] INFO: ID da janela: 65966
+[2024-05-12 17:59:13] INFO: PID da janela: 7424
+[2024-05-12 17:59:13] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=0,height=0]
+[2024-05-12 17:59:13] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.280 MB
+
+[2024-05-12 17:59:13] INFO: Uso da ram pela janela: 0.233671875
+[2024-05-12 17:59:13] INFO: Dados da janela gravados.
+[2024-05-12 17:59:13] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:13] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:13] INFO: ID da janela: 65964
+[2024-05-12 17:59:13] INFO: PID da janela: 7424
+[2024-05-12 17:59:13] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=0,height=0]
+[2024-05-12 17:59:13] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.280 MB
+
+[2024-05-12 17:59:13] INFO: Uso da ram pela janela: 0.233671875
+[2024-05-12 17:59:13] INFO: Dados da janela gravados.
+[2024-05-12 17:59:13] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:13] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:13] INFO: ID da janela: 65962
+[2024-05-12 17:59:13] INFO: PID da janela: 7424
+[2024-05-12 17:59:13] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=0,height=0]
+[2024-05-12 17:59:13] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.280 MB
+
+[2024-05-12 17:59:13] INFO: Uso da ram pela janela: 0.233671875
+[2024-05-12 17:59:13] INFO: Dados da janela gravados.
+[2024-05-12 17:59:13] INFO: Título da janela: Experiência de Entrada do Windows
+[2024-05-12 17:59:13] INFO: Comando da janela: C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe
+[2024-05-12 17:59:13] INFO: ID da janela: 66074
+[2024-05-12 17:59:13] INFO: PID da janela: 7276
+[2024-05-12 17:59:13] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1920,height=1080]
+[2024-05-12 17:59:13] INFO: A ram utilizada na janela de PID 7276 foi coletada com sucesso, uso de ram: 59.852 MB
+
+[2024-05-12 17:59:13] INFO: Uso da ram pela janela: 0.05844921875
+[2024-05-12 17:59:13] INFO: Dados da janela gravados.
+[2024-05-12 17:59:13] INFO: Título da janela: Program Manager
+[2024-05-12 17:59:13] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:13] INFO: ID da janela: 131206
+[2024-05-12 17:59:13] INFO: PID da janela: 7424
+[2024-05-12 17:59:13] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1920,height=1080]
+[2024-05-12 17:59:14] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.280 MB
+
+[2024-05-12 17:59:14] INFO: Uso da ram pela janela: 0.233671875
+[2024-05-12 17:59:14] INFO: Dados da janela gravados.
+[2024-05-12 17:59:14] INFO: Todas as janelas verificadas.
+[2024-05-12 17:59:14] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.280 MB
+
+[2024-05-12 17:59:14] INFO: 
+Inserindo captura de dados no banco de dados:
+    |Componente: APP
+    |Dado capturado: 0,23
+    |Unidade de medida: MB
+    |Data hora captura: 2024-05-12T17:59:14.413027200
+    |Id componente: 9
+
+[2024-05-12 17:59:14] INFO: Capturando dados dos seus Apps.
+[2024-05-12 17:59:14] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:14] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:14] INFO: ID da janela: 527604
+[2024-05-12 17:59:14] INFO: PID da janela: 7424
+[2024-05-12 17:59:14] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1,height=1]
+[2024-05-12 17:59:14] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.280 MB
+
+[2024-05-12 17:59:14] INFO: Uso da ram pela janela: 0.233671875
+[2024-05-12 17:59:14] INFO: Dados da janela gravados.
+[2024-05-12 17:59:14] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:14] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:14] INFO: ID da janela: 1377306
+[2024-05-12 17:59:14] INFO: PID da janela: 7424
+[2024-05-12 17:59:14] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1,height=1]
+[2024-05-12 17:59:14] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.280 MB
+
+[2024-05-12 17:59:14] INFO: Uso da ram pela janela: 0.233671875
+[2024-05-12 17:59:14] INFO: Dados da janela gravados.
+[2024-05-12 17:59:14] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:14] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:14] INFO: ID da janela: 395274
+[2024-05-12 17:59:14] INFO: PID da janela: 7424
+[2024-05-12 17:59:14] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1,height=1]
+[2024-05-12 17:59:15] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.280 MB
+
+[2024-05-12 17:59:15] INFO: Uso da ram pela janela: 0.233671875
+[2024-05-12 17:59:15] INFO: Dados da janela gravados.
+[2024-05-12 17:59:15] INFO: Título da janela: Main.java - jar-individual-thiago - Visual Studio Code
+[2024-05-12 17:59:15] INFO: Comando da janela: C:\Users\thyth\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2024-05-12 17:59:15] INFO: ID da janela: 1181896
+[2024-05-12 17:59:15] INFO: PID da janela: 12932
+[2024-05-12 17:59:15] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=960,y=0,width=960,height=1080]
+[2024-05-12 17:59:15] INFO: A ram utilizada na janela de PID 12932 foi coletada com sucesso, uso de ram: 90.028 MB
+
+[2024-05-12 17:59:15] INFO: Uso da ram pela janela: 0.08791796875
+[2024-05-12 17:59:15] INFO: Dados da janela gravados.
+[2024-05-12 17:59:15] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:15] INFO: Comando da janela: C:\Windows\System32\cmd.exe
+[2024-05-12 17:59:15] INFO: ID da janela: 789764
+[2024-05-12 17:59:15] INFO: PID da janela: 26036
+[2024-05-12 17:59:15] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=18,height=18]
+[2024-05-12 17:59:15] INFO: A ram utilizada na janela de PID 26036 foi coletada com sucesso, uso de ram: 4.528 MB
+
+[2024-05-12 17:59:15] INFO: Uso da ram pela janela: 0.004421875
+[2024-05-12 17:59:15] INFO: Dados da janela gravados.
+[2024-05-12 17:59:15] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:15] INFO: Comando da janela: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+[2024-05-12 17:59:15] INFO: ID da janela: 920240
+[2024-05-12 17:59:15] INFO: PID da janela: 27720
+[2024-05-12 17:59:15] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=18,height=18]
+[2024-05-12 17:59:15] INFO: A ram utilizada na janela de PID 27720 foi coletada com sucesso, uso de ram: 54.288 MB
+
+[2024-05-12 17:59:15] INFO: Uso da ram pela janela: 0.053015625
+[2024-05-12 17:59:15] INFO: Dados da janela gravados.
+[2024-05-12 17:59:15] INFO: Título da janela: Prompt de comando - powershell.exe  -NoExit -Command "Start-Process java -ArgumentList ('-jar', 'jar-individual-thiago-1.0-SNAPSHOT-jar-with-dependencies.jar') -Verb RunAs"
+[2024-05-12 17:59:15] INFO: Comando da janela: C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.19.11213.0_x64__8wekyb3d8bbwe\WindowsTerminal.exe
+[2024-05-12 17:59:15] INFO: ID da janela: 5179116
+[2024-05-12 17:59:15] INFO: PID da janela: 25716
+[2024-05-12 17:59:15] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-8,y=0,width=976,height=1088]
+[2024-05-12 17:59:16] INFO: A ram utilizada na janela de PID 25716 foi coletada com sucesso, uso de ram: 80.588 MB
+
+[2024-05-12 17:59:16] INFO: Uso da ram pela janela: 0.07869921875
+[2024-05-12 17:59:16] INFO: Dados da janela gravados.
+[2024-05-12 17:59:16] INFO: Título da janela: target
+[2024-05-12 17:59:16] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:16] INFO: ID da janela: 1442796
+[2024-05-12 17:59:16] INFO: PID da janela: 7424
+[2024-05-12 17:59:16] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1920,height=1080]
+[2024-05-12 17:59:16] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.280 MB
+
+[2024-05-12 17:59:16] INFO: Uso da ram pela janela: 0.233671875
+[2024-05-12 17:59:16] INFO: Dados da janela gravados.
+[2024-05-12 17:59:16] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:16] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:16] INFO: ID da janela: 131202
+[2024-05-12 17:59:16] INFO: PID da janela: 7424
+[2024-05-12 17:59:16] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=1078,width=1920,height=60]
+[2024-05-12 17:59:16] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.280 MB
+
+[2024-05-12 17:59:16] INFO: Uso da ram pela janela: 0.233671875
+[2024-05-12 17:59:16] INFO: Dados da janela gravados.
+[2024-05-12 17:59:16] INFO: Título da janela: MySQL Workbench
+[2024-05-12 17:59:16] INFO: Comando da janela: C:\Program Files\MySQL\MySQL Workbench 8.0\MySQLWorkbench.exe
+[2024-05-12 17:59:16] INFO: ID da janela: 3015640
+[2024-05-12 17:59:16] INFO: PID da janela: 11636
+[2024-05-12 17:59:16] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-10,y=-10,width=1940,height=1100]
+[2024-05-12 17:59:16] INFO: A ram utilizada na janela de PID 11636 foi coletada com sucesso, uso de ram: 151.368 MB
+
+[2024-05-12 17:59:16] INFO: Uso da ram pela janela: 0.1478203125
+[2024-05-12 17:59:16] INFO: Dados da janela gravados.
+[2024-05-12 17:59:16] INFO: Título da janela: Gerenciador de Tarefas
+[2024-05-12 17:59:16] INFO: Comando da janela: C:\Windows\System32\Taskmgr.exe
+[2024-05-12 17:59:16] INFO: ID da janela: 920526
+[2024-05-12 17:59:16] INFO: PID da janela: 14388
+[2024-05-12 17:59:16] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=976,height=1088]
+[2024-05-12 17:59:16] INFO: A ram utilizada na janela de PID 14388 foi coletada com sucesso, uso de ram: 112.132 MB
+
+[2024-05-12 17:59:16] INFO: Uso da ram pela janela: 0.10950390625
+[2024-05-12 17:59:16] INFO: Dados da janela gravados.
+[2024-05-12 17:59:16] INFO: Título da janela: Verificar e Trocar Usuário - Opera
+[2024-05-12 17:59:16] INFO: Comando da janela: C:\Users\thyth\AppData\Local\Programs\Opera GX\opera.exe
+[2024-05-12 17:59:16] INFO: ID da janela: 526032
+[2024-05-12 17:59:16] INFO: PID da janela: 5092
+[2024-05-12 17:59:16] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-9,y=-9,width=1938,height=1098]
+[2024-05-12 17:59:17] INFO: A ram utilizada na janela de PID 5092 foi coletada com sucesso, uso de ram: 196.684 MB
+
+[2024-05-12 17:59:17] INFO: Uso da ram pela janela: 0.19207421875
+[2024-05-12 17:59:17] INFO: Dados da janela gravados.
+[2024-05-12 17:59:17] INFO: Título da janela: porhub - Pesquisa Google - Opera
+[2024-05-12 17:59:17] INFO: Comando da janela: C:\Users\thyth\AppData\Local\Programs\Opera GX\opera.exe
+[2024-05-12 17:59:17] INFO: ID da janela: 5835590
+[2024-05-12 17:59:17] INFO: PID da janela: 5092
+[2024-05-12 17:59:17] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-9,y=-9,width=1938,height=1098]
+[2024-05-12 17:59:17] INFO: A ram utilizada na janela de PID 5092 foi coletada com sucesso, uso de ram: 196.684 MB
+
+[2024-05-12 17:59:17] INFO: Uso da ram pela janela: 0.19207421875
+[2024-05-12 17:59:17] INFO: Dados da janela gravados.
+[2024-05-12 17:59:17] INFO: Título da janela:  app.log - Bloco de notas
+[2024-05-12 17:59:17] INFO: Comando da janela: C:\Program Files\WindowsApps\Microsoft.WindowsNotepad_11.2402.22.0_x64__8wekyb3d8bbwe\Notepad\Notepad.exe
+[2024-05-12 17:59:17] INFO: ID da janela: 4655598
+[2024-05-12 17:59:17] INFO: PID da janela: 9172
+[2024-05-12 17:59:17] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=29,y=181,width=856,height=800]
+[2024-05-12 17:59:17] INFO: A ram utilizada na janela de PID 9172 foi coletada com sucesso, uso de ram: 63.884 MB
+
+[2024-05-12 17:59:17] INFO: Uso da ram pela janela: 0.06238671875
+[2024-05-12 17:59:17] INFO: Dados da janela gravados.
+[2024-05-12 17:59:17] INFO: Título da janela: Spotify Free
+[2024-05-12 17:59:17] INFO: Comando da janela: C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.235.663.0_x64__zpdnekdrzrea0\Spotify.exe
+[2024-05-12 17:59:17] INFO: ID da janela: 985260
+[2024-05-12 17:59:17] INFO: PID da janela: 19092
+[2024-05-12 17:59:17] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-9,y=-9,width=1938,height=1098]
+[2024-05-12 17:59:17] INFO: A ram utilizada na janela de PID 19092 foi coletada com sucesso, uso de ram: 83.108 MB
+
+[2024-05-12 17:59:17] INFO: Uso da ram pela janela: 0.08116015625
+[2024-05-12 17:59:17] INFO: Dados da janela gravados.
+[2024-05-12 17:59:17] INFO: Título da janela: Realtek Audio Console
+[2024-05-12 17:59:17] INFO: Comando da janela: C:\Program Files\WindowsApps\realteksemiconductorcorp.realtekaudiocontrol_1.10.216.0_x64__dt26b99r8h8gj\RtkUWP.exe
+[2024-05-12 17:59:17] INFO: ID da janela: 198354
+[2024-05-12 17:59:17] INFO: PID da janela: 15128
+[2024-05-12 17:59:17] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=41,width=1280,height=960]
+[2024-05-12 17:59:18] INFO: A ram utilizada na janela de PID 15128 foi coletada com sucesso, uso de ram: 11.820 MB
+
+[2024-05-12 17:59:18] INFO: Uso da ram pela janela: 0.01154296875
+[2024-05-12 17:59:18] INFO: Dados da janela gravados.
+[2024-05-12 17:59:18] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:18] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:18] INFO: ID da janela: 1640134
+[2024-05-12 17:59:18] INFO: PID da janela: 7424
+[2024-05-12 17:59:18] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1920,height=1080]
+[2024-05-12 17:59:18] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.280 MB
+
+[2024-05-12 17:59:18] INFO: Uso da ram pela janela: 0.233671875
+[2024-05-12 17:59:18] INFO: Dados da janela gravados.
+[2024-05-12 17:59:18] INFO: Título da janela: Realtek Audio Console
+[2024-05-12 17:59:18] INFO: Comando da janela: C:\Windows\System32\ApplicationFrameHost.exe
+[2024-05-12 17:59:18] INFO: ID da janela: 788406
+[2024-05-12 17:59:18] INFO: PID da janela: 14144
+[2024-05-12 17:59:18] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=50,y=40,width=1298,height=1010]
+[2024-05-12 17:59:18] INFO: A ram utilizada na janela de PID 14144 foi coletada com sucesso, uso de ram: 23.732 MB
+
+[2024-05-12 17:59:18] INFO: Uso da ram pela janela: 0.02317578125
+[2024-05-12 17:59:18] INFO: Dados da janela gravados.
+[2024-05-12 17:59:18] INFO: Título da janela: Configurações
+[2024-05-12 17:59:18] INFO: Comando da janela: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+[2024-05-12 17:59:18] INFO: ID da janela: 67154
+[2024-05-12 17:59:18] INFO: PID da janela: 14152
+[2024-05-12 17:59:18] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=9,width=1920,height=1080]
+[2024-05-12 17:59:18] INFO: A ram utilizada na janela de PID 14152 foi coletada com sucesso, uso de ram: 2.544 MB
+
+[2024-05-12 17:59:18] INFO: Uso da ram pela janela: 0.002484375
+[2024-05-12 17:59:18] INFO: Dados da janela gravados.
+[2024-05-12 17:59:18] INFO: Título da janela: Configurações
+[2024-05-12 17:59:18] INFO: Comando da janela: C:\Windows\System32\ApplicationFrameHost.exe
+[2024-05-12 17:59:18] INFO: ID da janela: 132376
+[2024-05-12 17:59:18] INFO: PID da janela: 14144
+[2024-05-12 17:59:18] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-9,y=-9,width=1938,height=1098]
+[2024-05-12 17:59:18] INFO: A ram utilizada na janela de PID 14144 foi coletada com sucesso, uso de ram: 23.732 MB
+
+[2024-05-12 17:59:18] INFO: Uso da ram pela janela: 0.02317578125
+[2024-05-12 17:59:18] INFO: Dados da janela gravados.
+[2024-05-12 17:59:18] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:18] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:18] INFO: ID da janela: 66014
+[2024-05-12 17:59:18] INFO: PID da janela: 7424
+[2024-05-12 17:59:18] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=0,height=0]
+[2024-05-12 17:59:19] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.264 MB
+
+[2024-05-12 17:59:19] INFO: Uso da ram pela janela: 0.23365625
+[2024-05-12 17:59:19] INFO: Dados da janela gravados.
+[2024-05-12 17:59:19] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:19] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:19] INFO: ID da janela: 66004
+[2024-05-12 17:59:19] INFO: PID da janela: 7424
+[2024-05-12 17:59:19] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=19,y=0,width=1901,height=4]
+[2024-05-12 17:59:19] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.264 MB
+
+[2024-05-12 17:59:19] INFO: Uso da ram pela janela: 0.23365625
+[2024-05-12 17:59:19] INFO: Dados da janela gravados.
+[2024-05-12 17:59:19] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:19] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:19] INFO: ID da janela: 65968
+[2024-05-12 17:59:19] INFO: PID da janela: 7424
+[2024-05-12 17:59:19] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=0,height=0]
+[2024-05-12 17:59:19] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.264 MB
+
+[2024-05-12 17:59:19] INFO: Uso da ram pela janela: 0.23365625
+[2024-05-12 17:59:19] INFO: Dados da janela gravados.
+[2024-05-12 17:59:19] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:19] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:19] INFO: ID da janela: 65966
+[2024-05-12 17:59:19] INFO: PID da janela: 7424
+[2024-05-12 17:59:19] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=0,height=0]
+[2024-05-12 17:59:19] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.264 MB
+
+[2024-05-12 17:59:19] INFO: Uso da ram pela janela: 0.23365625
+[2024-05-12 17:59:19] INFO: Dados da janela gravados.
+[2024-05-12 17:59:19] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:19] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:19] INFO: ID da janela: 65964
+[2024-05-12 17:59:19] INFO: PID da janela: 7424
+[2024-05-12 17:59:19] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=0,height=0]
+[2024-05-12 17:59:20] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.264 MB
+
+[2024-05-12 17:59:20] INFO: Uso da ram pela janela: 0.23365625
+[2024-05-12 17:59:20] INFO: Dados da janela gravados.
+[2024-05-12 17:59:20] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:20] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:20] INFO: ID da janela: 65962
+[2024-05-12 17:59:20] INFO: PID da janela: 7424
+[2024-05-12 17:59:20] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=0,height=0]
+[2024-05-12 17:59:20] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.264 MB
+
+[2024-05-12 17:59:20] INFO: Uso da ram pela janela: 0.23365625
+[2024-05-12 17:59:20] INFO: Dados da janela gravados.
+[2024-05-12 17:59:20] INFO: Título da janela: Experiência de Entrada do Windows
+[2024-05-12 17:59:20] INFO: Comando da janela: C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe
+[2024-05-12 17:59:20] INFO: ID da janela: 66074
+[2024-05-12 17:59:20] INFO: PID da janela: 7276
+[2024-05-12 17:59:20] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1920,height=1080]
+[2024-05-12 17:59:20] INFO: A ram utilizada na janela de PID 7276 foi coletada com sucesso, uso de ram: 59.852 MB
+
+[2024-05-12 17:59:20] INFO: Uso da ram pela janela: 0.05844921875
+[2024-05-12 17:59:20] INFO: Dados da janela gravados.
+[2024-05-12 17:59:20] INFO: Título da janela: Program Manager
+[2024-05-12 17:59:20] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:20] INFO: ID da janela: 131206
+[2024-05-12 17:59:20] INFO: PID da janela: 7424
+[2024-05-12 17:59:20] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1920,height=1080]
+[2024-05-12 17:59:20] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.280 MB
+
+[2024-05-12 17:59:20] INFO: Uso da ram pela janela: 0.233671875
+[2024-05-12 17:59:20] INFO: Dados da janela gravados.
+[2024-05-12 17:59:20] INFO: Todas as janelas verificadas.
+[2024-05-12 17:59:20] INFO: 
+Inserindo captura de dados no banco de dados:
+    |Componente: APP
+    |Dado capturado: nu
+    |Unidade de medida: MB
+    |Data hora captura: 2024-05-12T17:59:20.644199900
+    |Id componente: 10
+
+[2024-05-12 17:59:20] INFO: Capturando dados dos seus Apps.
+[2024-05-12 17:59:20] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:20] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:20] INFO: ID da janela: 527604
+[2024-05-12 17:59:20] INFO: PID da janela: 7424
+[2024-05-12 17:59:20] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1,height=1]
+[2024-05-12 17:59:21] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.280 MB
+
+[2024-05-12 17:59:21] INFO: Uso da ram pela janela: 0.233671875
+[2024-05-12 17:59:21] INFO: Dados da janela gravados.
+[2024-05-12 17:59:21] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:21] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:21] INFO: ID da janela: 1377306
+[2024-05-12 17:59:21] INFO: PID da janela: 7424
+[2024-05-12 17:59:21] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1,height=1]
+[2024-05-12 17:59:21] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.280 MB
+
+[2024-05-12 17:59:21] INFO: Uso da ram pela janela: 0.233671875
+[2024-05-12 17:59:21] INFO: Dados da janela gravados.
+[2024-05-12 17:59:21] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:21] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:21] INFO: ID da janela: 395274
+[2024-05-12 17:59:21] INFO: PID da janela: 7424
+[2024-05-12 17:59:21] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1,height=1]
+[2024-05-12 17:59:21] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.280 MB
+
+[2024-05-12 17:59:21] INFO: Uso da ram pela janela: 0.233671875
+[2024-05-12 17:59:21] INFO: Dados da janela gravados.
+[2024-05-12 17:59:21] INFO: Título da janela: Main.java - jar-individual-thiago - Visual Studio Code
+[2024-05-12 17:59:21] INFO: Comando da janela: C:\Users\thyth\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2024-05-12 17:59:21] INFO: ID da janela: 1181896
+[2024-05-12 17:59:21] INFO: PID da janela: 12932
+[2024-05-12 17:59:21] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=960,y=0,width=960,height=1080]
+[2024-05-12 17:59:21] INFO: A ram utilizada na janela de PID 12932 foi coletada com sucesso, uso de ram: 90.088 MB
+
+[2024-05-12 17:59:21] INFO: Uso da ram pela janela: 0.0879765625
+[2024-05-12 17:59:21] INFO: Dados da janela gravados.
+[2024-05-12 17:59:21] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:21] INFO: Comando da janela: C:\Windows\System32\cmd.exe
+[2024-05-12 17:59:21] INFO: ID da janela: 789764
+[2024-05-12 17:59:21] INFO: PID da janela: 26036
+[2024-05-12 17:59:21] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=18,height=18]
+[2024-05-12 17:59:21] INFO: A ram utilizada na janela de PID 26036 foi coletada com sucesso, uso de ram: 4.528 MB
+
+[2024-05-12 17:59:21] INFO: Uso da ram pela janela: 0.004421875
+[2024-05-12 17:59:21] INFO: Dados da janela gravados.
+[2024-05-12 17:59:21] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:21] INFO: Comando da janela: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+[2024-05-12 17:59:21] INFO: ID da janela: 920240
+[2024-05-12 17:59:21] INFO: PID da janela: 27720
+[2024-05-12 17:59:21] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=18,height=18]
+[2024-05-12 17:59:22] INFO: A ram utilizada na janela de PID 27720 foi coletada com sucesso, uso de ram: 54.288 MB
+
+[2024-05-12 17:59:22] INFO: Uso da ram pela janela: 0.053015625
+[2024-05-12 17:59:22] INFO: Dados da janela gravados.
+[2024-05-12 17:59:22] INFO: Título da janela: Prompt de comando - powershell.exe  -NoExit -Command "Start-Process java -ArgumentList ('-jar', 'jar-individual-thiago-1.0-SNAPSHOT-jar-with-dependencies.jar') -Verb RunAs"
+[2024-05-12 17:59:22] INFO: Comando da janela: C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.19.11213.0_x64__8wekyb3d8bbwe\WindowsTerminal.exe
+[2024-05-12 17:59:22] INFO: ID da janela: 5179116
+[2024-05-12 17:59:22] INFO: PID da janela: 25716
+[2024-05-12 17:59:22] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-8,y=0,width=976,height=1088]
+[2024-05-12 17:59:22] INFO: A ram utilizada na janela de PID 25716 foi coletada com sucesso, uso de ram: 80.588 MB
+
+[2024-05-12 17:59:22] INFO: Uso da ram pela janela: 0.07869921875
+[2024-05-12 17:59:22] INFO: Dados da janela gravados.
+[2024-05-12 17:59:22] INFO: Título da janela: target
+[2024-05-12 17:59:22] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:22] INFO: ID da janela: 1442796
+[2024-05-12 17:59:22] INFO: PID da janela: 7424
+[2024-05-12 17:59:22] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1920,height=1080]
+[2024-05-12 17:59:22] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.280 MB
+
+[2024-05-12 17:59:22] INFO: Uso da ram pela janela: 0.233671875
+[2024-05-12 17:59:22] INFO: Dados da janela gravados.
+[2024-05-12 17:59:22] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:22] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:22] INFO: ID da janela: 131202
+[2024-05-12 17:59:22] INFO: PID da janela: 7424
+[2024-05-12 17:59:22] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=1078,width=1920,height=60]
+[2024-05-12 17:59:22] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.280 MB
+
+[2024-05-12 17:59:22] INFO: Uso da ram pela janela: 0.233671875
+[2024-05-12 17:59:22] INFO: Dados da janela gravados.
+[2024-05-12 17:59:22] INFO: Título da janela: MySQL Workbench
+[2024-05-12 17:59:22] INFO: Comando da janela: C:\Program Files\MySQL\MySQL Workbench 8.0\MySQLWorkbench.exe
+[2024-05-12 17:59:22] INFO: ID da janela: 3015640
+[2024-05-12 17:59:22] INFO: PID da janela: 11636
+[2024-05-12 17:59:22] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-10,y=-10,width=1940,height=1100]
+[2024-05-12 17:59:22] INFO: A ram utilizada na janela de PID 11636 foi coletada com sucesso, uso de ram: 151.368 MB
+
+[2024-05-12 17:59:22] INFO: Uso da ram pela janela: 0.1478203125
+[2024-05-12 17:59:22] INFO: Dados da janela gravados.
+[2024-05-12 17:59:22] INFO: Título da janela: Gerenciador de Tarefas
+[2024-05-12 17:59:22] INFO: Comando da janela: C:\Windows\System32\Taskmgr.exe
+[2024-05-12 17:59:22] INFO: ID da janela: 920526
+[2024-05-12 17:59:22] INFO: PID da janela: 14388
+[2024-05-12 17:59:22] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=976,height=1088]
+[2024-05-12 17:59:23] INFO: A ram utilizada na janela de PID 14388 foi coletada com sucesso, uso de ram: 112.140 MB
+
+[2024-05-12 17:59:23] INFO: Uso da ram pela janela: 0.10951171875
+[2024-05-12 17:59:23] INFO: Dados da janela gravados.
+[2024-05-12 17:59:23] INFO: Título da janela: Verificar e Trocar Usuário - Opera
+[2024-05-12 17:59:23] INFO: Comando da janela: C:\Users\thyth\AppData\Local\Programs\Opera GX\opera.exe
+[2024-05-12 17:59:23] INFO: ID da janela: 526032
+[2024-05-12 17:59:23] INFO: PID da janela: 5092
+[2024-05-12 17:59:23] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-9,y=-9,width=1938,height=1098]
+[2024-05-12 17:59:23] INFO: A ram utilizada na janela de PID 5092 foi coletada com sucesso, uso de ram: 196.700 MB
+
+[2024-05-12 17:59:23] INFO: Uso da ram pela janela: 0.19208984375
+[2024-05-12 17:59:23] INFO: Dados da janela gravados.
+[2024-05-12 17:59:23] INFO: Título da janela: porhub - Pesquisa Google - Opera
+[2024-05-12 17:59:23] INFO: Comando da janela: C:\Users\thyth\AppData\Local\Programs\Opera GX\opera.exe
+[2024-05-12 17:59:23] INFO: ID da janela: 5835590
+[2024-05-12 17:59:23] INFO: PID da janela: 5092
+[2024-05-12 17:59:23] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-9,y=-9,width=1938,height=1098]
+[2024-05-12 17:59:23] INFO: A ram utilizada na janela de PID 5092 foi coletada com sucesso, uso de ram: 196.700 MB
+
+[2024-05-12 17:59:23] INFO: Uso da ram pela janela: 0.19208984375
+[2024-05-12 17:59:23] INFO: Dados da janela gravados.
+[2024-05-12 17:59:23] INFO: Título da janela:  app.log - Bloco de notas
+[2024-05-12 17:59:23] INFO: Comando da janela: C:\Program Files\WindowsApps\Microsoft.WindowsNotepad_11.2402.22.0_x64__8wekyb3d8bbwe\Notepad\Notepad.exe
+[2024-05-12 17:59:23] INFO: ID da janela: 4655598
+[2024-05-12 17:59:23] INFO: PID da janela: 9172
+[2024-05-12 17:59:23] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=29,y=181,width=856,height=800]
+[2024-05-12 17:59:23] INFO: A ram utilizada na janela de PID 9172 foi coletada com sucesso, uso de ram: 63.884 MB
+
+[2024-05-12 17:59:23] INFO: Uso da ram pela janela: 0.06238671875
+[2024-05-12 17:59:23] INFO: Dados da janela gravados.
+[2024-05-12 17:59:23] INFO: Título da janela: Spotify Free
+[2024-05-12 17:59:23] INFO: Comando da janela: C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.235.663.0_x64__zpdnekdrzrea0\Spotify.exe
+[2024-05-12 17:59:23] INFO: ID da janela: 985260
+[2024-05-12 17:59:23] INFO: PID da janela: 19092
+[2024-05-12 17:59:23] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-9,y=-9,width=1938,height=1098]
+[2024-05-12 17:59:24] INFO: A ram utilizada na janela de PID 19092 foi coletada com sucesso, uso de ram: 83.084 MB
+
+[2024-05-12 17:59:24] INFO: Uso da ram pela janela: 0.08113671875
+[2024-05-12 17:59:24] INFO: Dados da janela gravados.
+[2024-05-12 17:59:24] INFO: Título da janela: Realtek Audio Console
+[2024-05-12 17:59:24] INFO: Comando da janela: C:\Program Files\WindowsApps\realteksemiconductorcorp.realtekaudiocontrol_1.10.216.0_x64__dt26b99r8h8gj\RtkUWP.exe
+[2024-05-12 17:59:24] INFO: ID da janela: 198354
+[2024-05-12 17:59:24] INFO: PID da janela: 15128
+[2024-05-12 17:59:24] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=41,width=1280,height=960]
+[2024-05-12 17:59:24] INFO: A ram utilizada na janela de PID 15128 foi coletada com sucesso, uso de ram: 11.820 MB
+
+[2024-05-12 17:59:24] INFO: Uso da ram pela janela: 0.01154296875
+[2024-05-12 17:59:24] INFO: Dados da janela gravados.
+[2024-05-12 17:59:24] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:24] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:24] INFO: ID da janela: 1640134
+[2024-05-12 17:59:24] INFO: PID da janela: 7424
+[2024-05-12 17:59:24] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1920,height=1080]
+[2024-05-12 17:59:24] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.248 MB
+
+[2024-05-12 17:59:24] INFO: Uso da ram pela janela: 0.233640625
+[2024-05-12 17:59:24] INFO: Dados da janela gravados.
+[2024-05-12 17:59:24] INFO: Título da janela: Realtek Audio Console
+[2024-05-12 17:59:24] INFO: Comando da janela: C:\Windows\System32\ApplicationFrameHost.exe
+[2024-05-12 17:59:24] INFO: ID da janela: 788406
+[2024-05-12 17:59:24] INFO: PID da janela: 14144
+[2024-05-12 17:59:24] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=50,y=40,width=1298,height=1010]
+[2024-05-12 17:59:24] INFO: A ram utilizada na janela de PID 14144 foi coletada com sucesso, uso de ram: 23.732 MB
+
+[2024-05-12 17:59:24] INFO: Uso da ram pela janela: 0.02317578125
+[2024-05-12 17:59:24] INFO: Dados da janela gravados.
+[2024-05-12 17:59:24] INFO: Título da janela: Configurações
+[2024-05-12 17:59:24] INFO: Comando da janela: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+[2024-05-12 17:59:24] INFO: ID da janela: 67154
+[2024-05-12 17:59:24] INFO: PID da janela: 14152
+[2024-05-12 17:59:24] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=9,width=1920,height=1080]
+[2024-05-12 17:59:25] INFO: A ram utilizada na janela de PID 14152 foi coletada com sucesso, uso de ram: 2.544 MB
+
+[2024-05-12 17:59:25] INFO: Uso da ram pela janela: 0.002484375
+[2024-05-12 17:59:25] INFO: Dados da janela gravados.
+[2024-05-12 17:59:25] INFO: Título da janela: Configurações
+[2024-05-12 17:59:25] INFO: Comando da janela: C:\Windows\System32\ApplicationFrameHost.exe
+[2024-05-12 17:59:25] INFO: ID da janela: 132376
+[2024-05-12 17:59:25] INFO: PID da janela: 14144
+[2024-05-12 17:59:25] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-9,y=-9,width=1938,height=1098]
+[2024-05-12 17:59:25] INFO: A ram utilizada na janela de PID 14144 foi coletada com sucesso, uso de ram: 23.732 MB
+
+[2024-05-12 17:59:25] INFO: Uso da ram pela janela: 0.02317578125
+[2024-05-12 17:59:25] INFO: Dados da janela gravados.
+[2024-05-12 17:59:25] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:25] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:25] INFO: ID da janela: 66014
+[2024-05-12 17:59:25] INFO: PID da janela: 7424
+[2024-05-12 17:59:25] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=0,height=0]
+[2024-05-12 17:59:25] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.252 MB
+
+[2024-05-12 17:59:25] INFO: Uso da ram pela janela: 0.23364453125
+[2024-05-12 17:59:25] INFO: Dados da janela gravados.
+[2024-05-12 17:59:25] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:25] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:25] INFO: ID da janela: 66004
+[2024-05-12 17:59:25] INFO: PID da janela: 7424
+[2024-05-12 17:59:25] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=19,y=0,width=1901,height=4]
+[2024-05-12 17:59:25] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.252 MB
+
+[2024-05-12 17:59:25] INFO: Uso da ram pela janela: 0.23364453125
+[2024-05-12 17:59:25] INFO: Dados da janela gravados.
+[2024-05-12 17:59:25] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:25] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:25] INFO: ID da janela: 65968
+[2024-05-12 17:59:25] INFO: PID da janela: 7424
+[2024-05-12 17:59:25] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=0,height=0]
+[2024-05-12 17:59:25] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.252 MB
+
+[2024-05-12 17:59:25] INFO: Uso da ram pela janela: 0.23364453125
+[2024-05-12 17:59:25] INFO: Dados da janela gravados.
+[2024-05-12 17:59:25] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:25] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:25] INFO: ID da janela: 65966
+[2024-05-12 17:59:25] INFO: PID da janela: 7424
+[2024-05-12 17:59:25] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=0,height=0]
+[2024-05-12 17:59:26] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.252 MB
+
+[2024-05-12 17:59:26] INFO: Uso da ram pela janela: 0.23364453125
+[2024-05-12 17:59:26] INFO: Dados da janela gravados.
+[2024-05-12 17:59:26] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:26] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:26] INFO: ID da janela: 65964
+[2024-05-12 17:59:26] INFO: PID da janela: 7424
+[2024-05-12 17:59:26] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=0,height=0]
+[2024-05-12 17:59:26] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.252 MB
+
+[2024-05-12 17:59:26] INFO: Uso da ram pela janela: 0.23364453125
+[2024-05-12 17:59:26] INFO: Dados da janela gravados.
+[2024-05-12 17:59:26] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:26] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:26] INFO: ID da janela: 65962
+[2024-05-12 17:59:26] INFO: PID da janela: 7424
+[2024-05-12 17:59:26] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=0,height=0]
+[2024-05-12 17:59:26] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.252 MB
+
+[2024-05-12 17:59:26] INFO: Uso da ram pela janela: 0.23364453125
+[2024-05-12 17:59:26] INFO: Dados da janela gravados.
+[2024-05-12 17:59:26] INFO: Título da janela: Experiência de Entrada do Windows
+[2024-05-12 17:59:26] INFO: Comando da janela: C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe
+[2024-05-12 17:59:26] INFO: ID da janela: 66074
+[2024-05-12 17:59:26] INFO: PID da janela: 7276
+[2024-05-12 17:59:26] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1920,height=1080]
+[2024-05-12 17:59:26] INFO: A ram utilizada na janela de PID 7276 foi coletada com sucesso, uso de ram: 59.852 MB
+
+[2024-05-12 17:59:26] INFO: Uso da ram pela janela: 0.05844921875
+[2024-05-12 17:59:26] INFO: Dados da janela gravados.
+[2024-05-12 17:59:26] INFO: Título da janela: Program Manager
+[2024-05-12 17:59:26] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:26] INFO: ID da janela: 131206
+[2024-05-12 17:59:26] INFO: PID da janela: 7424
+[2024-05-12 17:59:26] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1920,height=1080]
+[2024-05-12 17:59:26] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.252 MB
+
+[2024-05-12 17:59:26] INFO: Uso da ram pela janela: 0.23364453125
+[2024-05-12 17:59:26] INFO: Dados da janela gravados.
+[2024-05-12 17:59:26] INFO: Todas as janelas verificadas.
+[2024-05-12 17:59:27] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.252 MB
+
+[2024-05-12 17:59:27] INFO: 
+Inserindo captura de dados no banco de dados:
+    |Componente: APP
+    |Dado capturado: 0,23
+    |Unidade de medida: MB
+    |Data hora captura: 2024-05-12T17:59:27.240569
+    |Id componente: 11
+
+[2024-05-12 17:59:27] INFO: Capturando dados dos seus Apps.
+[2024-05-12 17:59:27] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:27] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:27] INFO: ID da janela: 527604
+[2024-05-12 17:59:27] INFO: PID da janela: 7424
+[2024-05-12 17:59:27] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1,height=1]
+[2024-05-12 17:59:27] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.252 MB
+
+[2024-05-12 17:59:27] INFO: Uso da ram pela janela: 0.23364453125
+[2024-05-12 17:59:27] INFO: Dados da janela gravados.
+[2024-05-12 17:59:27] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:27] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:27] INFO: ID da janela: 1377306
+[2024-05-12 17:59:27] INFO: PID da janela: 7424
+[2024-05-12 17:59:27] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1,height=1]
+[2024-05-12 17:59:27] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.252 MB
+
+[2024-05-12 17:59:27] INFO: Uso da ram pela janela: 0.23364453125
+[2024-05-12 17:59:27] INFO: Dados da janela gravados.
+[2024-05-12 17:59:27] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:27] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:27] INFO: ID da janela: 395274
+[2024-05-12 17:59:27] INFO: PID da janela: 7424
+[2024-05-12 17:59:27] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1,height=1]
+[2024-05-12 17:59:27] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.252 MB
+
+[2024-05-12 17:59:27] INFO: Uso da ram pela janela: 0.23364453125
+[2024-05-12 17:59:27] INFO: Dados da janela gravados.
+[2024-05-12 17:59:27] INFO: Título da janela: Main.java - jar-individual-thiago - Visual Studio Code
+[2024-05-12 17:59:27] INFO: Comando da janela: C:\Users\thyth\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2024-05-12 17:59:27] INFO: ID da janela: 1181896
+[2024-05-12 17:59:27] INFO: PID da janela: 12932
+[2024-05-12 17:59:27] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=960,y=0,width=960,height=1080]
+[2024-05-12 17:59:28] INFO: A ram utilizada na janela de PID 12932 foi coletada com sucesso, uso de ram: 90.264 MB
+
+[2024-05-12 17:59:28] INFO: Uso da ram pela janela: 0.0881484375
+[2024-05-12 17:59:28] INFO: Dados da janela gravados.
+[2024-05-12 17:59:28] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:28] INFO: Comando da janela: C:\Windows\System32\cmd.exe
+[2024-05-12 17:59:28] INFO: ID da janela: 789764
+[2024-05-12 17:59:28] INFO: PID da janela: 26036
+[2024-05-12 17:59:28] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=18,height=18]
+[2024-05-12 17:59:28] INFO: A ram utilizada na janela de PID 26036 foi coletada com sucesso, uso de ram: 4.528 MB
+
+[2024-05-12 17:59:28] INFO: Uso da ram pela janela: 0.004421875
+[2024-05-12 17:59:28] INFO: Dados da janela gravados.
+[2024-05-12 17:59:28] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:28] INFO: Comando da janela: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+[2024-05-12 17:59:28] INFO: ID da janela: 920240
+[2024-05-12 17:59:28] INFO: PID da janela: 27720
+[2024-05-12 17:59:28] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=18,height=18]
+[2024-05-12 17:59:28] INFO: A ram utilizada na janela de PID 27720 foi coletada com sucesso, uso de ram: 54.288 MB
+
+[2024-05-12 17:59:28] INFO: Uso da ram pela janela: 0.053015625
+[2024-05-12 17:59:28] INFO: Dados da janela gravados.
+[2024-05-12 17:59:28] INFO: Título da janela: Prompt de comando - powershell.exe  -NoExit -Command "Start-Process java -ArgumentList ('-jar', 'jar-individual-thiago-1.0-SNAPSHOT-jar-with-dependencies.jar') -Verb RunAs"
+[2024-05-12 17:59:28] INFO: Comando da janela: C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.19.11213.0_x64__8wekyb3d8bbwe\WindowsTerminal.exe
+[2024-05-12 17:59:28] INFO: ID da janela: 5179116
+[2024-05-12 17:59:28] INFO: PID da janela: 25716
+[2024-05-12 17:59:28] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-8,y=0,width=976,height=1088]
+[2024-05-12 17:59:28] INFO: A ram utilizada na janela de PID 25716 foi coletada com sucesso, uso de ram: 80.588 MB
+
+[2024-05-12 17:59:28] INFO: Uso da ram pela janela: 0.07869921875
+[2024-05-12 17:59:28] INFO: Dados da janela gravados.
+[2024-05-12 17:59:28] INFO: Título da janela: target
+[2024-05-12 17:59:28] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:28] INFO: ID da janela: 1442796
+[2024-05-12 17:59:28] INFO: PID da janela: 7424
+[2024-05-12 17:59:28] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1920,height=1080]
+[2024-05-12 17:59:29] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.252 MB
+
+[2024-05-12 17:59:29] INFO: Uso da ram pela janela: 0.23364453125
+[2024-05-12 17:59:29] INFO: Dados da janela gravados.
+[2024-05-12 17:59:29] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:29] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:29] INFO: ID da janela: 131202
+[2024-05-12 17:59:29] INFO: PID da janela: 7424
+[2024-05-12 17:59:29] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=1078,width=1920,height=60]
+[2024-05-12 17:59:29] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.252 MB
+
+[2024-05-12 17:59:29] INFO: Uso da ram pela janela: 0.23364453125
+[2024-05-12 17:59:29] INFO: Dados da janela gravados.
+[2024-05-12 17:59:29] INFO: Título da janela: MySQL Workbench
+[2024-05-12 17:59:29] INFO: Comando da janela: C:\Program Files\MySQL\MySQL Workbench 8.0\MySQLWorkbench.exe
+[2024-05-12 17:59:29] INFO: ID da janela: 3015640
+[2024-05-12 17:59:29] INFO: PID da janela: 11636
+[2024-05-12 17:59:29] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-10,y=-10,width=1940,height=1100]
+[2024-05-12 17:59:29] INFO: A ram utilizada na janela de PID 11636 foi coletada com sucesso, uso de ram: 151.368 MB
+
+[2024-05-12 17:59:29] INFO: Uso da ram pela janela: 0.1478203125
+[2024-05-12 17:59:29] INFO: Dados da janela gravados.
+[2024-05-12 17:59:29] INFO: Título da janela: Gerenciador de Tarefas
+[2024-05-12 17:59:29] INFO: Comando da janela: C:\Windows\System32\Taskmgr.exe
+[2024-05-12 17:59:29] INFO: ID da janela: 920526
+[2024-05-12 17:59:29] INFO: PID da janela: 14388
+[2024-05-12 17:59:29] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=976,height=1088]
+[2024-05-12 17:59:29] INFO: A ram utilizada na janela de PID 14388 foi coletada com sucesso, uso de ram: 112.140 MB
+
+[2024-05-12 17:59:29] INFO: Uso da ram pela janela: 0.10951171875
+[2024-05-12 17:59:29] INFO: Dados da janela gravados.
+[2024-05-12 17:59:29] INFO: Título da janela: Verificar e Trocar Usuário - Opera
+[2024-05-12 17:59:29] INFO: Comando da janela: C:\Users\thyth\AppData\Local\Programs\Opera GX\opera.exe
+[2024-05-12 17:59:29] INFO: ID da janela: 526032
+[2024-05-12 17:59:29] INFO: PID da janela: 5092
+[2024-05-12 17:59:29] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-9,y=-9,width=1938,height=1098]
+[2024-05-12 17:59:29] INFO: A ram utilizada na janela de PID 5092 foi coletada com sucesso, uso de ram: 196.704 MB
+
+[2024-05-12 17:59:29] INFO: Uso da ram pela janela: 0.19209375
+[2024-05-12 17:59:29] INFO: Dados da janela gravados.
+[2024-05-12 17:59:29] INFO: Título da janela: porhub - Pesquisa Google - Opera
+[2024-05-12 17:59:29] INFO: Comando da janela: C:\Users\thyth\AppData\Local\Programs\Opera GX\opera.exe
+[2024-05-12 17:59:29] INFO: ID da janela: 5835590
+[2024-05-12 17:59:29] INFO: PID da janela: 5092
+[2024-05-12 17:59:29] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-9,y=-9,width=1938,height=1098]
+[2024-05-12 17:59:30] INFO: A ram utilizada na janela de PID 5092 foi coletada com sucesso, uso de ram: 196.708 MB
+
+[2024-05-12 17:59:30] INFO: Uso da ram pela janela: 0.19209765625
+[2024-05-12 17:59:30] INFO: Dados da janela gravados.
+[2024-05-12 17:59:30] INFO: Título da janela:  app.log - Bloco de notas
+[2024-05-12 17:59:30] INFO: Comando da janela: C:\Program Files\WindowsApps\Microsoft.WindowsNotepad_11.2402.22.0_x64__8wekyb3d8bbwe\Notepad\Notepad.exe
+[2024-05-12 17:59:30] INFO: ID da janela: 4655598
+[2024-05-12 17:59:30] INFO: PID da janela: 9172
+[2024-05-12 17:59:30] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=29,y=181,width=856,height=800]
+[2024-05-12 17:59:30] INFO: A ram utilizada na janela de PID 9172 foi coletada com sucesso, uso de ram: 63.884 MB
+
+[2024-05-12 17:59:30] INFO: Uso da ram pela janela: 0.06238671875
+[2024-05-12 17:59:30] INFO: Dados da janela gravados.
+[2024-05-12 17:59:30] INFO: Título da janela: Spotify Free
+[2024-05-12 17:59:30] INFO: Comando da janela: C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.235.663.0_x64__zpdnekdrzrea0\Spotify.exe
+[2024-05-12 17:59:30] INFO: ID da janela: 985260
+[2024-05-12 17:59:30] INFO: PID da janela: 19092
+[2024-05-12 17:59:30] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-9,y=-9,width=1938,height=1098]
+[2024-05-12 17:59:30] INFO: A ram utilizada na janela de PID 19092 foi coletada com sucesso, uso de ram: 83.092 MB
+
+[2024-05-12 17:59:30] INFO: Uso da ram pela janela: 0.08114453125
+[2024-05-12 17:59:30] INFO: Dados da janela gravados.
+[2024-05-12 17:59:30] INFO: Título da janela: Realtek Audio Console
+[2024-05-12 17:59:30] INFO: Comando da janela: C:\Program Files\WindowsApps\realteksemiconductorcorp.realtekaudiocontrol_1.10.216.0_x64__dt26b99r8h8gj\RtkUWP.exe
+[2024-05-12 17:59:30] INFO: ID da janela: 198354
+[2024-05-12 17:59:30] INFO: PID da janela: 15128
+[2024-05-12 17:59:30] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=41,width=1280,height=960]
+[2024-05-12 17:59:30] INFO: A ram utilizada na janela de PID 15128 foi coletada com sucesso, uso de ram: 11.820 MB
+
+[2024-05-12 17:59:30] INFO: Uso da ram pela janela: 0.01154296875
+[2024-05-12 17:59:30] INFO: Dados da janela gravados.
+[2024-05-12 17:59:30] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:30] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:30] INFO: ID da janela: 1640134
+[2024-05-12 17:59:30] INFO: PID da janela: 7424
+[2024-05-12 17:59:30] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1920,height=1080]
+[2024-05-12 17:59:30] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.252 MB
+
+[2024-05-12 17:59:30] INFO: Uso da ram pela janela: 0.23364453125
+[2024-05-12 17:59:30] INFO: Dados da janela gravados.
+[2024-05-12 17:59:30] INFO: Título da janela: Realtek Audio Console
+[2024-05-12 17:59:30] INFO: Comando da janela: C:\Windows\System32\ApplicationFrameHost.exe
+[2024-05-12 17:59:30] INFO: ID da janela: 788406
+[2024-05-12 17:59:30] INFO: PID da janela: 14144
+[2024-05-12 17:59:30] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=50,y=40,width=1298,height=1010]
+[2024-05-12 17:59:31] INFO: A ram utilizada na janela de PID 14144 foi coletada com sucesso, uso de ram: 23.732 MB
+
+[2024-05-12 17:59:31] INFO: Uso da ram pela janela: 0.02317578125
+[2024-05-12 17:59:31] INFO: Dados da janela gravados.
+[2024-05-12 17:59:31] INFO: Título da janela: Configurações
+[2024-05-12 17:59:31] INFO: Comando da janela: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+[2024-05-12 17:59:31] INFO: ID da janela: 67154
+[2024-05-12 17:59:31] INFO: PID da janela: 14152
+[2024-05-12 17:59:31] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=9,width=1920,height=1080]
+[2024-05-12 17:59:31] INFO: A ram utilizada na janela de PID 14152 foi coletada com sucesso, uso de ram: 2.544 MB
+
+[2024-05-12 17:59:31] INFO: Uso da ram pela janela: 0.002484375
+[2024-05-12 17:59:31] INFO: Dados da janela gravados.
+[2024-05-12 17:59:31] INFO: Título da janela: Configurações
+[2024-05-12 17:59:31] INFO: Comando da janela: C:\Windows\System32\ApplicationFrameHost.exe
+[2024-05-12 17:59:31] INFO: ID da janela: 132376
+[2024-05-12 17:59:31] INFO: PID da janela: 14144
+[2024-05-12 17:59:31] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-9,y=-9,width=1938,height=1098]
+[2024-05-12 17:59:31] INFO: A ram utilizada na janela de PID 14144 foi coletada com sucesso, uso de ram: 23.732 MB
+
+[2024-05-12 17:59:31] INFO: Uso da ram pela janela: 0.02317578125
+[2024-05-12 17:59:31] INFO: Dados da janela gravados.
+[2024-05-12 17:59:31] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:31] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:31] INFO: ID da janela: 66014
+[2024-05-12 17:59:31] INFO: PID da janela: 7424
+[2024-05-12 17:59:31] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=0,height=0]
+[2024-05-12 17:59:31] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.252 MB
+
+[2024-05-12 17:59:31] INFO: Uso da ram pela janela: 0.23364453125
+[2024-05-12 17:59:31] INFO: Dados da janela gravados.
+[2024-05-12 17:59:31] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:31] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:31] INFO: ID da janela: 66004
+[2024-05-12 17:59:31] INFO: PID da janela: 7424
+[2024-05-12 17:59:31] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=19,y=0,width=1901,height=4]
+[2024-05-12 17:59:31] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.252 MB
+
+[2024-05-12 17:59:31] INFO: Uso da ram pela janela: 0.23364453125
+[2024-05-12 17:59:31] INFO: Dados da janela gravados.
+[2024-05-12 17:59:31] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:31] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:31] INFO: ID da janela: 65968
+[2024-05-12 17:59:31] INFO: PID da janela: 7424
+[2024-05-12 17:59:31] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=0,height=0]
+[2024-05-12 17:59:32] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.252 MB
+
+[2024-05-12 17:59:32] INFO: Uso da ram pela janela: 0.23364453125
+[2024-05-12 17:59:32] INFO: Dados da janela gravados.
+[2024-05-12 17:59:32] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:32] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:32] INFO: ID da janela: 65966
+[2024-05-12 17:59:32] INFO: PID da janela: 7424
+[2024-05-12 17:59:32] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=0,height=0]
+[2024-05-12 17:59:32] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.252 MB
+
+[2024-05-12 17:59:32] INFO: Uso da ram pela janela: 0.23364453125
+[2024-05-12 17:59:32] INFO: Dados da janela gravados.
+[2024-05-12 17:59:32] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:32] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:32] INFO: ID da janela: 65964
+[2024-05-12 17:59:32] INFO: PID da janela: 7424
+[2024-05-12 17:59:32] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=0,height=0]
+[2024-05-12 17:59:32] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.252 MB
+
+[2024-05-12 17:59:32] INFO: Uso da ram pela janela: 0.23364453125
+[2024-05-12 17:59:32] INFO: Dados da janela gravados.
+[2024-05-12 17:59:32] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:32] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:32] INFO: ID da janela: 65962
+[2024-05-12 17:59:32] INFO: PID da janela: 7424
+[2024-05-12 17:59:32] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=0,height=0]
+[2024-05-12 17:59:32] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.252 MB
+
+[2024-05-12 17:59:32] INFO: Uso da ram pela janela: 0.23364453125
+[2024-05-12 17:59:32] INFO: Dados da janela gravados.
+[2024-05-12 17:59:32] INFO: Título da janela: Experiência de Entrada do Windows
+[2024-05-12 17:59:32] INFO: Comando da janela: C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe
+[2024-05-12 17:59:32] INFO: ID da janela: 66074
+[2024-05-12 17:59:32] INFO: PID da janela: 7276
+[2024-05-12 17:59:32] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1920,height=1080]
+[2024-05-12 17:59:33] INFO: A ram utilizada na janela de PID 7276 foi coletada com sucesso, uso de ram: 59.852 MB
+
+[2024-05-12 17:59:33] INFO: Uso da ram pela janela: 0.05844921875
+[2024-05-12 17:59:33] INFO: Dados da janela gravados.
+[2024-05-12 17:59:33] INFO: Título da janela: Program Manager
+[2024-05-12 17:59:33] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:33] INFO: ID da janela: 131206
+[2024-05-12 17:59:33] INFO: PID da janela: 7424
+[2024-05-12 17:59:33] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1920,height=1080]
+[2024-05-12 17:59:33] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.252 MB
+
+[2024-05-12 17:59:33] INFO: Uso da ram pela janela: 0.23364453125
+[2024-05-12 17:59:33] INFO: Dados da janela gravados.
+[2024-05-12 17:59:33] INFO: Todas as janelas verificadas.
+[2024-05-12 17:59:33] INFO: A ram utilizada na janela de PID 12932 foi coletada com sucesso, uso de ram: 90.300 MB
+
+[2024-05-12 17:59:33] INFO: 
+Inserindo captura de dados no banco de dados:
+    |Componente: APP
+    |Dado capturado: 0,09
+    |Unidade de medida: MB
+    |Data hora captura: 2024-05-12T17:59:33.482928400
+    |Id componente: 12
+
+[2024-05-12 17:59:33] INFO: Capturando dados dos seus Apps.
+[2024-05-12 17:59:33] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:33] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:33] INFO: ID da janela: 527604
+[2024-05-12 17:59:33] INFO: PID da janela: 7424
+[2024-05-12 17:59:33] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1,height=1]
+[2024-05-12 17:59:33] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.252 MB
+
+[2024-05-12 17:59:33] INFO: Uso da ram pela janela: 0.23364453125
+[2024-05-12 17:59:33] INFO: Dados da janela gravados.
+[2024-05-12 17:59:33] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:33] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:33] INFO: ID da janela: 1377306
+[2024-05-12 17:59:33] INFO: PID da janela: 7424
+[2024-05-12 17:59:33] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1,height=1]
+[2024-05-12 17:59:34] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.252 MB
+
+[2024-05-12 17:59:34] INFO: Uso da ram pela janela: 0.23364453125
+[2024-05-12 17:59:34] INFO: Dados da janela gravados.
+[2024-05-12 17:59:34] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:34] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:34] INFO: ID da janela: 395274
+[2024-05-12 17:59:34] INFO: PID da janela: 7424
+[2024-05-12 17:59:34] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1,height=1]
+[2024-05-12 17:59:34] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.252 MB
+
+[2024-05-12 17:59:34] INFO: Uso da ram pela janela: 0.23364453125
+[2024-05-12 17:59:34] INFO: Dados da janela gravados.
+[2024-05-12 17:59:34] INFO: Título da janela: Main.java - jar-individual-thiago - Visual Studio Code
+[2024-05-12 17:59:34] INFO: Comando da janela: C:\Users\thyth\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2024-05-12 17:59:34] INFO: ID da janela: 1181896
+[2024-05-12 17:59:34] INFO: PID da janela: 12932
+[2024-05-12 17:59:34] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=960,y=0,width=960,height=1080]
+[2024-05-12 17:59:34] INFO: A ram utilizada na janela de PID 12932 foi coletada com sucesso, uso de ram: 90.296 MB
+
+[2024-05-12 17:59:34] INFO: Uso da ram pela janela: 0.0881796875
+[2024-05-12 17:59:34] INFO: Dados da janela gravados.
+[2024-05-12 17:59:34] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:34] INFO: Comando da janela: C:\Windows\System32\cmd.exe
+[2024-05-12 17:59:34] INFO: ID da janela: 789764
+[2024-05-12 17:59:34] INFO: PID da janela: 26036
+[2024-05-12 17:59:34] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=18,height=18]
+[2024-05-12 17:59:34] INFO: A ram utilizada na janela de PID 26036 foi coletada com sucesso, uso de ram: 4.528 MB
+
+[2024-05-12 17:59:34] INFO: Uso da ram pela janela: 0.004421875
+[2024-05-12 17:59:34] INFO: Dados da janela gravados.
+[2024-05-12 17:59:34] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:34] INFO: Comando da janela: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+[2024-05-12 17:59:34] INFO: ID da janela: 920240
+[2024-05-12 17:59:34] INFO: PID da janela: 27720
+[2024-05-12 17:59:34] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=18,height=18]
+[2024-05-12 17:59:34] INFO: A ram utilizada na janela de PID 27720 foi coletada com sucesso, uso de ram: 54.288 MB
+
+[2024-05-12 17:59:34] INFO: Uso da ram pela janela: 0.053015625
+[2024-05-12 17:59:34] INFO: Dados da janela gravados.
+[2024-05-12 17:59:34] INFO: Título da janela: Prompt de comando - powershell.exe  -NoExit -Command "Start-Process java -ArgumentList ('-jar', 'jar-individual-thiago-1.0-SNAPSHOT-jar-with-dependencies.jar') -Verb RunAs"
+[2024-05-12 17:59:34] INFO: Comando da janela: C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.19.11213.0_x64__8wekyb3d8bbwe\WindowsTerminal.exe
+[2024-05-12 17:59:34] INFO: ID da janela: 5179116
+[2024-05-12 17:59:34] INFO: PID da janela: 25716
+[2024-05-12 17:59:34] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-8,y=0,width=976,height=1088]
+[2024-05-12 17:59:35] INFO: A ram utilizada na janela de PID 25716 foi coletada com sucesso, uso de ram: 80.588 MB
+
+[2024-05-12 17:59:35] INFO: Uso da ram pela janela: 0.07869921875
+[2024-05-12 17:59:35] INFO: Dados da janela gravados.
+[2024-05-12 17:59:35] INFO: Título da janela: target
+[2024-05-12 17:59:35] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:35] INFO: ID da janela: 1442796
+[2024-05-12 17:59:35] INFO: PID da janela: 7424
+[2024-05-12 17:59:35] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1920,height=1080]
+[2024-05-12 17:59:35] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.252 MB
+
+[2024-05-12 17:59:35] INFO: Uso da ram pela janela: 0.23364453125
+[2024-05-12 17:59:35] INFO: Dados da janela gravados.
+[2024-05-12 17:59:35] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:35] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:35] INFO: ID da janela: 131202
+[2024-05-12 17:59:35] INFO: PID da janela: 7424
+[2024-05-12 17:59:35] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=1078,width=1920,height=60]
+[2024-05-12 17:59:35] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.252 MB
+
+[2024-05-12 17:59:35] INFO: Uso da ram pela janela: 0.23364453125
+[2024-05-12 17:59:35] INFO: Dados da janela gravados.
+[2024-05-12 17:59:35] INFO: Título da janela: MySQL Workbench
+[2024-05-12 17:59:35] INFO: Comando da janela: C:\Program Files\MySQL\MySQL Workbench 8.0\MySQLWorkbench.exe
+[2024-05-12 17:59:35] INFO: ID da janela: 3015640
+[2024-05-12 17:59:35] INFO: PID da janela: 11636
+[2024-05-12 17:59:35] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-10,y=-10,width=1940,height=1100]
+[2024-05-12 17:59:35] INFO: A ram utilizada na janela de PID 11636 foi coletada com sucesso, uso de ram: 151.368 MB
+
+[2024-05-12 17:59:35] INFO: Uso da ram pela janela: 0.1478203125
+[2024-05-12 17:59:35] INFO: Dados da janela gravados.
+[2024-05-12 17:59:35] INFO: Título da janela: Gerenciador de Tarefas
+[2024-05-12 17:59:35] INFO: Comando da janela: C:\Windows\System32\Taskmgr.exe
+[2024-05-12 17:59:35] INFO: ID da janela: 920526
+[2024-05-12 17:59:35] INFO: PID da janela: 14388
+[2024-05-12 17:59:35] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=976,height=1088]
+[2024-05-12 17:59:35] INFO: A ram utilizada na janela de PID 14388 foi coletada com sucesso, uso de ram: 112.140 MB
+
+[2024-05-12 17:59:35] INFO: Uso da ram pela janela: 0.10951171875
+[2024-05-12 17:59:35] INFO: Dados da janela gravados.
+[2024-05-12 17:59:35] INFO: Título da janela: Verificar e Trocar Usuário - Opera
+[2024-05-12 17:59:35] INFO: Comando da janela: C:\Users\thyth\AppData\Local\Programs\Opera GX\opera.exe
+[2024-05-12 17:59:35] INFO: ID da janela: 526032
+[2024-05-12 17:59:35] INFO: PID da janela: 5092
+[2024-05-12 17:59:35] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-9,y=-9,width=1938,height=1098]
+[2024-05-12 17:59:36] INFO: A ram utilizada na janela de PID 5092 foi coletada com sucesso, uso de ram: 196.704 MB
+
+[2024-05-12 17:59:36] INFO: Uso da ram pela janela: 0.19209375
+[2024-05-12 17:59:36] INFO: Dados da janela gravados.
+[2024-05-12 17:59:36] INFO: Título da janela: porhub - Pesquisa Google - Opera
+[2024-05-12 17:59:36] INFO: Comando da janela: C:\Users\thyth\AppData\Local\Programs\Opera GX\opera.exe
+[2024-05-12 17:59:36] INFO: ID da janela: 5835590
+[2024-05-12 17:59:36] INFO: PID da janela: 5092
+[2024-05-12 17:59:36] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-9,y=-9,width=1938,height=1098]
+[2024-05-12 17:59:36] INFO: A ram utilizada na janela de PID 5092 foi coletada com sucesso, uso de ram: 196.704 MB
+
+[2024-05-12 17:59:36] INFO: Uso da ram pela janela: 0.19209375
+[2024-05-12 17:59:36] INFO: Dados da janela gravados.
+[2024-05-12 17:59:36] INFO: Título da janela:  app.log - Bloco de notas
+[2024-05-12 17:59:36] INFO: Comando da janela: C:\Program Files\WindowsApps\Microsoft.WindowsNotepad_11.2402.22.0_x64__8wekyb3d8bbwe\Notepad\Notepad.exe
+[2024-05-12 17:59:36] INFO: ID da janela: 4655598
+[2024-05-12 17:59:36] INFO: PID da janela: 9172
+[2024-05-12 17:59:36] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=29,y=181,width=856,height=800]
+[2024-05-12 17:59:36] INFO: A ram utilizada na janela de PID 9172 foi coletada com sucesso, uso de ram: 63.884 MB
+
+[2024-05-12 17:59:36] INFO: Uso da ram pela janela: 0.06238671875
+[2024-05-12 17:59:36] INFO: Dados da janela gravados.
+[2024-05-12 17:59:36] INFO: Título da janela: Spotify Free
+[2024-05-12 17:59:36] INFO: Comando da janela: C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.235.663.0_x64__zpdnekdrzrea0\Spotify.exe
+[2024-05-12 17:59:36] INFO: ID da janela: 985260
+[2024-05-12 17:59:36] INFO: PID da janela: 19092
+[2024-05-12 17:59:36] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-9,y=-9,width=1938,height=1098]
+[2024-05-12 17:59:36] INFO: A ram utilizada na janela de PID 19092 foi coletada com sucesso, uso de ram: 83.092 MB
+
+[2024-05-12 17:59:36] INFO: Uso da ram pela janela: 0.08114453125
+[2024-05-12 17:59:36] INFO: Dados da janela gravados.
+[2024-05-12 17:59:36] INFO: Título da janela: Realtek Audio Console
+[2024-05-12 17:59:36] INFO: Comando da janela: C:\Program Files\WindowsApps\realteksemiconductorcorp.realtekaudiocontrol_1.10.216.0_x64__dt26b99r8h8gj\RtkUWP.exe
+[2024-05-12 17:59:36] INFO: ID da janela: 198354
+[2024-05-12 17:59:36] INFO: PID da janela: 15128
+[2024-05-12 17:59:36] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=41,width=1280,height=960]
+[2024-05-12 17:59:37] INFO: A ram utilizada na janela de PID 15128 foi coletada com sucesso, uso de ram: 11.820 MB
+
+[2024-05-12 17:59:37] INFO: Uso da ram pela janela: 0.01154296875
+[2024-05-12 17:59:37] INFO: Dados da janela gravados.
+[2024-05-12 17:59:37] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:37] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:37] INFO: ID da janela: 1640134
+[2024-05-12 17:59:37] INFO: PID da janela: 7424
+[2024-05-12 17:59:37] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1920,height=1080]
+[2024-05-12 17:59:37] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.016 MB
+
+[2024-05-12 17:59:37] INFO: Uso da ram pela janela: 0.2334140625
+[2024-05-12 17:59:37] INFO: Dados da janela gravados.
+[2024-05-12 17:59:37] INFO: Título da janela: Realtek Audio Console
+[2024-05-12 17:59:37] INFO: Comando da janela: C:\Windows\System32\ApplicationFrameHost.exe
+[2024-05-12 17:59:37] INFO: ID da janela: 788406
+[2024-05-12 17:59:37] INFO: PID da janela: 14144
+[2024-05-12 17:59:37] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=50,y=40,width=1298,height=1010]
+[2024-05-12 17:59:37] INFO: A ram utilizada na janela de PID 14144 foi coletada com sucesso, uso de ram: 23.732 MB
+
+[2024-05-12 17:59:37] INFO: Uso da ram pela janela: 0.02317578125
+[2024-05-12 17:59:37] INFO: Dados da janela gravados.
+[2024-05-12 17:59:37] INFO: Título da janela: Configurações
+[2024-05-12 17:59:37] INFO: Comando da janela: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+[2024-05-12 17:59:37] INFO: ID da janela: 67154
+[2024-05-12 17:59:37] INFO: PID da janela: 14152
+[2024-05-12 17:59:37] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=9,width=1920,height=1080]
+[2024-05-12 17:59:37] INFO: A ram utilizada na janela de PID 14152 foi coletada com sucesso, uso de ram: 2.544 MB
+
+[2024-05-12 17:59:37] INFO: Uso da ram pela janela: 0.002484375
+[2024-05-12 17:59:37] INFO: Dados da janela gravados.
+[2024-05-12 17:59:37] INFO: Título da janela: Configurações
+[2024-05-12 17:59:37] INFO: Comando da janela: C:\Windows\System32\ApplicationFrameHost.exe
+[2024-05-12 17:59:37] INFO: ID da janela: 132376
+[2024-05-12 17:59:37] INFO: PID da janela: 14144
+[2024-05-12 17:59:37] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-9,y=-9,width=1938,height=1098]
+[2024-05-12 17:59:38] INFO: A ram utilizada na janela de PID 14144 foi coletada com sucesso, uso de ram: 23.732 MB
+
+[2024-05-12 17:59:38] INFO: Uso da ram pela janela: 0.02317578125
+[2024-05-12 17:59:38] INFO: Dados da janela gravados.
+[2024-05-12 17:59:38] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:38] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:38] INFO: ID da janela: 66014
+[2024-05-12 17:59:38] INFO: PID da janela: 7424
+[2024-05-12 17:59:38] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=0,height=0]
+[2024-05-12 17:59:38] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.016 MB
+
+[2024-05-12 17:59:38] INFO: Uso da ram pela janela: 0.2334140625
+[2024-05-12 17:59:38] INFO: Dados da janela gravados.
+[2024-05-12 17:59:38] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:38] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:38] INFO: ID da janela: 66004
+[2024-05-12 17:59:38] INFO: PID da janela: 7424
+[2024-05-12 17:59:38] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=19,y=0,width=1901,height=4]
+[2024-05-12 17:59:38] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.016 MB
+
+[2024-05-12 17:59:38] INFO: Uso da ram pela janela: 0.2334140625
+[2024-05-12 17:59:38] INFO: Dados da janela gravados.
+[2024-05-12 17:59:38] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:38] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:38] INFO: ID da janela: 65968
+[2024-05-12 17:59:38] INFO: PID da janela: 7424
+[2024-05-12 17:59:38] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=0,height=0]
+[2024-05-12 17:59:38] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.016 MB
+
+[2024-05-12 17:59:38] INFO: Uso da ram pela janela: 0.2334140625
+[2024-05-12 17:59:38] INFO: Dados da janela gravados.
+[2024-05-12 17:59:38] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:38] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:38] INFO: ID da janela: 65966
+[2024-05-12 17:59:38] INFO: PID da janela: 7424
+[2024-05-12 17:59:38] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=0,height=0]
+[2024-05-12 17:59:38] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.016 MB
+
+[2024-05-12 17:59:38] INFO: Uso da ram pela janela: 0.2334140625
+[2024-05-12 17:59:38] INFO: Dados da janela gravados.
+[2024-05-12 17:59:38] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:38] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:38] INFO: ID da janela: 65964
+[2024-05-12 17:59:38] INFO: PID da janela: 7424
+[2024-05-12 17:59:38] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=0,height=0]
+[2024-05-12 17:59:39] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.016 MB
+
+[2024-05-12 17:59:39] INFO: Uso da ram pela janela: 0.2334140625
+[2024-05-12 17:59:39] INFO: Dados da janela gravados.
+[2024-05-12 17:59:39] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:39] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:39] INFO: ID da janela: 65962
+[2024-05-12 17:59:39] INFO: PID da janela: 7424
+[2024-05-12 17:59:39] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=0,height=0]
+[2024-05-12 17:59:39] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.016 MB
+
+[2024-05-12 17:59:39] INFO: Uso da ram pela janela: 0.2334140625
+[2024-05-12 17:59:39] INFO: Dados da janela gravados.
+[2024-05-12 17:59:39] INFO: Título da janela: Experiência de Entrada do Windows
+[2024-05-12 17:59:39] INFO: Comando da janela: C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe
+[2024-05-12 17:59:39] INFO: ID da janela: 66074
+[2024-05-12 17:59:39] INFO: PID da janela: 7276
+[2024-05-12 17:59:39] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1920,height=1080]
+[2024-05-12 17:59:39] INFO: A ram utilizada na janela de PID 7276 foi coletada com sucesso, uso de ram: 59.852 MB
+
+[2024-05-12 17:59:39] INFO: Uso da ram pela janela: 0.05844921875
+[2024-05-12 17:59:39] INFO: Dados da janela gravados.
+[2024-05-12 17:59:39] INFO: Título da janela: Program Manager
+[2024-05-12 17:59:39] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:39] INFO: ID da janela: 131206
+[2024-05-12 17:59:39] INFO: PID da janela: 7424
+[2024-05-12 17:59:39] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1920,height=1080]
+[2024-05-12 17:59:39] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 239.016 MB
+
+[2024-05-12 17:59:39] INFO: Uso da ram pela janela: 0.2334140625
+[2024-05-12 17:59:39] INFO: Dados da janela gravados.
+[2024-05-12 17:59:39] INFO: Todas as janelas verificadas.
+[2024-05-12 17:59:40] INFO: A ram utilizada na janela de PID 26036 foi coletada com sucesso, uso de ram: 4.528 MB
+
+[2024-05-12 17:59:40] INFO: 
+Inserindo captura de dados no banco de dados:
+    |Componente: APP
+    |Dado capturado: 0,00
+    |Unidade de medida: MB
+    |Data hora captura: 2024-05-12T17:59:40.065743900
+    |Id componente: 13
+
+[2024-05-12 17:59:40] INFO: Capturando dados dos seus Apps.
+[2024-05-12 17:59:40] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:40] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:40] INFO: ID da janela: 527604
+[2024-05-12 17:59:40] INFO: PID da janela: 7424
+[2024-05-12 17:59:40] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1,height=1]
+[2024-05-12 17:59:40] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 238.936 MB
+
+[2024-05-12 17:59:40] INFO: Uso da ram pela janela: 0.2333359375
+[2024-05-12 17:59:40] INFO: Dados da janela gravados.
+[2024-05-12 17:59:40] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:40] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:40] INFO: ID da janela: 1377306
+[2024-05-12 17:59:40] INFO: PID da janela: 7424
+[2024-05-12 17:59:40] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1,height=1]
+[2024-05-12 17:59:40] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 238.936 MB
+
+[2024-05-12 17:59:40] INFO: Uso da ram pela janela: 0.2333359375
+[2024-05-12 17:59:40] INFO: Dados da janela gravados.
+[2024-05-12 17:59:40] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:40] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:40] INFO: ID da janela: 395274
+[2024-05-12 17:59:40] INFO: PID da janela: 7424
+[2024-05-12 17:59:40] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1,height=1]
+[2024-05-12 17:59:40] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 238.936 MB
+
+[2024-05-12 17:59:40] INFO: Uso da ram pela janela: 0.2333359375
+[2024-05-12 17:59:40] INFO: Dados da janela gravados.
+[2024-05-12 17:59:40] INFO: Título da janela: Main.java - jar-individual-thiago - Visual Studio Code
+[2024-05-12 17:59:40] INFO: Comando da janela: C:\Users\thyth\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2024-05-12 17:59:40] INFO: ID da janela: 1181896
+[2024-05-12 17:59:40] INFO: PID da janela: 12932
+[2024-05-12 17:59:40] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=960,y=0,width=960,height=1080]
+[2024-05-12 17:59:41] INFO: A ram utilizada na janela de PID 12932 foi coletada com sucesso, uso de ram: 90.416 MB
+
+[2024-05-12 17:59:41] INFO: Uso da ram pela janela: 0.088296875
+[2024-05-12 17:59:41] INFO: Dados da janela gravados.
+[2024-05-12 17:59:41] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:41] INFO: Comando da janela: C:\Windows\System32\cmd.exe
+[2024-05-12 17:59:41] INFO: ID da janela: 789764
+[2024-05-12 17:59:41] INFO: PID da janela: 26036
+[2024-05-12 17:59:41] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=18,height=18]
+[2024-05-12 17:59:41] INFO: A ram utilizada na janela de PID 26036 foi coletada com sucesso, uso de ram: 4.528 MB
+
+[2024-05-12 17:59:41] INFO: Uso da ram pela janela: 0.004421875
+[2024-05-12 17:59:41] INFO: Dados da janela gravados.
+[2024-05-12 17:59:41] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:41] INFO: Comando da janela: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+[2024-05-12 17:59:41] INFO: ID da janela: 920240
+[2024-05-12 17:59:41] INFO: PID da janela: 27720
+[2024-05-12 17:59:41] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=18,height=18]
+[2024-05-12 17:59:41] INFO: A ram utilizada na janela de PID 27720 foi coletada com sucesso, uso de ram: 54.288 MB
+
+[2024-05-12 17:59:41] INFO: Uso da ram pela janela: 0.053015625
+[2024-05-12 17:59:41] INFO: Dados da janela gravados.
+[2024-05-12 17:59:41] INFO: Título da janela: Prompt de comando - powershell.exe  -NoExit -Command "Start-Process java -ArgumentList ('-jar', 'jar-individual-thiago-1.0-SNAPSHOT-jar-with-dependencies.jar') -Verb RunAs"
+[2024-05-12 17:59:41] INFO: Comando da janela: C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.19.11213.0_x64__8wekyb3d8bbwe\WindowsTerminal.exe
+[2024-05-12 17:59:41] INFO: ID da janela: 5179116
+[2024-05-12 17:59:41] INFO: PID da janela: 25716
+[2024-05-12 17:59:41] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=-8,y=0,width=976,height=1088]
+[2024-05-12 17:59:41] INFO: A ram utilizada na janela de PID 25716 foi coletada com sucesso, uso de ram: 80.588 MB
+
+[2024-05-12 17:59:41] INFO: Uso da ram pela janela: 0.07869921875
+[2024-05-12 17:59:41] INFO: Dados da janela gravados.
+[2024-05-12 17:59:41] INFO: Título da janela: target
+[2024-05-12 17:59:41] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:41] INFO: ID da janela: 1442796
+[2024-05-12 17:59:41] INFO: PID da janela: 7424
+[2024-05-12 17:59:41] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=0,width=1920,height=1080]
+[2024-05-12 17:59:41] INFO: A ram utilizada na janela de PID 7424 foi coletada com sucesso, uso de ram: 238.936 MB
+
+[2024-05-12 17:59:41] INFO: Uso da ram pela janela: 0.2333359375
+[2024-05-12 17:59:41] INFO: Dados da janela gravados.
+[2024-05-12 17:59:41] WARNING: Título da janela não foi capturado.
+[2024-05-12 17:59:41] INFO: Comando da janela: C:\Windows\explorer.exe
+[2024-05-12 17:59:41] INFO: ID da janela: 131202
+[2024-05-12 17:59:41] INFO: PID da janela: 7424
+[2024-05-12 17:59:41] INFO: Localização e tamanho da janela: java.awt.Rectangle[x=0,y=1078,width=1920,height=60]
