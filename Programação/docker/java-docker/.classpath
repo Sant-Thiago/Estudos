@@ -1,0 +1,1207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-21"/>
+	<classpathentry kind="src" output="target/classes" path="src/main"/>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/apache/spark/spark-core_2.10/1.6.3/spark-core_2.10-1.6.3.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="spark-core_2.10"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1.6.3"/>
+			<attribute name="maven.groupId" value="org.apache.spark"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/apache/avro/avro-mapred/1.7.7/avro-mapred-1.7.7-hadoop2.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="avro-mapred"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1.7.7"/>
+			<attribute name="maven.classifier" value="hadoop2"/>
+			<attribute name="maven.groupId" value="org.apache.avro"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/apache/avro/avro-ipc/1.7.7/avro-ipc-1.7.7.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="avro-ipc"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1.7.7"/>
+			<attribute name="maven.groupId" value="org.apache.avro"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/apache/avro/avro/1.7.7/avro-1.7.7.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="avro"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1.7.7"/>
+			<attribute name="maven.groupId" value="org.apache.avro"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/apache/avro/avro-ipc/1.7.7/avro-ipc-1.7.7-tests.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="avro-ipc"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1.7.7"/>
+			<attribute name="maven.classifier" value="tests"/>
+			<attribute name="maven.groupId" value="org.apache.avro"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/codehaus/jackson/jackson-core-asl/1.9.13/jackson-core-asl-1.9.13.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="jackson-core-asl"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1.9.13"/>
+			<attribute name="maven.groupId" value="org.codehaus.jackson"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/codehaus/jackson/jackson-mapper-asl/1.9.13/jackson-mapper-asl-1.9.13.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="jackson-mapper-asl"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1.9.13"/>
+			<attribute name="maven.groupId" value="org.codehaus.jackson"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/com/twitter/chill_2.10/0.5.0/chill_2.10-0.5.0.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="chill_2.10"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="0.5.0"/>
+			<attribute name="maven.groupId" value="com.twitter"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/com/esotericsoftware/kryo/kryo/2.21/kryo-2.21.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="kryo"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="2.21"/>
+			<attribute name="maven.groupId" value="com.esotericsoftware.kryo"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/com/esotericsoftware/reflectasm/reflectasm/1.07/reflectasm-1.07-shaded.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="reflectasm"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1.07"/>
+			<attribute name="maven.classifier" value="shaded"/>
+			<attribute name="maven.groupId" value="com.esotericsoftware.reflectasm"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/com/esotericsoftware/minlog/minlog/1.2/minlog-1.2.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="minlog"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1.2"/>
+			<attribute name="maven.groupId" value="com.esotericsoftware.minlog"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/objenesis/objenesis/1.2/objenesis-1.2.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="objenesis"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1.2"/>
+			<attribute name="maven.groupId" value="org.objenesis"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/com/twitter/chill-java/0.5.0/chill-java-0.5.0.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="chill-java"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="0.5.0"/>
+			<attribute name="maven.groupId" value="com.twitter"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/apache/xbean/xbean-asm5-shaded/4.4/xbean-asm5-shaded-4.4.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="xbean-asm5-shaded"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="4.4"/>
+			<attribute name="maven.groupId" value="org.apache.xbean"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/apache/hadoop/hadoop-client/2.2.0/hadoop-client-2.2.0.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="hadoop-client"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="2.2.0"/>
+			<attribute name="maven.groupId" value="org.apache.hadoop"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/apache/hadoop/hadoop-common/2.2.0/hadoop-common-2.2.0.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="hadoop-common"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="2.2.0"/>
+			<attribute name="maven.groupId" value="org.apache.hadoop"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/commons-cli/commons-cli/1.2/commons-cli-1.2.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="commons-cli"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1.2"/>
+			<attribute name="maven.groupId" value="commons-cli"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/apache/commons/commons-math/2.1/commons-math-2.1.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="commons-math"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="2.1"/>
+			<attribute name="maven.groupId" value="org.apache.commons"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/xmlenc/xmlenc/0.52/xmlenc-0.52.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="xmlenc"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="0.52"/>
+			<attribute name="maven.groupId" value="xmlenc"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/commons-configuration/commons-configuration/1.6/commons-configuration-1.6.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="commons-configuration"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1.6"/>
+			<attribute name="maven.groupId" value="commons-configuration"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="commons-collections"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="3.2.1"/>
+			<attribute name="maven.groupId" value="commons-collections"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/commons-digester/commons-digester/1.8/commons-digester-1.8.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="commons-digester"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1.8"/>
+			<attribute name="maven.groupId" value="commons-digester"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/commons-beanutils/commons-beanutils/1.7.0/commons-beanutils-1.7.0.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="commons-beanutils"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1.7.0"/>
+			<attribute name="maven.groupId" value="commons-beanutils"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/commons-beanutils/commons-beanutils-core/1.8.0/commons-beanutils-core-1.8.0.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="commons-beanutils-core"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1.8.0"/>
+			<attribute name="maven.groupId" value="commons-beanutils"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/apache/hadoop/hadoop-auth/2.2.0/hadoop-auth-2.2.0.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="hadoop-auth"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="2.2.0"/>
+			<attribute name="maven.groupId" value="org.apache.hadoop"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/apache/commons/commons-compress/1.4.1/commons-compress-1.4.1.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="commons-compress"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1.4.1"/>
+			<attribute name="maven.groupId" value="org.apache.commons"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/tukaani/xz/1.0/xz-1.0.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="xz"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1.0"/>
+			<attribute name="maven.groupId" value="org.tukaani"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/apache/hadoop/hadoop-hdfs/2.2.0/hadoop-hdfs-2.2.0.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="hadoop-hdfs"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="2.2.0"/>
+			<attribute name="maven.groupId" value="org.apache.hadoop"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/mortbay/jetty/jetty-util/6.1.26/jetty-util-6.1.26.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="jetty-util"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="6.1.26"/>
+			<attribute name="maven.groupId" value="org.mortbay.jetty"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/apache/hadoop/hadoop-mapreduce-client-app/2.2.0/hadoop-mapreduce-client-app-2.2.0.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="hadoop-mapreduce-client-app"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="2.2.0"/>
+			<attribute name="maven.groupId" value="org.apache.hadoop"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/apache/hadoop/hadoop-mapreduce-client-common/2.2.0/hadoop-mapreduce-client-common-2.2.0.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="hadoop-mapreduce-client-common"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="2.2.0"/>
+			<attribute name="maven.groupId" value="org.apache.hadoop"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/apache/hadoop/hadoop-yarn-client/2.2.0/hadoop-yarn-client-2.2.0.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="hadoop-yarn-client"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="2.2.0"/>
+			<attribute name="maven.groupId" value="org.apache.hadoop"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/com/google/inject/guice/3.0/guice-3.0.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="guice"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="3.0"/>
+			<attribute name="maven.groupId" value="com.google.inject"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="javax.inject"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1"/>
+			<attribute name="maven.groupId" value="javax.inject"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="aopalliance"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1.0"/>
+			<attribute name="maven.groupId" value="aopalliance"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/com/sun/jersey/jersey-test-framework/jersey-test-framework-grizzly2/1.9/jersey-test-framework-grizzly2-1.9.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="jersey-test-framework-grizzly2"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1.9"/>
+			<attribute name="maven.groupId" value="com.sun.jersey.jersey-test-framework"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/com/sun/jersey/jersey-test-framework/jersey-test-framework-core/1.9/jersey-test-framework-core-1.9.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="jersey-test-framework-core"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1.9"/>
+			<attribute name="maven.groupId" value="com.sun.jersey.jersey-test-framework"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/javax/servlet/javax.servlet-api/3.0.1/javax.servlet-api-3.0.1.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="javax.servlet-api"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="3.0.1"/>
+			<attribute name="maven.groupId" value="javax.servlet"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/com/sun/jersey/jersey-client/1.9/jersey-client-1.9.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="jersey-client"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1.9"/>
+			<attribute name="maven.groupId" value="com.sun.jersey"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/com/sun/jersey/jersey-grizzly2/1.9/jersey-grizzly2-1.9.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="jersey-grizzly2"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1.9"/>
+			<attribute name="maven.groupId" value="com.sun.jersey"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/glassfish/grizzly/grizzly-http/2.1.2/grizzly-http-2.1.2.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="grizzly-http"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="2.1.2"/>
+			<attribute name="maven.groupId" value="org.glassfish.grizzly"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/glassfish/grizzly/grizzly-framework/2.1.2/grizzly-framework-2.1.2.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="grizzly-framework"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="2.1.2"/>
+			<attribute name="maven.groupId" value="org.glassfish.grizzly"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/glassfish/gmbal/gmbal-api-only/3.0.0-b023/gmbal-api-only-3.0.0-b023.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="gmbal-api-only"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="3.0.0-b023"/>
+			<attribute name="maven.groupId" value="org.glassfish.gmbal"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/glassfish/external/management-api/3.0.0-b012/management-api-3.0.0-b012.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="management-api"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="3.0.0-b012"/>
+			<attribute name="maven.groupId" value="org.glassfish.external"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/glassfish/grizzly/grizzly-http-server/2.1.2/grizzly-http-server-2.1.2.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="grizzly-http-server"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="2.1.2"/>
+			<attribute name="maven.groupId" value="org.glassfish.grizzly"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/glassfish/grizzly/grizzly-rcm/2.1.2/grizzly-rcm-2.1.2.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="grizzly-rcm"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="2.1.2"/>
+			<attribute name="maven.groupId" value="org.glassfish.grizzly"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/glassfish/grizzly/grizzly-http-servlet/2.1.2/grizzly-http-servlet-2.1.2.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="grizzly-http-servlet"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="2.1.2"/>
+			<attribute name="maven.groupId" value="org.glassfish.grizzly"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/glassfish/javax.servlet/3.1/javax.servlet-3.1.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="javax.servlet"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="3.1"/>
+			<attribute name="maven.groupId" value="org.glassfish"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/com/sun/jersey/jersey-json/1.9/jersey-json-1.9.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="jersey-json"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1.9"/>
+			<attribute name="maven.groupId" value="com.sun.jersey"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/codehaus/jettison/jettison/1.1/jettison-1.1.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="jettison"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1.1"/>
+			<attribute name="maven.groupId" value="org.codehaus.jettison"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/stax/stax-api/1.0.1/stax-api-1.0.1.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="stax-api"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1.0.1"/>
+			<attribute name="maven.groupId" value="stax"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb-impl-2.2.3-1.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="jaxb-impl"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="2.2.3-1"/>
+			<attribute name="maven.groupId" value="com.sun.xml.bind"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/javax/xml/bind/jaxb-api/2.2.2/jaxb-api-2.2.2.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="jaxb-api"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="2.2.2"/>
+			<attribute name="maven.groupId" value="javax.xml.bind"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="activation"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1.1"/>
+			<attribute name="maven.groupId" value="javax.activation"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/codehaus/jackson/jackson-jaxrs/1.8.3/jackson-jaxrs-1.8.3.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="jackson-jaxrs"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1.8.3"/>
+			<attribute name="maven.groupId" value="org.codehaus.jackson"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/codehaus/jackson/jackson-xc/1.8.3/jackson-xc-1.8.3.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="jackson-xc"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1.8.3"/>
+			<attribute name="maven.groupId" value="org.codehaus.jackson"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/com/sun/jersey/contribs/jersey-guice/1.9/jersey-guice-1.9.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="jersey-guice"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1.9"/>
+			<attribute name="maven.groupId" value="com.sun.jersey.contribs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/apache/hadoop/hadoop-yarn-server-common/2.2.0/hadoop-yarn-server-common-2.2.0.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="hadoop-yarn-server-common"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="2.2.0"/>
+			<attribute name="maven.groupId" value="org.apache.hadoop"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/apache/hadoop/hadoop-mapreduce-client-shuffle/2.2.0/hadoop-mapreduce-client-shuffle-2.2.0.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="hadoop-mapreduce-client-shuffle"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="2.2.0"/>
+			<attribute name="maven.groupId" value="org.apache.hadoop"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/apache/hadoop/hadoop-yarn-api/2.2.0/hadoop-yarn-api-2.2.0.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="hadoop-yarn-api"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="2.2.0"/>
+			<attribute name="maven.groupId" value="org.apache.hadoop"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.2.0/hadoop-mapreduce-client-core-2.2.0.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="hadoop-mapreduce-client-core"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="2.2.0"/>
+			<attribute name="maven.groupId" value="org.apache.hadoop"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/apache/hadoop/hadoop-yarn-common/2.2.0/hadoop-yarn-common-2.2.0.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="hadoop-yarn-common"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="2.2.0"/>
+			<attribute name="maven.groupId" value="org.apache.hadoop"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/apache/hadoop/hadoop-mapreduce-client-jobclient/2.2.0/hadoop-mapreduce-client-jobclient-2.2.0.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="hadoop-mapreduce-client-jobclient"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="2.2.0"/>
+			<attribute name="maven.groupId" value="org.apache.hadoop"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/apache/hadoop/hadoop-annotations/2.2.0/hadoop-annotations-2.2.0.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="hadoop-annotations"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="2.2.0"/>
+			<attribute name="maven.groupId" value="org.apache.hadoop"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/apache/spark/spark-launcher_2.10/1.6.3/spark-launcher_2.10-1.6.3.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="spark-launcher_2.10"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1.6.3"/>
+			<attribute name="maven.groupId" value="org.apache.spark"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/apache/spark/spark-network-common_2.10/1.6.3/spark-network-common_2.10-1.6.3.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="spark-network-common_2.10"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1.6.3"/>
+			<attribute name="maven.groupId" value="org.apache.spark"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/apache/spark/spark-network-shuffle_2.10/1.6.3/spark-network-shuffle_2.10-1.6.3.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="spark-network-shuffle_2.10"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1.6.3"/>
+			<attribute name="maven.groupId" value="org.apache.spark"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/fusesource/leveldbjni/leveldbjni-all/1.8/leveldbjni-all-1.8.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="leveldbjni-all"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1.8"/>
+			<attribute name="maven.groupId" value="org.fusesource.leveldbjni"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.4.4/jackson-annotations-2.4.4.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="jackson-annotations"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="2.4.4"/>
+			<attribute name="maven.groupId" value="com.fasterxml.jackson.core"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/apache/spark/spark-unsafe_2.10/1.6.3/spark-unsafe_2.10-1.6.3.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="spark-unsafe_2.10"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1.6.3"/>
+			<attribute name="maven.groupId" value="org.apache.spark"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/net/java/dev/jets3t/jets3t/0.7.1/jets3t-0.7.1.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="jets3t"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="0.7.1"/>
+			<attribute name="maven.groupId" value="net.java.dev.jets3t"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/commons-codec/commons-codec/1.3/commons-codec-1.3.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="commons-codec"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1.3"/>
+			<attribute name="maven.groupId" value="commons-codec"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="commons-httpclient"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="3.1"/>
+			<attribute name="maven.groupId" value="commons-httpclient"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/apache/curator/curator-recipes/2.4.0/curator-recipes-2.4.0.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="curator-recipes"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="2.4.0"/>
+			<attribute name="maven.groupId" value="org.apache.curator"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/apache/curator/curator-framework/2.4.0/curator-framework-2.4.0.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="curator-framework"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="2.4.0"/>
+			<attribute name="maven.groupId" value="org.apache.curator"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/apache/curator/curator-client/2.4.0/curator-client-2.4.0.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="curator-client"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="2.4.0"/>
+			<attribute name="maven.groupId" value="org.apache.curator"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/apache/zookeeper/zookeeper/3.4.5/zookeeper-3.4.5.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="zookeeper"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="3.4.5"/>
+			<attribute name="maven.groupId" value="org.apache.zookeeper"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/jline/jline/0.9.94/jline-0.9.94.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="jline"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="0.9.94"/>
+			<attribute name="maven.groupId" value="jline"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/com/google/guava/guava/14.0.1/guava-14.0.1.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="guava"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="14.0.1"/>
+			<attribute name="maven.groupId" value="com.google.guava"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/eclipse/jetty/orbit/javax.servlet/3.0.0.v201112011016/javax.servlet-3.0.0.v201112011016.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="javax.servlet"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="3.0.0.v201112011016"/>
+			<attribute name="maven.groupId" value="org.eclipse.jetty.orbit"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="commons-lang3"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="3.3.2"/>
+			<attribute name="maven.groupId" value="org.apache.commons"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/apache/commons/commons-math3/3.4.1/commons-math3-3.4.1.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="commons-math3"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="3.4.1"/>
+			<attribute name="maven.groupId" value="org.apache.commons"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="jsr305"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1.3.9"/>
+			<attribute name="maven.groupId" value="com.google.code.findbugs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/slf4j/slf4j-api/1.7.10/slf4j-api-1.7.10.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="slf4j-api"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1.7.10"/>
+			<attribute name="maven.groupId" value="org.slf4j"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/slf4j/jul-to-slf4j/1.7.10/jul-to-slf4j-1.7.10.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="jul-to-slf4j"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1.7.10"/>
+			<attribute name="maven.groupId" value="org.slf4j"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/slf4j/jcl-over-slf4j/1.7.10/jcl-over-slf4j-1.7.10.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="jcl-over-slf4j"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1.7.10"/>
+			<attribute name="maven.groupId" value="org.slf4j"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="log4j"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1.2.17"/>
+			<attribute name="maven.groupId" value="log4j"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/slf4j/slf4j-log4j12/1.7.10/slf4j-log4j12-1.7.10.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="slf4j-log4j12"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1.7.10"/>
+			<attribute name="maven.groupId" value="org.slf4j"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/com/ning/compress-lzf/1.0.3/compress-lzf-1.0.3.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="compress-lzf"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1.0.3"/>
+			<attribute name="maven.groupId" value="com.ning"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/xerial/snappy/snappy-java/1.1.2.6/snappy-java-1.1.2.6.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="snappy-java"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1.1.2.6"/>
+			<attribute name="maven.groupId" value="org.xerial.snappy"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/net/jpountz/lz4/lz4/1.3.0/lz4-1.3.0.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="lz4"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1.3.0"/>
+			<attribute name="maven.groupId" value="net.jpountz.lz4"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/roaringbitmap/RoaringBitmap/0.5.11/RoaringBitmap-0.5.11.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="RoaringBitmap"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="0.5.11"/>
+			<attribute name="maven.groupId" value="org.roaringbitmap"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/commons-net/commons-net/2.2/commons-net-2.2.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="commons-net"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="2.2"/>
+			<attribute name="maven.groupId" value="commons-net"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/com/typesafe/akka/akka-remote_2.10/2.3.11/akka-remote_2.10-2.3.11.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="akka-remote_2.10"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="2.3.11"/>
+			<attribute name="maven.groupId" value="com.typesafe.akka"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/com/typesafe/akka/akka-actor_2.10/2.3.11/akka-actor_2.10-2.3.11.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="akka-actor_2.10"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="2.3.11"/>
+			<attribute name="maven.groupId" value="com.typesafe.akka"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/com/typesafe/config/1.2.1/config-1.2.1.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="config"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1.2.1"/>
+			<attribute name="maven.groupId" value="com.typesafe"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/io/netty/netty/3.8.0.Final/netty-3.8.0.Final.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="netty"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="3.8.0.Final"/>
+			<attribute name="maven.groupId" value="io.netty"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/com/google/protobuf/protobuf-java/2.5.0/protobuf-java-2.5.0.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="protobuf-java"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="2.5.0"/>
+			<attribute name="maven.groupId" value="com.google.protobuf"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/uncommons/maths/uncommons-maths/1.2.2a/uncommons-maths-1.2.2a.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="uncommons-maths"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1.2.2a"/>
+			<attribute name="maven.groupId" value="org.uncommons.maths"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/com/typesafe/akka/akka-slf4j_2.10/2.3.11/akka-slf4j_2.10-2.3.11.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="akka-slf4j_2.10"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="2.3.11"/>
+			<attribute name="maven.groupId" value="com.typesafe.akka"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/scala-lang/scala-library/2.10.5/scala-library-2.10.5.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="scala-library"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="2.10.5"/>
+			<attribute name="maven.groupId" value="org.scala-lang"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/json4s/json4s-jackson_2.10/3.2.10/json4s-jackson_2.10-3.2.10.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="json4s-jackson_2.10"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="3.2.10"/>
+			<attribute name="maven.groupId" value="org.json4s"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/json4s/json4s-core_2.10/3.2.10/json4s-core_2.10-3.2.10.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="json4s-core_2.10"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="3.2.10"/>
+			<attribute name="maven.groupId" value="org.json4s"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/json4s/json4s-ast_2.10/3.2.10/json4s-ast_2.10-3.2.10.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="json4s-ast_2.10"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="3.2.10"/>
+			<attribute name="maven.groupId" value="org.json4s"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/scala-lang/scalap/2.10.0/scalap-2.10.0.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="scalap"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="2.10.0"/>
+			<attribute name="maven.groupId" value="org.scala-lang"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/scala-lang/scala-compiler/2.10.0/scala-compiler-2.10.0.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="scala-compiler"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="2.10.0"/>
+			<attribute name="maven.groupId" value="org.scala-lang"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/com/sun/jersey/jersey-server/1.9/jersey-server-1.9.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="jersey-server"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1.9"/>
+			<attribute name="maven.groupId" value="com.sun.jersey"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/asm/asm/3.1/asm-3.1.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="asm"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="3.1"/>
+			<attribute name="maven.groupId" value="asm"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/com/sun/jersey/jersey-core/1.9/jersey-core-1.9.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="jersey-core"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1.9"/>
+			<attribute name="maven.groupId" value="com.sun.jersey"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/apache/mesos/mesos/0.21.1/mesos-0.21.1-shaded-protobuf.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="mesos"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="0.21.1"/>
+			<attribute name="maven.classifier" value="shaded-protobuf"/>
+			<attribute name="maven.groupId" value="org.apache.mesos"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/io/netty/netty-all/4.0.29.Final/netty-all-4.0.29.Final.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="netty-all"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="4.0.29.Final"/>
+			<attribute name="maven.groupId" value="io.netty"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/com/clearspring/analytics/stream/2.7.0/stream-2.7.0.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="stream"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="2.7.0"/>
+			<attribute name="maven.groupId" value="com.clearspring.analytics"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/io/dropwizard/metrics/metrics-core/3.1.2/metrics-core-3.1.2.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="metrics-core"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="3.1.2"/>
+			<attribute name="maven.groupId" value="io.dropwizard.metrics"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/io/dropwizard/metrics/metrics-jvm/3.1.2/metrics-jvm-3.1.2.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="metrics-jvm"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="3.1.2"/>
+			<attribute name="maven.groupId" value="io.dropwizard.metrics"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/io/dropwizard/metrics/metrics-json/3.1.2/metrics-json-3.1.2.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="metrics-json"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="3.1.2"/>
+			<attribute name="maven.groupId" value="io.dropwizard.metrics"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/io/dropwizard/metrics/metrics-graphite/3.1.2/metrics-graphite-3.1.2.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="metrics-graphite"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="3.1.2"/>
+			<attribute name="maven.groupId" value="io.dropwizard.metrics"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.4.4/jackson-databind-2.4.4.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="jackson-databind"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="2.4.4"/>
+			<attribute name="maven.groupId" value="com.fasterxml.jackson.core"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.4.4/jackson-core-2.4.4.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="jackson-core"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="2.4.4"/>
+			<attribute name="maven.groupId" value="com.fasterxml.jackson.core"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/com/fasterxml/jackson/module/jackson-module-scala_2.10/2.4.4/jackson-module-scala_2.10-2.4.4.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="jackson-module-scala_2.10"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="2.4.4"/>
+			<attribute name="maven.groupId" value="com.fasterxml.jackson.module"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/scala-lang/scala-reflect/2.10.4/scala-reflect-2.10.4.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="scala-reflect"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="2.10.4"/>
+			<attribute name="maven.groupId" value="org.scala-lang"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/com/thoughtworks/paranamer/paranamer/2.6/paranamer-2.6.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="paranamer"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="2.6"/>
+			<attribute name="maven.groupId" value="com.thoughtworks.paranamer"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/apache/ivy/ivy/2.4.0/ivy-2.4.0.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="ivy"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="2.4.0"/>
+			<attribute name="maven.groupId" value="org.apache.ivy"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/oro/oro/2.0.8/oro-2.0.8.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="oro"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="2.0.8"/>
+			<attribute name="maven.groupId" value="oro"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/tachyonproject/tachyon-client/0.8.2/tachyon-client-0.8.2.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="tachyon-client"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="0.8.2"/>
+			<attribute name="maven.groupId" value="org.tachyonproject"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/commons-lang/commons-lang/2.4/commons-lang-2.4.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="commons-lang"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="2.4"/>
+			<attribute name="maven.groupId" value="commons-lang"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/commons-io/commons-io/2.4/commons-io-2.4.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="commons-io"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="2.4"/>
+			<attribute name="maven.groupId" value="commons-io"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/tachyonproject/tachyon-underfs-hdfs/0.8.2/tachyon-underfs-hdfs-0.8.2.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="tachyon-underfs-hdfs"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="0.8.2"/>
+			<attribute name="maven.groupId" value="org.tachyonproject"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/tachyonproject/tachyon-underfs-s3/0.8.2/tachyon-underfs-s3-0.8.2.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="tachyon-underfs-s3"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="0.8.2"/>
+			<attribute name="maven.groupId" value="org.tachyonproject"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/tachyonproject/tachyon-underfs-local/0.8.2/tachyon-underfs-local-0.8.2.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="tachyon-underfs-local"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="0.8.2"/>
+			<attribute name="maven.groupId" value="org.tachyonproject"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/net/razorvine/pyrolite/4.9/pyrolite-4.9.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="pyrolite"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="4.9"/>
+			<attribute name="maven.groupId" value="net.razorvine"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/net/sf/py4j/py4j/0.9/py4j-0.9.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="py4j"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="0.9"/>
+			<attribute name="maven.groupId" value="net.sf.py4j"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/spark-project/spark/unused/1.0.0/unused-1.0.0.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="unused"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1.0.0"/>
+			<attribute name="maven.groupId" value="org.spark-project.spark"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/thyth/.m2/repository/org/apache/spark/spark-streaming_2.10/1.6.3/spark-streaming_2.10-1.6.3.jar">
+		<attributes>
+			<attribute name="maven.artifactId" value="spark-streaming_2.10"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.scope" value="provided"/>
+			<attribute name="maven.version" value="1.6.3"/>
+			<attribute name="maven.groupId" value="org.apache.spark"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
