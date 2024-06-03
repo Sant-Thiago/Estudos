@@ -18,3 +18,8 @@ cell: poco f5
 aulas de como criar algo com lwc
 
 pesquisar sobre lwc no github
+
+aplicação que deixa musicas na nuvem e permite selecionar uma playlist e armazenar-la nos fones sem fio
+
+pesquisar como criar uma cli
+
