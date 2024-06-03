@@ -23,3 +23,18 @@ aplicação que deixa musicas na nuvem e permite selecionar uma playlist e armaz
 
 pesquisar como criar uma cli
 
+pesquisa sobre sons
+
+como funciona a onda sonora
+
+flora matos = {
+  musica: [cada flash um cep]
+  }
+
+don l = {
+  musica: [enquanto acaba, depois das 3]
+}
+
+3030 = {
+  musica: [mundo das ilusões / bom dia]
+  }
