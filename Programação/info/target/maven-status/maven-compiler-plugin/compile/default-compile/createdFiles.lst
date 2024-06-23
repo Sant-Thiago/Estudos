@@ -1,7 +1,0 @@
-com\example\system\Computer.class
-com\example\model\Rede.class
-com\example\Main.class
-com\example\service\Formatar.class
-com\example\DAO\RedeDAO.class
-com\example\database\Config.class
-com\example\system\Creator.class
