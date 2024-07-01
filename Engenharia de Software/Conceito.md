@@ -80,34 +80,53 @@
 > ![Modelo Orietando a reúso](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKiOPhKzc5p6U-Bv2CZ5FgyrDzSRTHtCO7ow-frR1nFe6Hj0lhSp-rAEJCjzgAZMqtBw&usqp=CAU)
 >
 > 
+> ## Tipos de componentes de software
+> - Web services que são desenvolvidos de acordo com padrões de serviço e ficam disponíveis para chamada remota.
+> - Coleções de objetos que são desenvolvidas como um pacote para ser integrado com um framework como .NET ou J2EE.
+> - Sistemas de software stand-alone (COTS) que são configuradas para uso em ambiente especificos.
 > 
 > ## Atividades do processo
-> - Atividades técnicas, de colaboração e de gestão.
-> - Objetivo: especificar, projeto e testar o software.
-> - Diferentes ferramentas são usadas como apoio.
-> - Atividades básicas:
->   - Especificação
->   - Desenvolvimento
->   - Validação
->   - Evolução
+> 
+> - Processos de software reais são sequências intercaladas de atividades técnicas, colaborativas e gerenciais com o objetivo geral de especificar, projetar, implementar e testar um sistema de software.
+> - As quatro atividades de processo básicas, **especificação**, **desenvolvimento**, **validação** e **evolução** são organizadas de forma diferente em processos de desenvolvimento distintos.
+> - No modelo cascata, elas são organizadas em sequências, enquanto no desenvolvimento incremental são intercaladas. 
+> 
+> 
+> ## Especificações de software
+>
+> - Processo de estabelecer quais serviços são necessários e as restrições na operação e desenvolvimento do sistema.
+> - Processo de engenharia de requisitos
+>   - Estudo de viabilidade
+>       - É técnicamente e financeiramente viável construir o sistema?
+>   - Elicitação e análise de requisitos
+>       - O que os stakeholders do sistema precisam ou esperam do sistema?
+>   - Especificação de requisitos
+>       - Definição dos requisitos em detalhes.
+>   - Validação de requisitos
+>       - Verificação da completude dos requisitos.
 > 
 > ![Requisitos do processo](https://blog-static.infra.grancursosonline.com.br/wp-content/uploads/2020/03/10121622/inni.png)
 > 
 > 
+> 
+> ## Projeto e implementação de software
+>
+> - O processo de converter a especificação de sistema em um sistema executável.
+> - Projeto de software
+>   - Design de uma estrutura de software que materialize a especificação,
+> - Implementação
+>   - Transformar essa estrutura em um programa executável.
+> - As atividades de projeto e implementação são intimamante ligadas e porem ser intercaladas.
+> 
+> 
 > ## Modelo do processo do projeto
-> 1.0 Infromação de plataforma <br>
-> 1.1 Especificação de requisitos <br>
-> 1.2 Descrição de dados <br>
-> 2.0 Projeto de arquitetura <br>
-> 2.1 Projeto de interface <br>
-> 2.2 Projeto de componentes <br>
-> 3.0 Projeto de banco de dados <br>
-> 4.0 Arquitetura de sistema <br>
-> 4.1 Especificação de banco de dados <br>
-> 4.2 Especificação de interface <br>
-> 4.3 Especificação de componentes
 > 
 > ![Modelo do processo do projeto](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRyaDwOIVIAHpxCMJoZm79cwISadAsJ6oCrwKGjau75T9NjvY3A)
+> 
+> - Projeto de arquitetura, em que você identifica a estrutura geral do sistema, os componentes principais (as vezes chamados sub-sistemas ou módulos), seus relacionamentos e como são distribuídos.
+> - Projeto de interface, em que você define as interfaces entre os componentes do sistema.
+> - Projeto de componente, em que você projeta como cada componente do sistema irá operar separadamente.
+> - Projeto de banco de dados, em que você projeta as estruturas de dados do sistema e como essas serão representadas no banco de dados.
 > 
 > 
 > ## Estágios de testes
