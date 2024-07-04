@@ -49,10 +49,14 @@
 >       - $or: Retorna todos os documentos que são verdadeiros em pelo menos uma das cláusulas. (or)
 >       - $not: Retorna todos os documentos diferentes da cláusula solicitada. (not)
 >       - $nor: Retorna todos os documentos que são falsos em ambas as cláusulas. (nor)
->   - Elemento
->       - 
+>   
+>   - Elemento (do MongoDB)
+>       - $exists: Retorna todos os documentos com o campo especificado.
+>       - $type: Retorna todos os documentos cujo campo é do tipo especificado.
 >
-> // aula 7, professor alguma coisa lima - operadores
+>
+
+fontes: ['[Ricardo Leme](https://www.youtube.com/watch?v=m7Wcb4uWtp0&list=PLyqlZW5s3wkoMhARQKp3s4YtaeKucb0Xj&index=11)']
 
 
 
