@@ -12,7 +12,7 @@ using namespace std;
 
     queue::~queue() 
     {
-        delete structure;
+        delete[] structure;
     }
 
     void queue::enqueue(QueueType item) 
