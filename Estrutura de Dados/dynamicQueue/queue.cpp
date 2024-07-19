@@ -47,7 +47,14 @@ using namespace std;
             cout << "Nenhum elemento foi removido";
             return 0;
         } else {
-            return structure[first++ % maxItens];
+            Knot* tempKnot = first;
+            QueueType item = first -> value;
+            first = first -> next;
+            if (first == NULL) {
+                last = NULL;
+            }
+            delete tempKnot;
+            return item;
         }
     }
 
@@ -72,15 +79,15 @@ using namespace std;
 
     void queue::print()
     {
-        Knot* tempFirst = first;
+        Knot* tempLast = first;
         cout << "Queue [ ";
-        while (tempFirst != NULL) {
+        while (tempLast != NULL) {
             string point = ", ";
-            if (tempFirst -> next == NULL) {
+            if (tempLast -> next == NULL) {
                 point = " ";
             }
-            cout << tempFirst -> value << point;
-            tempFirst = tempFirst -> next;
+            cout << tempLast -> value << point;
+            tempLast = tempLast -> next;
         }
         cout << "]\n";
     }
