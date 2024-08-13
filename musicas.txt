@@ -1,0 +1,20 @@
+ // bivolt - olha pra mim
+ // perin quinta-feira
+ // dv - hino 
+ // cassol - escaravelho
+ // dv - tempo
+
+Sintaxe do método de teste
+
+@isTest static void testMethod() {
+	// code
+}
+
+Os métodos de teste devem ser definidos em classes de teste
+
+@isTest
+private class MyTestClass {
+	@isTest static void myTest() {
+		// code
+	}
+}
