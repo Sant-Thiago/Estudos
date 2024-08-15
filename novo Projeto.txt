@@ -1,0 +1,11 @@
+Plataforma para provas
+
+Plataforma para armazenar conteudos para questões, 
+Armazenar as repostas(optional),
+Utilizar a camera para monitorar o avaliado,
+Verificar se o avaliado não está olhando para outras direções
+Verificar se os dois braços do avaliado estão na direção da tela, se sim, aparecer mensagem para mostrar as mãos
+
+
+
+arrumar para definir o path no escopo local do powershell

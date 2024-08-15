@@ -1,0 +1,36 @@
+Funções alteradas:
+	hoverFeriado;
+	verificarData;
+	agruparSemanas;
+	identificarSegundaFeiras;
+	agruparSemanas;
+	desagruparTudo;
+
+function prompt { "PS> " } = função para mudar o prompt do terminal
+
+Remove-Item Function:\prompt = remove a função para retornar ao normal
+
+
+Active Diretory Windows
+Dominio Windows
+
+wsdl4j = é uma biblioteca para o java que permite::
+	- criar documentos WSDL;
+	- analisar documentos WSDL;
+	- manipular documentos WSDL;
+	tem compatibilidade com Web Services, facilita a integração e a interoperabilidade entre diferentes sistemas e plataformas que utilizam serviços web.
+
+
+WSDL (Web Services Description Language) é um formato XML usado para descrever serviços web e suas interfaces, especificando os métodos disponíveis, as mensagens que podem ser enviadas e recebidas, e a localização dos serviços.
+
+SOA (Service-Oriented Architecture) é um estilo de arquitetura de software que orfaniza a funcionalidade de uma aplicação ou sistema como um conjunto de serviços interoperáveis.  
+
+
+Estudar::
+	OAuth 2.0 Authorization Code Flow
+	Filtro token de acesso com refresh token
+	Aprender Axios
+	Cookie access http
+	JetPck Compose
+	XML
+	Jackson - que converte classes java em JSON
