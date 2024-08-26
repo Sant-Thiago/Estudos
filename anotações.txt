@@ -34,3 +34,26 @@ Estudar::
 	JetPck Compose
 	XML
 	Jackson - que converte classes java em JSON
+	Pesquisar Padrões de Organização
+	Testes automatizados - esteira automatizada
+	Diferença entre firmware, middleware, software, hardware
+	Aprender mexer com a BIOS
+	PySpark
+
+BIOS (Basic Input/Output System) não oferece uma maneira de fazer/executar códigos/comandos
+UEFI (Unified Extensible Firmware Interface) oferece uma interface mais rica e alguns recursos adicionais, mas, não permite fazer/executar códigos/comandos
+
+
+é possivel fazer automações basicas com o python sem importar nada.
+
+https://medium.com/@tanooshri24/scalable-project-structure-for-backend-applications-55636326ee37
+estruturas de pastas em projetos::
+	Estrutura Básica (MVC - Model-View-Controller)
+	Estrutura de Microserviços
+	Estrutura Hexagonal (Arquitetura de Portas e Adaptadores)
+	Estrutura DDD (Domain-Driven Design)
+	Estrutura em Camadas
+	Estrutura Monolítica Modular
+	....,..
+	
+file cr
