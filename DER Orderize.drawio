@@ -101,7 +101,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BiNUtD6atP9isfA5YDoz" name="Sketch_1-DER">
-    <mxGraphModel dx="1035" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="550" dy="293" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -157,7 +157,7 @@
         <mxCell id="wnefRXPpOFTvcnDB7P9g-3" value="Address" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="896" y="130" width="240" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="wnefRXPpOFTvcnDB7P9g-4" value="&lt;div&gt;id: INT NOT NULL [PK]&lt;/div&gt;CEP: BIGDECIMAL NOT NULL&lt;div&gt;number: INTEGER NOT NULL&lt;/div&gt;&lt;div&gt;street: VARCHAR(50) NOT NULL&lt;/div&gt;&lt;div&gt;state: VARCHAR(30) NOT NULL&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;neighborhood:&amp;nbsp;&lt;/span&gt;VARCHAR(40) NOT NULL&amp;nbsp;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="wnefRXPpOFTvcnDB7P9g-3" vertex="1">
+        <mxCell id="wnefRXPpOFTvcnDB7P9g-4" value="&lt;div&gt;id: INT NOT NULL [PK]&lt;/div&gt;CEP: BIGDECIMAL NOT NULL&lt;div&gt;number: INTEGER NOT NULL&lt;/div&gt;&lt;div&gt;state: VARCHAR(30) NOT NULL&lt;br&gt;&lt;/div&gt;&lt;div&gt;neighborhood: VARCHAR(40)&lt;/div&gt;&lt;div&gt;street: VARCHAR(50)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;city:&amp;nbsp;&lt;/span&gt;VARCHAR(40)&amp;nbsp;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="wnefRXPpOFTvcnDB7P9g-3" vertex="1">
           <mxGeometry y="30" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="pZnL-4x6eMGT_gqEuYZQ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;endArrow=none;endFill=0;endSize=12;" parent="1" source="wnefRXPpOFTvcnDB7P9g-5" target="V39YBekS_R_CziJfNA-X-2" edge="1">
