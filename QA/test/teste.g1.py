@@ -1,4 +1,4 @@
-from test_app import test_app as ta
+from login.test_app import test_app as ta
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
 
