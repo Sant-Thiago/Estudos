@@ -80,6 +80,9 @@ class test_app:
             return WebDriverWait(self.driver, time).until(
                 EC.presence_of_element_located(value)
             )
+        except InvalidSelectorException as e:
+            debug(f"O elemento não encontrado: {e}")
+            return None
         except TimeoutException as e:
             debug(f"O elemento não encontrado: {e}")
             return None

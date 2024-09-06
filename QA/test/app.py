@@ -1,4 +1,4 @@
-from test_app import test_app as ta
+from login.test_app import test_app as ta
 
 # Instância o futuro objeto manager  
 test_app = ta()
