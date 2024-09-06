@@ -1,5 +1,0 @@
-2024-09-05 12:22:50,561 - [WARNING] The chromedriver version (127.0.6533.99) detected in PATH at C:\Users\Thiago Santos\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (128.0.6613.114); currently, chromedriver 128.0.6613.119 is recommended for chrome 128.*, so it is advised to delete the driver in PATH and retry
-2024-09-05 12:22:52,412 - [INFO] Chrome WebDriver incializado com sucesso
-2024-09-05 12:22:52,412 - [INFO] Navegando para: https://galmoambientesf24--uat.sandbox.lightning.force.com/
-2024-09-05 12:22:55,375 - [INFO] Inserindo valor no campo com o id: username
-2024-09-05 12:22:55,574 - [INFO] Inserindo valor no campo com o id: password
